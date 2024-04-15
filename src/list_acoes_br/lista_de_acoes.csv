@@ -1,0 +1,997 @@
+#;Símbolo;Nome;acoes;Preço;Dividendo;Faturamento;Receita Líquida;Fluxo de Caixa;Fluxo de Caixa Operacional;Tipo;Data de Fundação;Setor;CEO;Site
+1;A1AP34;Advance Auto Parts;A1AP34.SA;R$ 23,16;0;R$2.5 bi;R$-60.5 mi;R$257.0 mi;R$2.5 bi;B3;1932;;Shane O’Kelly;shop.advanceautoparts.com
+2;A1CR34;Amcor;A1CR34.SA;R$ 45,75;0;R$3.3 bi;R$134.0 mi;R$363.0 mi;R$3.3 bi;B3;1896;;Ron Delia;amcor.com
+3;A1DI34;Analog Devices;A1DI34.SA;R$ 474,24;0;R$2.5 bi;R$462.7 mi;R$1.1 bi;R$2.5 bi;B3;1965;;Vincent Roche;analog.com
+4;A1DM34;Archer Daniels Midland;A1DM34.SA;R$ 313,50;0;R$23.0 bi;R$565.0 mi;R$2.6 bi;R$23.0 bi;B3;1902;;Juan Ricardo Luciano;adm.com
+5;A1EE34;Ameren Corp Bdr;A1EE34.SA;R$ 184,11;0;R$1.6 bi;R$158.0 mi;R$533.0 mi;R$1.6 bi;BDR;1997;;Martin J Lyons;amereninvestors.com
+6;A1EG34;Aegon;A1EG34.SA;R$ 30,15;0;R$3.1 bi;R$11.0 mi;R$-98.5 mi;R$3.1 bi;B3;1844;;Lard Friese;aegon.com
+7;A1EN34;Alliant Energy Corp Bdr;A1EN34.SA;R$ 244,08;0;R$961.0 mi;R$121.0 mi;R$245.0 mi;R$961.0 mi;BDR;1917;;John O. Larsen;alliantenergy.com
+8;A1EP34;American Electric Power;A1EP34.SA;R$ 210,00;0;R$4.6 bi;R$336.2 mi;R$1.3 bi;R$4.6 bi;B3;1906;;;aep.com
+9;A1ES34;AES Corporation;A1ES34.SA;R$ 88,83;0;R$3.0 bi;R$-94.0 mi;R$725.0 mi;R$3.0 bi;B3;1981;;Andres Gluski;aes.com
+10;A1FL34;Aflac Inc Brazilian Depositary Receipt;A1FL34.SA;R$ 431,00;0;R$3.8 bi;R$268.0 mi;R$833.0 mi;R$3.8 bi;B3;1955;;Dan Amos;aflac.com
+11;A1GI34;Agilent Technologies;A1GI34.SA;R$ 328,40;0;R$ 1.7 bi;R$ 348.0 mi;R$ 485.0 mi;R$ 1.7 bi;B3;1999;;Michael R. McMullen;agilent.com
+12;A1GN34;Allegion Plc Bdr;A1GN34.SA;R$ 306,00;0;R$ 897.4 mi;R$ 118.6 mi;R$ 219.5 mi;R$ 897.4 mi;BDR;1908;;;allegion.com
+13;A1IV34;Apartment Investment & Management Co Bdr;A1IV34.SA;R$ 41,60;0;R$ 179.0 mi;R$ -16.2 mi;R$ 7.9 mi;R$ 179.0 mi;BDR;1975;;Wesley W. Powell;aimco.com
+14;A1JG34;Arthur J. Gallagher & Co.;A1JG34.SA;R$ 574,00;0;R$ 2.3 bi;R$ -32.2 mi;R$ 693.6 mi;R$ 2.3 bi;B3;1927;;J. Patrick Gallagher Jr;ajg.com
+15;A1KA34;Akamai Technologies;A1KA34.SA;R$ 45,20;0;R$ 995.0 mi;R$ 161.2 mi;R$ 389.2 mi;R$ 995.0 mi;B3;1998;;F. Thomson Leighton;akamai.com
+16;A1LB34;Albemarle Corp Bdr;A1LB34.SA;R$ 26,15;0;R$ 2.4 bi;R$ -617.7 mi;R$ -98.2 mi;R$ 2.4 bi;BDR;1994;;J Kent Masters;albemarle.com
+17;A1LG34;Align Technology Inc Bdr;A1LG34.SA;R$ 403,21;0;R$ 956.7 mi;R$ 124.0 mi;R$ 46.9 mi;R$ 956.7 mi;BDR;1997;;Joseph M. Hogan;aligntech.com
+18;A1LK34;Alaska Air Group Inc Bdr;A1LK34.SA;R$ 192,28;0;R$ 2.5 bi;R$ -2.0 mi;R$ -53.0 mi;R$ 2.5 bi;BDR;1985;;Ben Minicucci;careers.alaskaair.com
+19;A1LL34;Alliance Data Systems Corp Bdr;A1LL34.SA;R$ 44,08;0;R$ 534.0 mi;R$ 43.0 mi;R$ 617.0 mi;R$ 534.0 mi;BDR;1983;;Ralph Andretta;breadfinancial.com
+20;A1LN34;Alnylam Pharmaceuticals Inc Bdr;A1LN34.SA;R$ 38,52;0;R$ 439.7 mi;R$ -137.9 mi;R$ -29.8 mi;R$ 439.7 mi;BDR;2002;;Yvonne Greenstreet;alnylam.com
+21;A1MD34;Advanced Micro Devices;A1MD34.SA;R$ 104,70;0;R$ 6.2 bi;R$ 667.0 mi;R$ 381.0 mi;R$ 6.2 bi;B3;1969;;Lisa Su;amd.com
+22;A1ME34;AMETEK Inc.;A1ME34.SA;R$ 38,50;0;R$ 1.7 bi;R$ 342.9 mi;R$ 540.7 mi;R$ 1.7 bi;B3;1930;;David A Zapico;ametek.com
+23;A1MP34;Ameriprise Financial Inc Bdr;A1MP34.SA;R$ 529,20;0;R$ 4.2 bi;R$ 377.0 mi;R$ 2.1 bi;R$ 4.2 bi;BDR;1894;;James Cracchiolo;ameriprise.com
+24;A1MT34;Applied Materials Inc Brazilian Depositary Receipt;A1MT34.SA;R$ 106,79;0;R$ 6.7 bi;R$ 2.0 bi;R$ 2.3 bi;R$ 6.7 bi;B3;1967;;Gary E. Dickerson;appliedmaterials.com
+25;A1NE34;Arista Networks Inc Bdr;A1NE34.SA;R$ 348,08;0;R$ 1.5 bi;R$ 613.6 mi;R$ 526.5 mi;R$ 1.5 bi;BDR;2004;;Jayshree Ullal;arista.com
+26;A1NS34;Ansys Inc.;A1NS34.SA;R$ 407,82;0;R$ 805.1 mi;R$ 274.8 mi;R$ 232.7 mi;R$ 805.1 mi;B3;1970;;Ajei Gopal;ansys.com
+27;A1ON34;Aon;A1ON34.SA;R$ 398,40;0;R$ 3.4 bi;R$ 498.0 mi;R$ 1.3 bi;R$ 3.4 bi;B3;1982;;Gregory C. Case;aon.com
+28;A1OS34;Ao Smith Corp Brazilian Depositary Receipt;A1OS34.SA;R$ 351,00;0;R$ 988.1 mi;R$ 137.3 mi;R$ 231.3 mi;R$ 988.1 mi;B3;1874;;;aosmith.com
+29;A1PA34;Apache Corporation;A1PA34.SA;R$ 175,66;0;R$ 1.9 bi;R$ 1.8 bi;R$ 1.0 bi;R$ 1.9 bi;B3;1954;;John J Christmann;apachecorp.com
+30;A1PD34;Air Products;A1PD34.SA;R$ 303,60;0;R$ 3.0 bi;R$ 609.3 mi;R$ 626.6 mi;R$ 3.0 bi;B3;1940;;Seifi Ghasemi;airproducts.com
+31;A1PH34;Amphenol;A1PH34.SA;R$ 290,10;0;R$ 3.3 bi;R$ 514.4 mi;R$ 841.8 mi;R$ 3.3 bi;B3;1932;;Richard Adam Norwitt;amphenol.com
+32;A1RE34;Alexandria Real Estate Equities Inc Bdr;A1RE34.SA;R$ 157,28;0;R$ 757.6 mi;R$ -88.4 mi;R$ 428.6 mi;R$ 757.6 mi;BDR;1994;;Peter M. Moglia;are.com
+33;A1RG34;Argenx Se Bdr;A1RG34.SA;R$ 78,88;0;R$ 417.8 mi;R$ -99.2 mi;0;R$ 417.8 mi;BDR;2008;;;argenx.com
+34;A1SN34;Ascendis Pharma A/S Bdr;A1SN34.SA;R$ 48,42;0;R$ 137.7 mi;R$ -86.9 mi;R$ -42.5 mi;R$ 137.7 mi;BDR;2006;;Jan Møller Mikkelsen;ascendispharma.com
+35;A1SU34;Assurant;A1SU34.SA;R$ 223,52;0;R$ 3.0 bi;R$ 182.5 mi;R$ 362.6 mi;R$ 3.0 bi;B3;1892;;Keith W. Demmings;assurant.com
+36;A1TH34;Autohome Inc Bdr;A1TH34.SA;R$ 13,77;0;R$ 1.9 bi;R$ 471.9 mi;0;R$ 1.9 bi;BDR;2004;;Quan Long;ir.autohome.com.cn
+37;A1TM34;Atmos Energy Corp Bdr;A1TM34.SA;R$ 296,40;0;R$ 1.2 bi;R$ 311.3 mi;R$ 245.3 mi;R$ 1.2 bi;BDR;1906;;Kevin Akers;atmosenergy.com
+38;A1TT34;Allstate;A1TT34.SA;R$ 35,68;0;R$ 14.8 bi;R$ 1.5 bi;R$ 1.2 bi;R$ 14.8 bi;B3;1931;;Thomas J. Wilson;allstate.com
+39;A1UT34;Autodesk;A1UT34.SA;R$ 303,18;0;R$ 1.5 bi;R$ 282.0 mi;R$ 437.0 mi;R$ 1.5 bi;B3;1982;;Andrew Anagnost;autodesk.com
+40;A1VB34;Avalonbay Communities Inc Bdr;A1VB34.SA;R$ 236,40;0;R$ 706.4 mi;R$ 242.0 mi;R$ 346.2 mi;R$ 706.4 mi;BDR;1978;;Benjamin Schall;avalonbay.com
+41;A1VY34;Avery Dennison;A1VY34.SA;R$ 522,88;0;R$ 2.1 bi;R$ 143.1 mi;R$ 311.9 mi;R$ 2.1 bi;B3;1935;;Mitchell R. Butier;averydennison.com
+42;A1WK34;American Water Works Company;A1WK34.SA;R$ 152,40;0;R$ 1.0 bi;R$ 171.0 mi;R$ 527.0 mi;R$ 1.0 bi;B3;1886;;Susan Hardwick;amwater.com
+43;A1YX34;Alteryx;A1YX34.SA;R$ 11,00;0;R$ 351.0 mi;R$ 80.0 mi;R$ 80.0 mi;R$ 351.0 mi;B3;1997;;;alteryx.com
+44;A1ZN34;AstraZeneca;A1ZN34.SA;R$ 58,86;0;R$ 12.0 bi;R$ 960.0 mi;R$ 2.4 bi;R$ 12.0 bi;B3;1999;;Pascal Soriot;astrazeneca.com
+45;AALL34;American Airlines Group;AALL34.SA;R$ 66,99;0;R$ 13.1 bi;R$ 19.0 mi;R$ -1.4 bi;R$ 13.1 bi;B3;2013;;Robert Isom;americanairlines.in/intl/in/index.jsp
+46;AALR3;ALLIANÇA SAÚDE E PARTICIPAÇÕES S.A.;AALR3.SA;R$ 9,78;0;R$ 288.2 mi;R$ -88.4 mi;R$ 1.4 mi;R$ 288.2 mi;B3;1992;;;allianca.com
+47;AAPL34;Apple;AAPL34.SA;R$ 44,90;0;R$ 119.6 bi;R$ 33.9 bi;R$ 39.9 bi;R$ 119.6 bi;B3;1976;;Tim Cook;apple.com
+48;ABBV34;AbbVie;ABBV34.SA;R$ 51,75;0;R$ 14.3 bi;R$ 822.0 mi;R$ 4.8 bi;R$ 14.3 bi;B3;2012;;Richard A. Gonzalez;abbvie.com
+49;ABCB4;ABC Brasil;ABCB4.SA;R$ 23,79;0,05;R$ 475.5 mi;R$ 231.5 mi;R$ -2.4 bi;R$ 475.5 mi;B3;1983;;;abcbrasil.com.br
+50;ABEV3;AMBEV;ABEV3.SA;R$ 12,12;0,05;R$ 20.0 bi;R$ 4.4 bi;R$ 13.9 bi;R$ 20.0 bi;B3;1999;;Jean Jereissati;ambev.com.br
+51;ABTT34;Abbott Laboratories;ABTT34.SA;R$ 47,00;0;R$ 10.2 bi;R$ 1.6 bi;R$ 3.0 bi;R$ 10.2 bi;B3;1888;;Robert B. Ford;abbott.com
+52;ABUD34;Anheuser-Busch InBev;ABUD34.SA;R$ 50,30;0;R$ 14.5 bi;R$ 1.9 bi;0;R$ 14.5 bi;B3;2008;;Michel Doukeris;ab-inbev.be
+53;ACNB34;Accenture;ACNB34.SA;R$ 1.612,00;0;R$ 15.8 bi;R$ 1.7 bi;R$ 2.1 bi;R$ 15.8 bi;B3;1989;;Julie Sweet;accenture.com
+54;ADBE34;Adobe Inc.;ADBE34.SA;R$ 48,55;0;R$ 5.2 bi;R$ 620.0 mi;R$ 1.2 bi;R$ 5.2 bi;B3;1982;;Shantanu Narayen;adobe.com
+55;ADPR34;Automatic Data Processing;ADPR34.SA;R$ 52,35;0;R$ 4.7 bi;R$ 878.4 mi;R$ 1.0 bi;R$ 4.7 bi;B3;1949;;Maria Black;adp.com
+56;AERI3;Aeris Industria E Comercio de Equipamentos para Geracao de Energia SA;AERI3.SA;R$ 0,59;0;R$ 259.9 mi;R$ -36.6 mi;R$ 44.2 mi;R$ 259.9 mi;B3;2010;;;aerisenergy.com.br
+57;AESB3;AES Brasil Energia SA;AESB3.SA;R$ 9,42;0;R$ 973.6 mi;R$ 58.6 mi;R$ 1.0 bi;R$ 973.6 mi;B3;2020;;;ri.aesbrasil.com.br
+58;AFHI11;AF INVEST CRI FUNDO DE INVESTIMENTO IMOBILIÁRIO - RECEBÍVEIS IMOBILIÁRIOS;AFHI11.SA;R$ 97,48;0;0;0;0;0;FII;2021;;;btgpactual.com
+59;AGRO3;BrasilAgro;AGRO3.SA;R$ 24,75;0,12;R$ 151.6 mi;R$ -5.8 mi;R$ -214.3 mi;R$ 151.6 mi;B3;2005;;;brasil-agro.com
+60;AIEC11;Autonomy Edificios Corporativos Fundo DE Investimento Imobiliario;AIEC11.SA;R$ 52,34;0;0;0;0;0;FII;2020;;;autonomyinvestimentos.com.br
+61;AIGB34;American International Group;AIGB34.SA;R$ 376,20;0;R$ 9.9 bi;R$ 93.0 mi;R$ 1.6 bi;R$ 9.9 bi;B3;1919;;Peter Zaffino;aig.com
+62;AIRB34;Airbnb;AIRB34.SA;R$ 40,79;0;R$ 2.2 bi;R$ -349.0 mi;R$ 63.0 mi;R$ 2.2 bi;B3;2008;;Brian Chesky;airbnb.com
+63;ALOS3;Aliansce Sonae Shopping Centers;ALOS3.SA;R$ 22,84;0,04;R$ 810.4 mi;R$ 235.3 mi;R$ 514.2 mi;R$ 810.4 mi;B3;2003;;;allos.co
+64;ALPA4;Alpargatas S/A;ALPA4.SA;R$ 9,25;0;R$ 1.0 bi;R$ -1.6 bi;R$ 268.6 mi;R$ 1.0 bi;B3;1907;;Roberto Funari;alpargatas.com.br
+65;ALUP11;Alupar;ALUP11.SA;R$ 30,09;0;R$ 878.3 mi;R$ 141.2 mi;R$ 611.6 mi;R$ 878.3 mi;B3;2007;;Paulo Roberto de Godoy Pereira;alupar.com.br
+66;ALZR11;Alianza Trust Renda Imobiliaria Fundo Investimento Imobiliario;ALZR11.SA;R$ 117,73;0;0;0;0;0;FII;2011;;;alzr11.alianza.com.br
+67;AMAR3;Lojas Marisa;AMAR3.SA;R$ 1,57;0;R$ 235.2 mi;R$ -94.4 mi;R$ 120.7 mi;R$ 235.2 mi;B3;1948;;João Pinheiro Nogueira Batista;marisa.com.br
+68;AMBP3;AMBIPAR PARTICIPAÇÕES E EMPREENDIMENTOS S.A.;AMBP3.SA;R$ 12,25;0;R$ 1.4 bi;R$ 78.7 mi;R$ 268.8 mi;R$ 1.4 bi;B3;1995;;Leon Tondowski;ambipar.com
+69;AMGN34;Amgen;AMGN34.SA;R$ 48,95;0;R$ 8.2 bi;R$ 767.0 mi;R$ 538.0 mi;R$ 8.2 bi;B3;1980;;Robert A. Bradway;amgen.com
+70;AMZO34;Amazon;AMZO34.SA;R$ 47,73;0;R$ 170.0 bi;R$ 10.6 bi;R$ 42.5 bi;R$ 170.0 bi;B3;1994;;Andy Jassy;aboutamazon.com
+71;ANIM3;Anima Holding SA;ANIM3.SA;R$ 4,17;0;R$ 905.7 mi;R$ -120.4 mi;R$ 23.1 mi;R$ 905.7 mi;B3;2003;;;animaeducacao.com.br
+72;APTV34;Aptiv;APTV34.SA;R$ 194,80;0;R$ 4.9 bi;R$ 905.0 mi;R$ 624.0 mi;R$ 4.9 bi;B3;1994;;Kevin P. Clark;aptiv.com
+73;ARML3;ARMAC LOCAÇÃO. LOGÍSTICA E SERVIÇOS S.A.;ARML3.SA;R$ 11,20;0,02;R$ 399.0 mi;R$ 45.8 mi;R$ -26.3 mi;R$ 399.0 mi;B3;1994;;;armac.com.br
+74;ARMT34;ArcelorMittal;ARMT34.SA;R$ 70,49;0;R$ 14.6 bi;R$ -3.0 bi;R$ 3.3 bi;R$ 14.6 bi;B3;2006;;Aditya Mittal;corporate.arcelormittal.com
+75;ARNC34;Howmet Aerospace Bdr;ARNC34.SA;R$ 336,60;0;R$ 1.7 bi;R$ 236.0 mi;R$ 458.0 mi;R$ 1.7 bi;BDR;1888;;Timothy D. Myers;howmet.com
+76;ARRI11;Fundo DE Investimento Imobiliario Atrio Reit Recebiveis Imobiliarios;ARRI11.SA;R$ 9,17;0;0;0;0;0;FII;2018;;;oliveiratrust.com.br
+77;ARZZ3;AREZZO INDÚSTRIA E COMÉRCIO SA;ARZZ3.SA;R$ 52,66;0,03;R$ 1.4 bi;R$ 121.8 mi;R$ 297.2 mi;R$ 1.4 bi;B3;1972;;;ri.arezzoco.com.br
+78;ASAI3;Sendas Distribuidora SA;ASAI3.SA;R$ 13,98;0;R$ 18.4 bi;R$ 297.0 mi;R$ 2.6 bi;R$ 18.4 bi;B3;1974;;;assai.com.br
+79;ASML34;ASML;ASML34.SA;R$ 89,87;0;R$ 7.2 bi;R$ 2.0 bi;R$ 3.2 bi;R$ 7.2 bi;B3;1984;;Peter Wennink;asml.com
+80;ASMT11;Asa Metropolis Fundo De Investimento Imobiliario;ASMT11.SA;R$ 52,00;0;0;0;0;0;FII;2008;;;
+81;ATTB34;AT&T;ATTB34.SA;R$ 27,83;0;R$ 32.0 bi;R$ 2.2 bi;R$ 11.4 bi;R$ 32.0 bi;B3;1983;;John T. Stankey;att.com
+82;AURE3;Auren Energia;AURE3.SA;R$ 11,91;0,14;R$ 1.7 bi;R$ 107.6 mi;R$ 192.7 mi;R$ 1.7 bi;B3;2022;;;aurenenergia.com.br
+83;AVGO34;Broadcom;AVGO34.SA;R$ 101,00;0;R$ 12.0 bi;R$ 1.3 bi;R$ 4.8 bi;R$ 12.0 bi;B3;1961;;Hock E. Tan;broadcom.com
+84;AWII34;Armstrong World Industries;AWII34.SA;R$ 615,93;0;R$ 312.3 mi;R$ 46.8 mi;R$ 57.1 mi;R$ 312.3 mi;B3;1860;;Victor D. Grizzle;armstrongceilings.com
+85;AXPB34;American Express;AXPB34.SA;R$ 111,44;0;R$ 14.4 bi;R$ 1.9 bi;R$ 6.8 bi;R$ 14.4 bi;B3;1850;;Stephen Squeri;americanexpress.com
+86;AZOI34;AutoZone;AZOI34.SA;R$ 69,24;0;R$ 3.9 bi;R$ 515.0 mi;R$ 434.1 mi;R$ 3.9 bi;B3;1979;;Philip B. Daniele;autozone.com
+87;AZUL4;Azul SA;AZUL4.SA;R$ 11,16;0;R$ 5.0 bi;R$ 403.3 mi;R$ 1.9 bi;R$ 5.0 bi;B3;2008;;John Rodgerson;voeazul.com.br
+88;B1AM34;Brookfield Asset Management;B1AM34.SA;R$ 50,25;0;R$ 24.9 bi;R$ 699.0 mi;R$ 1.5 bi;R$ 24.9 bi;B3;1899;;Bruce Flatt;bn.brookfield.com
+89;B1AX34;Baxter International Inc.;B1AX34.SA;R$ 106,81;0;R$ 3.9 bi;R$ 245.0 mi;R$ 531.0 mi;R$ 3.9 bi;B3;1931;;Jose E. Almeida;baxter.com
+90;B1BT34;Truist Financial;B1BT34.SA;R$ 174,42;0;R$ 5.1 bi;R$ -5.1 bi;R$ 2.4 bi;R$ 5.1 bi;B3;1872;;William H Rogers Jr;truist.com
+91;B1CS34;Barclays Plc Bdr;B1CS34.SA;R$ 48,35;0;0;0;0;0;BDR;1896;;;home.barclays
+92;B1DX34;Becton Dickinson;B1DX34.SA;R$ 241,50;0;R$ 4.7 bi;R$ 281.0 mi;R$ 841.0 mi;R$ 4.7 bi;B3;1897;;Thomas E. Polen;bd.com
+93;B1FC34;Brown-Forman;B1FC34.SA;R$ 274,00;0;R$ 1.1 bi;R$ 285.0 mi;R$ 265.0 mi;R$ 1.1 bi;B3;1870;;Lawson Whiting;brown-forman.com
+94;B1GN34;Beigene Ltd Bdr;B1GN34.SA;R$ 29,72;0;R$ 634.4 mi;R$ -367.6 mi;R$ -221.6 mi;R$ 634.4 mi;BDR;2010;;John V. Oyler;beigene.com.cn
+95;B1IL34;Bilibili Inc;B1IL34.SA;R$ 11,85;0;R$ 6.3 bi;R$ -1.3 bi;0;R$ 6.3 bi;B3;2013;;Rui Chen;ir.bilibili.com
+96;B1KR34;Baker Hughes Co Brazilian Depositary Receipt;B1KR34.SA;R$ 173,23;0;R$ 6.8 bi;R$ 440.0 mi;R$ 932.0 mi;R$ 6.8 bi;B3;2016;;;bakerhughes.com
+97;B1LL34;Ball Corporation;B1LL34.SA;R$ 167,79;0;R$ 3.4 bi;R$ 154.0 mi;R$ 736.0 mi;R$ 3.4 bi;B3;1880;;Daniel W. Fisher;ball.com
+98;B1MR34;Biomarin Pharmaceutical Inc Bdr;B1MR34.SA;R$ 235,55;0;R$ 646.2 mi;R$ 20.4 mi;R$ 27.5 mi;R$ 646.2 mi;BDR;1997;;Jean-Jacques Bienaime;biomarin.com
+99;B1NT34;BioNTech;B1NT34.SA;R$ 27,66;0;R$ 1.5 bi;R$ 457.9 mi;R$ 850.9 mi;R$ 1.5 bi;B3;2008;;Uğur Şahin;biontech.de
+100;B1PP34;BP;B1PP34.SA;R$ 50,60;0;R$ 51.7 bi;R$ 371.0 mi;R$ 9.4 bi;R$ 51.7 bi;B3;1909;;Murray Auchincloss;bp.com
+101;B1RF34;Broadridge Financial Solutions Inc Bdr;B1RF34.SA;R$ 250,75;0;R$ 1.4 bi;R$ 70.3 mi;R$ 189.8 mi;R$ 1.4 bi;BDR;2007;;Tim Gokey;broadridge.com
+102;B1SA34;Banco Santander Chile;B1SA34.SA;R$ 49,80;0;R$ 559.4 bi;R$ 259.9 bi;R$ -15.7 bi;R$ 559.4 bi;B3;1978;;;banco.santander.cl
+103;B1SX34;Boston Scientific;B1SX34.SA;R$ 347,55;0;R$ 3.7 bi;R$ 504.0 mi;R$ 957.0 mi;R$ 3.7 bi;B3;1979;;Michael F. Mahoney;bostonscientific.com
+104;B1TI34;British American Tobacco;B1TI34.SA;R$ 29,37;0;R$ 6.9 bi;R$ -9.2 bi;R$ 3.7 bi;R$ 6.9 bi;B3;1902;;Tadeu Luiz Marroco;bat.com
+105;B1WA34;BorgWarner;B1WA34.SA;R$ 176,76;0;R$ 3.5 bi;R$ 154.0 mi;R$ 953.0 mi;R$ 3.5 bi;B3;1880;;Frédéric Lissalde;borgwarner.com
+106;B2HI34;Bill Holdings Inc Bdr;B2HI34.SA;R$ 1,79;0;R$ 318.5 mi;R$ -40.4 mi;R$ 79.7 mi;R$ 318.5 mi;BDR;2018;;René Lacerte;bill.com
+107;B2MB34;Bumble Inc Bdr;B2MB34.SA;R$ 10,74;0;R$ 273.6 mi;R$ -26.0 mi;R$ 63.4 mi;R$ 273.6 mi;BDR;2014;;Whitney Wolfe Herd;bumble.com
+108;B3SA3;B3 SA - Brasil Bolsa Balcao;B3SA3.SA;R$ 11,71;0,03;R$ 2.2 bi;R$ 915.5 mi;R$ -1.0 bi;R$ 2.2 bi;B3;1890;;Gilson Finkelsztain;b3.com.br
+109;BABA34;Alibaba Group;BABA34.SA;R$ 13,08;0;R$ 260.4 bi;R$ 14.6 bi;R$ 64.7 bi;R$ 260.4 bi;B3;1999;;Eddie Wu;alibabagroup.com
+110;BARI11;Fundo DE Investimento Imobiliario Barigui Rendimentos Imobiliarios I;BARI11.SA;R$ 82,89;0;0;0;0;0;FII;1993;;;bariguiasset.com.br
+111;BBAS3;Banco do Brasil;BBAS3.SA;R$ 56,78;0,06;R$ 26.3 bi;R$ 6.8 bi;R$ -8.0 bi;R$ 26.3 bi;B3;1808;;;bb.com.br
+112;BBDC3;Bradesco;BBDC3.SA;R$ 12,55;0,06;R$ 18.0 bi;R$ 1.4 bi;R$ -116.5 bi;R$ 18.0 bi;B3;1943;;Marcelo de Araujo Noronha;banco.bradesco
+113;BBDC4;Bradesco;BBDC4.SA;R$ 14,08;0,05;R$ 18.0 bi;R$ 1.4 bi;R$ -116.5 bi;R$ 18.0 bi;B3;1943;;Marcelo de Araujo Noronha;banco.bradesco
+114;BBSE3;BB Seguridade;BBSE3.SA;R$ 32,97;0,08;R$ 2.5 bi;R$ 2.1 bi;R$ 1.1 bi;R$ 2.5 bi;B3;2012;;Ullisses Christian Silva Assis;bbseguridaderi.com.br
+115;BBYY34;Best Buy;BBYY34.SA;R$ 396,50;0;R$ 14.7 bi;R$ 460.0 mi;R$ 1.2 bi;R$ 14.7 bi;B3;1966;;Corie Barry;corporate.bestbuy.com
+116;BCFF11;Fundo Invest Imobiliario FII Btg Pactual Fundo Fundos;BCFF11.SA;R$ 9,11;0;0;0;0;0;FII;2010;;;btgpactual.com
+117;BCRI11;Banestes Recebiveis Imobiliarios Fundo Investimento Imobiliario FII;BCRI11.SA;R$ 70,07;0;0;0;0;0;FII;2015;;;
+118;BCSA34;Banco Santander;BCSA34.SA;R$ 24,62;0;R$ 11.1 bi;R$ 2.9 bi;0;R$ 11.1 bi;B3;1857;;Hector Grisi Checa;santander.com
+119;BEEF3;Minerva Foods;BEEF3.SA;R$ 6,41;0,08;R$ 6.2 bi;R$ 27.8 mi;R$ 937.8 mi;R$ 6.2 bi;B3;1924;;Fernando Galletti de Queiroz;ri.minervafoods.com
+120;BERK34;Berkshire Hathaway;BERK34.SA;R$ 103,45;0;R$ 93.4 bi;R$ 37.6 bi;R$ 14.4 bi;R$ 93.4 bi;B3;1839;;Warren Buffett;
+121;BHIA3;Grupo Casas Bahia;BHIA3.SA;R$ 6,86;0;R$ 7.4 bi;R$ -1.0 bi;R$ 964.0 mi;R$ 7.4 bi;B3;2010;;Renato Franklin;grupocasasbahia.com.br
+122;BICE11;Brio Credito Estruturado - Fundo DE Investimento Imobiliario;BICE11.SA;R$ 980,00;0;0;0;0;0;FII;2021;;;brltrust.com.br
+123;BIDU34;Baidu;BIDU34.SA;R$ 35,70;0;R$ 35.0 bi;R$ 2.6 bi;R$ 10.6 bi;R$ 35.0 bi;B3;2000;;Robin Li;ir.baidu.com
+124;BIIB34;Biogen;BIIB34.SA;R$ 175,14;0;R$ 2.4 bi;R$ 249.7 mi;R$ 12.5 mi;R$ 2.4 bi;B3;1978;;Christopher A. Viehbacher;biogen.com
+125;BILB34;Banco Bilbao Vizcaya Argentaria;BILB34.SA;R$ 54,00;0;R$ 6.5 bi;R$ 2.1 bi;R$ 11.1 bi;R$ 6.5 bi;B3;1857;;Onur Genҫ;bbva.com
+126;BIME11;BRIO MULTIESTRATÉGIA - FUNDO DE INVESTIMENTO IMOBILIÁRIO;BIME11.SA;R$ 7,31;0;0;0;0;0;FII;2005;;;brltrust.com.br
+127;BIPD11;Brio Real Estate Iv - Fundo De Investimento Imobiliario;BIPD11.SA;R$ 988,17;0;0;0;0;0;FII;2005;;;brltrust.com.br
+128;BKNG34;The Priceline Group;BKNG34.SA;R$ 103,13;0;R$ 4.8 bi;R$ 222.0 mi;R$ 1.4 bi;R$ 4.8 bi;B3;1996;;Glenn D. Fogel;bookingholdings.com
+129;BLAK34;BlackRock;BLAK34.SA;R$ 59,40;0;R$ 4.7 bi;R$ 1.6 bi;0;R$ 4.7 bi;B3;1988;;Larry Fink;blackrock.com
+130;BLAU3;BLAU FARMACÊUTICA S/A;BLAU3.SA;R$ 11,62;0,02;R$ 387.5 mi;R$ 27.7 mi;R$ -2.0 mi;R$ 387.5 mi;B3;1987;;Marcelo Rodolfo Hahn;blau.com
+131;BLCA11;Bluemacaw Catuai Triple A Fundo DE Investimento Imobiliario;BLCA11.SA;R$ 109,81;0;0;0;0;0;FII;2019;;;bluemacaw.com
+132;BLMC11;Bluemacaw Credito Imobiliario Fundo DE Investimento Imobiliario;BLMC11.SA;R$ 85,75;0;0;0;0;0;FII;2021;Construção;;bluemacaw.com
+133;BMLC11;Fundo de Investimento Imobiliario Rio Bravo de Renda Corporativa;BMLC11.SA;R$ 109,98;0;0;0;0;0;FII;2000;;;fundoimobiliario.com.br
+134;BMOB3;Bemobi Tech SA;BMOB3.SA;R$ 12,90;0,01;R$ 346.9 mi;R$ 41.0 mi;R$ 57.3 mi;R$ 346.9 mi;B3;2007;;;bemobi.com.br
+135;BMYB34;Bristol-Myers Squibb;BMYB34.SA;R$ 264,95;0;R$ 11.5 bi;R$ 1.8 bi;R$ 4.3 bi;R$ 11.5 bi;B3;1887;;Chris Boerner;bms.com
+136;BOAC34;Bank of America;BOAC34.SA;R$ 46,98;0;R$ 20.9 bi;R$ 3.1 bi;R$ 32.7 bi;R$ 20.9 bi;B3;1998;;Brian Moynihan;bankofamerica.com
+137;BOEI34;Boeing;BOEI34.SA;R$ 873,00;0;R$ 22.0 bi;R$ -23.0 mi;R$ 3.4 bi;R$ 22.0 bi;B3;1916;;Dave Calhoun;boeing.com
+138;BONY34;Bank of New York Mellon;BONY34.SA;R$ 277,76;0;R$ 4.2 bi;R$ 205.0 mi;R$ -2.1 bi;R$ 4.2 bi;B3;2007;;Robin Vince;bnymellon.com
+139;BOXP34;Boston Properties Inc Bdr;BOXP34.SA;R$ 30,99;0;R$ 1.1 bi;R$ 119.9 mi;R$ 387.1 mi;R$ 1.1 bi;BDR;1970;;Owen D. Thomas;bxp.com
+140;BPAC11;BTG Pactual;BPAC11.SA;R$ 34,30;0;R$ 8.9 bi;R$ 2.7 bi;R$ -8.2 bi;R$ 8.9 bi;B3;1983;;Roberto Sallouti;btgpactual.com.br
+141;BPAN4;Banco PAN;BPAN4.SA;R$ 9,36;0,01;R$ 2.3 bi;R$ 147.2 mi;R$ 2.0 bi;R$ 2.3 bi;B3;1969;;;bancopan.com.br
+142;BPFF11;Fundo Invest Imobiliario FII Brasil Plural Absoluto Fundo Fundos;BPFF11.SA;R$ 72,00;0;R$ 2.1 mi;R$ -244;R$ 30.4 mi;R$ 2.1 mi;FII;2013;;;brasilplural.com.br
+143;BPML11;Fundo DE Investimento Imobiliario BTG Pactual Shoppings;BPML11.SA;R$ 99,99;0;0;0;0;0;FII;2019;;;btgpactual.com
+144;BPRP11;Fundo DE Investimento Imobiliario FII Brlprop;BPRP11.SA;R$ 106,50;0;0;0;0;0;FII;2018;;;btgpactual.com
+145;BRAP4;Bradespar;BRAP4.SA;R$ 20,63;0,13;0;R$ 524.0 mi;R$ 368.8 mi;0;B3;2000;;Fernando Jorge Buso Gomes;bradespar.com.br
+146;BRBI11;BR Advisory Partners Participacoes SA;BRBI11.SA;R$ 16,11;0;R$ 5.0 bi;R$ 43.1 mi;R$ 64.7 mi;R$ 5.0 bi;B3;2009;;;brpartners.com.br
+147;BRCO11;Bresco - Fundo DE Investimento Imobiliario;BRCO11.SA;R$ 121,50;0;0;0;0;0;FII;2016;;;
+148;BRCR11;Fundo Invest Imobiliario FII Btg Pactual Corporate Office Fund;BRCR11.SA;R$ 55,20;0;R$ 42.6 mi;R$ 11.5 mi;R$ 21.8 mi;R$ 42.6 mi;FII;2007;;;bcfund.com.br/bcfund/web/conteudo_en.asp?idioma=1&conta=44&tipo=47091
+149;BRFS3;BRF;BRFS3.SA;R$ 16,25;0;R$ 14.4 bi;R$ 751.4 mi;R$ 1.7 bi;R$ 14.4 bi;B3;1934;;;brf-global.com
+150;BRIP11;Brio Real Estate III - Fundo DE Investimento Imobiliario;BRIP11.SA;R$ 910,01;0;0;0;0;0;FII;2020;;;brltrust.com.br
+151;BRKM5;Braskem;BRKM5.SA;R$ 23,77;0;R$ 16.7 bi;R$ -1.6 bi;R$ 1.0 bi;R$ 16.7 bi;B3;2002;;Roberto Bischoff;braskem.com.br
+152;BRLA11;Fundo DE Investimento Imobiliário - BRL Prop II;BRLA11.SA;R$ 150,00;0;0;0;0;0;FII;2020;;;btgpactual.com
+153;BROF11;BRPR CORPORATE OFFICES FUNDO DE INVESTIMENTO IMOBILIÁRIO;BROF11.SA;R$ 60,23;0;0;0;0;0;FII;2022;;;brpr.com.br
+154;BRSR6;Banrisul;BRSR6.SA;R$ 13,11;0,02;R$ 1.9 bi;R$ 348.0 mi;R$ -3.4 bi;R$ 1.9 bi;B3;1928;;;banrisul.com.br
+155;BTAL11;Fundo DE Investimento Imobiliário BTG Pactual Agro Logística;BTAL11.SA;R$ 70,14;0;0;0;0;0;FII;2020;;;btgpactual.com
+156;BTLG11;BTG PACTUAL LOGÍSTICA FUNDO DE INVESTIMENTO IMOBILIÁRIO;BTLG11.SA;R$ 106,90;0;R$ 198.2 mi;R$ 117.5 mi;R$ 119.7 mi;R$ 198.2 mi;FII;2008;;;asset.trx.com.br/fundo-de-investimento-imobiliario-fii/trx-realty-logistica-renda-i
+157;BVAR11;Brasil Varejo Fundo de Investimento Imobiliario;BVAR11.SA;R$ 1.552,73;0;0;0;0;0;FII;2000;;;riobravo.com.br
+158;C1AB34;Cable One Inc Bdr;C1AB34.SA;R$ 9,79;0;R$ 411.8 mi;R$ 115.3 mi;R$ 151.7 mi;R$ 411.8 mi;BDR;1986;;Julie Laulis;cableone.biz
+159;C1AG34;Conagra Brands Inc Brazilian Depositary Receipt;C1AG34.SA;R$ 150,15;0;R$ 3.0 bi;R$ 308.6 mi;R$ 676.7 mi;R$ 3.0 bi;B3;1919;;Sean Connolly;conagrabrands.com
+160;C1AH34;Cardinal Health Inc Brazilian Depositary Receipt;C1AH34.SA;R$ 553,84;0;R$ 57.5 bi;R$ 353.0 mi;R$ 1.2 bi;R$ 57.5 bi;B3;1971;;Jason Hollar;cardinalhealth.com
+161;C1BL34;Chubb Ltd Bdr;C1BL34.SA;R$ 324,73;0;R$ 13.1 bi;R$ 3.3 bi;R$ 3.2 bi;R$ 13.1 bi;BDR;1985;;;chubb.com
+162;C1BO34;CBOE Global Markets;C1BO34.SA;R$ 447,58;0;R$ 968.7 mi;R$ 212.0 mi;R$ -189.0 mi;R$ 968.7 mi;B3;1973;;Edward T. Tilly;cboe.com
+163;C1BR34;CBRE Group;C1BR34.SA;R$ 468,65;0;R$ 8.9 bi;R$ 477.1 mi;R$ 853.4 mi;R$ 8.9 bi;B3;1906;;Robert E. Sulentic;cbre.com
+164;C1BS34;Paramount Global;C1BS34.SA;R$ 55,98;0;R$ 7.6 bi;R$ 514.0 mi;R$ 444.0 mi;R$ 7.6 bi;B3;2019;;Robert M. Bakish;paramount.com
+165;C1CI34;Crown Castle International Corp Bdr;C1CI34.SA;R$ 123,50;0;R$ 1.7 bi;R$ 363.0 mi;R$ 868.0 mi;R$ 1.7 bi;BDR;1994;;;crowncastle.com
+166;C1CL34;Carnival Corporation & plc;C1CL34.SA;R$ 73,35;0;R$ 5.4 bi;R$ -214.0 mi;R$ 1.8 bi;R$ 5.4 bi;B3;1972;;;carnivalcorp.com
+167;C1DN34;Cadence Design Systems;C1DN34.SA;R$ 785,26;0;R$ 1.1 bi;R$ 323.9 mi;R$ 272.1 mi;R$ 1.1 bi;B3;1988;;Anirudh Devgan;cadence.com
+168;C1DW34;Cdw Corporation Bdr;C1DW34.SA;R$ 62,94;0;R$ 5.0 bi;R$ 296.1 mi;R$ 536.5 mi;R$ 5.0 bi;BDR;1984;;Christine A Leahy;cdw.com
+169;C1FG34;Citizens Financial Group;C1FG34.SA;R$ 169,66;0;R$ 1.8 bi;R$ 189.0 mi;R$ 670.0 mi;R$ 1.8 bi;B3;1828;;Bruce Van Saun;citizensbank.com
+170;C1FI34;Cf Industries Holdings Inc Brazilian Depositary Receipt;C1FI34.SA;R$ 410,82;0;R$ 1.6 bi;R$ 274.0 mi;R$ 480.0 mi;R$ 1.6 bi;B3;1946;;W Anthony Will;cfindustries.com
+171;C1GP34;Costar Group Inc Bdr;C1GP34.SA;R$ 4,62;0;R$ 640.1 mi;R$ 96.5 mi;R$ 148.5 mi;R$ 640.1 mi;BDR;1987;;Andrew C. Florance;costargroup.com
+172;C1HK34;Check Point;C1HK34.SA;R$ 406,79;0;R$ 629.9 mi;R$ 227.1 mi;R$ 230.7 mi;R$ 629.9 mi;B3;1993;;Gil Shwed;checkpoint.com
+173;C1HR34;C. H. Robinson Worldwide;C1HR34.SA;R$ 18,26;0;R$ 4.2 bi;R$ 31.0 mi;R$ 47.3 mi;R$ 4.2 bi;B3;1905;;Dave Bozeman;chrobinson.com
+174;C1HT34;Chunghwa Telecom;C1HT34.SA;R$ 43,16;0;R$ 61.9 bi;R$ 8.3 bi;R$ 24.7 bi;R$ 61.9 bi;B3;1996;;Chi-Mau Sheih;cht.com.tw
+175;C1IC34;Cigna;C1IC34.SA;R$ 452,65;0;R$ 51.1 bi;R$ 1.0 bi;R$ 1.5 bi;R$ 51.1 bi;B3;1982;;David Cordani;thecignagroup.com
+176;C1MA34;Comerica Inc Bdr;C1MA34.SA;R$ 125,84;0;R$ 770.0 mi;R$ 33.0 mi;R$ 1.1 bi;R$ 770.0 mi;BDR;1849;;;comerica.com
+177;C1MG34;Chipotle Mexican Grill;C1MG34.SA;R$ 758,48;0;R$ 2.5 bi;R$ 282.1 mi;R$ 265.5 mi;R$ 2.5 bi;B3;1993;;Brian Niccol;chipotle.com
+178;C1MI34;Cummins;C1MI34.SA;R$ 369,63;0;R$ 8.5 bi;R$ -1.4 bi;R$ 1.5 bi;R$ 8.5 bi;B3;1919;;Jennifer Rumsey;cummins.com
+179;C1MS34;Cms Energy Corp Bdr;C1MS34.SA;R$ 152,40;0;R$ 1.9 bi;R$ 309.0 mi;R$ 405.0 mi;R$ 1.9 bi;BDR;1886;;Garrick J. Rochow;cmsenergy.com
+180;C1NC34;Centene Corp Brazilian Depositary Receipt;C1NC34.SA;R$ 360,36;0;R$ 35.7 bi;R$ 45.0 mi;R$ 217.0 mi;R$ 35.7 bi;B3;1984;;Sarah M. London;centene.com
+181;C1NP34;CenterPoint Energy;C1NP34.SA;R$ 150,98;0;R$ 2.2 bi;R$ 192.0 mi;R$ 808.0 mi;R$ 2.2 bi;B3;1882;;David J. Lesar;centerpointenergy.com
+182;C1NS34;Celanese;C1NS34.SA;R$ 396,88;0;R$ 2.6 bi;R$ 698.0 mi;R$ 830.0 mi;R$ 2.6 bi;B3;1918;;Lori J. Ryerkerk;celanese.com
+183;C1OG34;Cabot Oil & Gas Corp Brazilian Depositary Receipt;C1OG34.SA;R$ 141,20;0;R$ 1.6 bi;R$ 416.0 mi;R$ 760.0 mi;R$ 1.6 bi;B3;1989;;Thomas E Jorden;coterra.com
+184;C1OO34;Cooper Companies Inc Bdr;C1OO34.SA;R$ 46,80;0;R$ 931.6 mi;R$ 81.2 mi;R$ 122.7 mi;R$ 931.6 mi;BDR;1958;;Albert G. White III;coopercos.com
+185;C1PB34;Campbell Soup Company;C1PB34.SA;R$ 216,26;0;R$ 2.5 bi;R$ 203.0 mi;R$ 510.0 mi;R$ 2.5 bi;B3;1869;;Mark Clouse;campbellsoupcompany.com
+186;C1PR34;Copart;C1PR34.SA;R$ 142,95;0;R$ 1.0 bi;R$ 325.6 mi;R$ 161.8 mi;R$ 1.0 bi;B3;1982;;Jeff Liaw;copart.com
+187;C1RR34;Carrier Corporation;C1RR34.SA;R$ 72,24;0;R$ 5.1 bi;R$ 420.0 mi;R$ 1.1 bi;R$ 5.1 bi;B3;1915;;David Gitlin;corporate.carrier.com
+188;C1TA34;Cintas;C1TA34.SA;R$ 629,38;0;R$ 2.4 bi;R$ 397.6 mi;R$ 657.1 mi;R$ 2.4 bi;B3;1968;;Todd M. Schneider;cintas.com
+189;C1TV34;Corteva Inc Bdr;C1TV34.SA;R$ 69,02;0;R$ 3.7 bi;R$ -253.0 mi;0;R$ 3.7 bi;BDR;2019;;Chuck Magro;corteva.com
+190;C2PT34;Camden Property Trust Bdr;C2PT34.SA;R$ 34,62;0;R$ 389.0 mi;R$ 222.3 mi;R$ 192.0 mi;R$ 389.0 mi;BDR;1981;;;camdenliving.com
+191;CAML3;Camil Alimentos;CAML3.SA;R$ 8,44;0,02;R$ 3.0 bi;R$ 142.9 mi;R$ -478.6 mi;R$ 3.0 bi;B3;1963;;;camil.com.br
+192;CAON34;Capital One Financial Corp.;CAON34.SA;R$ 374,50;0;R$ 6.7 bi;R$ 706.0 mi;R$ 7.1 bi;R$ 6.7 bi;B3;1994;;Richard Fairbank;capitalone.com
+193;CAPH34;Michael Kors Corporation;CAPH34.SA;R$ 221,54;0;R$ 1.4 bi;R$ 105.0 mi;R$ 362.0 mi;R$ 1.4 bi;B3;1981;;John D. Idol;capriholdings.com
+194;CASH3;Meliuz SA;CASH3.SA;R$ 4,44;0;R$ 100.4 mi;R$ -1.6 mi;R$ 10.3 mi;R$ 100.4 mi;B3;2011;;Israel Salmen;meliuz.com.br
+195;CATP34;Caterpillar Inc.;CATP34.SA;R$ 116,45;0;R$ 17.1 bi;R$ 2.7 bi;R$ 4.0 bi;R$ 17.1 bi;B3;1925;;Jim Umpleby;caterpillar.com
+196;CBAV3;Companhia Brasileira de Alumínio;CBAV3.SA;R$ 4,73;0,07;R$ 1.9 bi;R$ -624.6 mi;R$ 588.9 mi;R$ 1.9 bi;B3;1955;;Ricardo Carvalho;cba.com.br
+197;CCME11;Canuma Capital Multiestrategia Fundo De Investimento Imobiliario;CCME11.SA;R$ 11,18;0;0;0;0;0;FII;2015;;;canumacapital.com.br
+198;CCRO3;Grupo CCR;CCRO3.SA;R$ 13,31;0,01;R$ 6.2 bi;R$ 553.8 mi;R$ 2.1 bi;R$ 6.2 bi;B3;1999;;Miguel Nuno Simoes Nunes Ferreira Setas;ccr.com.br
+199;CEAB3;C&A Modas;CEAB3.SA;R$ 11,00;0;R$ 2.3 bi;R$ 168.7 mi;R$ 313.8 mi;R$ 2.3 bi;B3;1841;;;cea.com.br
+200;CHCM34;Charter Communications;CHCM34.SA;R$ 22,22;0;R$ 13.7 bi;R$ 1.1 bi;R$ 3.9 bi;R$ 13.7 bi;B3;1993;;Christopher L. Winfrey;corporate.charter.com
+201;CHDC34;Church & Dwight;CHDC34.SA;R$ 441,18;0;R$ 1.5 bi;R$ 153.7 mi;R$ 235.5 mi;R$ 1.5 bi;B3;1846;;Matthew Farrell;churchdwight.com
+202;CHME34;CME Group;CHME34.SA;R$ 276,06;0;R$ 1.4 bi;R$ 814.6 mi;R$ 1.0 bi;R$ 1.4 bi;B3;1898;;Terrence A. Duffy;cmegroup.com
+203;CHVX34;Chevron;CHVX34.SA;R$ 81,37;0;R$ 45.3 bi;R$ 2.3 bi;R$ 12.4 bi;R$ 45.3 bi;B3;1879;;Michael K. Wirth;chevron.com
+204;CIEL3;Cielo;CIEL3.SA;R$ 5,47;0,06;R$ 2.8 bi;R$ 481.0 mi;R$ -158.5 mi;R$ 2.8 bi;B3;1995;;Estanislau Mendes Llobatera Bassols;cielo.com.br
+205;CINF34;Cincinnati Financial Corp BDR;CINF34.SA;R$ 298,50;0;R$ 3.4 bi;R$ 1.2 bi;R$ 577.0 mi;R$ 3.4 bi;BDR;1950;;Steven J. Johnston;cinfin.com
+206;CLSA3;ClearSale;CLSA3.SA;R$ 6,74;0;R$ 133.6 mi;R$ 5.2 mi;R$ 11.3 mi;R$ 133.6 mi;B3;2000;;;clearsale.com.br
+207;CLXC34;Clorox;CLXC34.SA;R$ 182,70;0;R$ 2.0 bi;R$ 93.0 mi;R$ 153.0 mi;R$ 2.0 bi;B3;1913;;Linda Rendle;thecloroxcompany.com
+208;CMCS34;Comcast;CMCS34.SA;R$ 40,35;0;R$ 31.3 bi;R$ 3.3 bi;R$ 5.9 bi;R$ 31.3 bi;B3;1963;;Brian L. Roberts;corporate.comcast.com
+209;CMIG3;Companhia Energética de Minas Gerais;CMIG3.SA;R$ 14,82;0,08;R$ 10.0 bi;R$ 1.9 bi;R$ 1.9 bi;R$ 10.0 bi;B3;1952;;Reynaldo Passanezi Filho;cemig.com.br
+210;CMIG4;Companhia Energética de Minas Gerais;CMIG4.SA;R$ 12,85;0,09;R$ 10.0 bi;R$ 1.9 bi;R$ 1.9 bi;R$ 10.0 bi;B3;1952;;Reynaldo Passanezi Filho;cemig.com.br
+211;CMIN3;CSN Mineração;CMIN3.SA;R$ 5,10;0,14;R$ 5.5 bi;R$ 1.4 bi;R$ 1.1 bi;R$ 5.5 bi;B3;1941;;;ri.csnmineracao.com.br
+212;CNIC34;Canadian National Railway;CNIC34.SA;R$ 27,42;0;R$ 4.5 bi;R$ 2.1 bi;R$ 2.4 bi;R$ 4.5 bi;B3;1919;;Tracy Robinson;cn.ca
+213;COCA34;The Coca-Cola Company;COCA34.SA;R$ 49,73;0;R$ 10.8 bi;R$ 2.0 bi;R$ 2.7 bi;R$ 10.8 bi;B3;1892;;James Quincey;coca-colacompany.com
+214;COGN3;Cogna Educação;COGN3.SA;R$ 2,25;0;0;0;0;0;B3;1966;;Roberto Valério;ri.cogna.com.br
+215;COLG34;Colgate-Palmolive;COLG34.SA;R$ 63,72;0;R$ 5.0 bi;R$ 718.0 mi;R$ 1.1 bi;R$ 5.0 bi;B3;1806;;;colgatepalmolive.com
+216;COPH34;ConocoPhillips;COPH34.SA;R$ 55,92;0;R$ 15.2 bi;R$ 3.0 bi;R$ 5.3 bi;R$ 15.2 bi;B3;2002;;Ryan Lance;conocophillips.com
+217;COTY34;Coty, Inc.;COTY34.SA;R$ 28,05;0;R$ 1.7 bi;R$ 180.9 mi;R$ 421.9 mi;R$ 1.7 bi;B3;1904;;Sue Nabi;coty.com
+218;COWC34;Costco;COWC34.SA;R$ 93,60;0;R$ 58.4 bi;R$ 1.7 bi;R$ 731.0 mi;R$ 58.4 bi;B3;1983;;Ron Vachris;costco.com
+219;CPFE3;CPFL Energia;CPFE3.SA;R$ 35,12;0,09;R$ 10.5 bi;R$ 1.5 bi;R$ 2.0 bi;R$ 10.5 bi;B3;1912;;Gustavo Estrella;cpfl.com.br
+220;CPFF11;Capitania Reit FOF - Fundo DE Investimento Imobiliario;CPFF11.SA;R$ 76,20;0;0;0;0;0;FII;2019;;;vortx.com.br
+221;CPLE6;Copel;CPLE6.SA;R$ 9,22;0,02;R$ 5.6 bi;R$ 879.0 mi;R$ 1.2 bi;R$ 5.6 bi;B3;1954;;Daniel Pimentel Slaviero;copel.com
+222;CPRL34;Canadian Pacific Kansas City Ltd BDR;CPRL34.SA;R$ 109,72;0;R$ 3.8 bi;R$ 1.0 bi;R$ 1.3 bi;R$ 3.8 bi;BDR;2023;;;cpkcr.com
+223;CPSH11;Shoppings Aaa Fundo De Investimento Imobiliario;CPSH11.SA;R$ 10,80;0;0;0;0;0;FII;2022;;;btgpactual.com
+224;CRDA34;Credit Acceptance Corp BDR;CRDA34.SA;R$ 285,32;0;R$ 249.1 mi;R$ 93.6 mi;R$ 311.2 mi;R$ 249.1 mi;BDR;1972;;Kenneth Booth;creditacceptance.com
+225;CRFB3;Atacadão;CRFB3.SA;R$ 12,07;0,02;R$ 29.6 bi;R$ -565.0 mi;R$ 9.6 bi;R$ 29.6 bi;B3;1962;;Marco Oliveira;atacadao.com.br
+226;CRFF11;CAIXA RIO BRAVO FDO DE FDOS INV IMOB II;CRFF11.SA;R$ 80,40;0;0;0;0;0;FII;1969;;;caixa.gov.br
+227;CRIN34;Carter's, Inc.;CRIN34.SA;R$ 187,30;0;R$ 857.9 mi;R$ 106.5 mi;R$ 323.3 mi;R$ 857.9 mi;B3;1865;;Michael D. Casey;carters.com
+228;CRIP34;Ctrip;CRIP34.SA;R$ 250,90;0;R$ 10.3 bi;R$ 1.3 bi;0;R$ 10.3 bi;B3;1999;;Jane Sun;group.trip.com
+229;CSAN3;Cosan S.A.;CSAN3.SA;R$ 14,88;0,02;R$ 9.6 bi;R$ 2.4 bi;R$ 2.1 bi;R$ 9.6 bi;B3;1936;;Luis Henrique Cals de Beauclair Guimaraes;cosan.com.br
+230;CSCO34;Cisco Systems;CSCO34.SA;R$ 51,10;0;R$ 12.8 bi;R$ 2.6 bi;R$ 808.0 mi;R$ 12.8 bi;B3;1984;;Chuck Robbins;cisco.com
+231;CSMG3;Companhia de Saneamento de Minas Gerais;CSMG3.SA;R$ 21,13;0,15;R$ 2.0 bi;R$ 355.3 mi;R$ 421.2 mi;R$ 2.0 bi;B3;1963;;Guilherme Augusto Duarte de Faria;copasa.com.br
+232;CSNA3;Companhia Siderúrgica Nacional;CSNA3.SA;R$ 14,35;0,16;R$ 12.0 bi;R$ 579.1 mi;R$ 1.6 bi;R$ 12.0 bi;B3;1941;;;csn.com.br
+233;CSXC34;Csx Corp BDR;CSXC34.SA;R$ 90,40;0;R$ 3.7 bi;R$ 886.0 mi;R$ 1.5 bi;R$ 3.7 bi;BDR;1980;;James M. Foote;csx.com
+234;CTGP34;Citigroup;CTGP34.SA;R$ 51,15;0;R$ 18.7 bi;R$ 3.4 bi;0;R$ 18.7 bi;B3;1998;;Jane Fraser;citigroup.com
+235;CTSH34;Cognizant;CTSH34.SA;R$ 368,89;0;R$ 4.8 bi;R$ 558.0 mi;R$ 737.0 mi;R$ 4.8 bi;B3;1994;;Ravi Kumar S;cognizant.com
+236;CURY3;Cury Construtora;CURY3.SA;R$ 20,08;0,06;R$ 811.6 mi;R$ 160.3 mi;R$ 192.3 mi;R$ 811.6 mi;B3;1963;;;cury.net
+237;CVBI11;Fundo DE Investimento Imobiliario - Vbi Cri;CVBI11.SA;R$ 96,27;0;0;0;0;0;FII;2017;;;brltrust.com.br
+238;CVCB3;CVC Brasil;CVCB3.SA;R$ 2,24;0;R$ 492.0 mi;R$ -74.5 mi;R$ 20.4 mi;R$ 492.0 mi;B3;1972;;Leonel Dias de Andrade Neto;cvc.com.br
+239;CVSH34;CVS Caremark;CVSH34.SA;R$ 35,32;0;R$ 93.5 bi;R$ 2.0 bi;R$ -2.6 bi;R$ 93.5 bi;B3;1963;;Karen S. Lynch;cvshealth.com
+240;CXAG11;Fundo De Investimento Imobiliario Caixa Agencias;CXAG11.SA;R$ 79,30;0;0;0;0;0;FII;2020;;;oliveiratrust.com.br
+241;CXCO11;Fundo DE Investimento Imobiliario Caixa Imoveis Corporativos;CXCO11.SA;R$ 82,71;0;0;0;0;0;FII;2020;;;vortx.com.br
+242;CXSE3;Caixa Seguridade;CXSE3.SA;R$ 15,78;0,06;R$ 1.3 bi;R$ 1.0 bi;R$ 472.1 mi;R$ 1.3 bi;B3;2015;;;caixaseguridade.com.br
+243;CYRE3;Cyrela;CYRE3.SA;R$ 23,63;0,02;R$ 1.7 bi;R$ 247.8 mi;R$ -368.7 mi;R$ 1.7 bi;B3;1962;;Raphael Horn;cyrela.com.br
+244;D1DG34;Datadog;D1DG34.SA;R$ 67,27;0;R$ 589.6 mi;R$ 54.0 mi;R$ 220.2 mi;R$ 589.6 mi;B3;2010;;Olivier Pomel;datadoghq.com
+245;D1EL34;Dell Technologies Inc Brazilian Depositary Receipt;D1EL34.SA;R$ 603,00;0;R$ 22.3 bi;R$ 1.2 bi;R$ 1.5 bi;R$ 22.3 bi;B3;1984;;;delltechnologies.com
+246;D1EX34;DexCom, Inc.;D1EX34.SA;R$ 13,92;0;R$ 1.0 bi;R$ 256.3 mi;R$ 133.6 mi;R$ 1.0 bi;B3;1999;;Kevin R. Sayer;dexcom.com
+247;D1FS34;Discover Financial Services;D1FS34.SA;R$ 329,00;0;R$ 2.3 bi;R$ 388.0 mi;R$ 2.9 bi;R$ 2.3 bi;B3;1985;;Michael G. Rhodes;discover.com
+248;D1HI34;D.R. Horton;D1HI34.SA;R$ 771,00;0;R$ 7.7 bi;R$ 947.4 mi;R$ -153.4 mi;R$ 7.7 bi;B3;1978;;David V. Auld;drhorton.com
+249;D1LR34;Digital Realty;D1LR34.SA;R$ 182,80;0;R$ 1.3 bi;R$ 28.3 mi;R$ 462.3 mi;R$ 1.3 bi;B3;2001;;;digitalrealty.com
+250;D1OC34;DocuSign;D1OC34.SA;R$ 15,48;0;R$ 712.4 mi;R$ 27.2 mi;R$ 270.7 mi;R$ 712.4 mi;B3;2003;;Allan C. Thygesen;
+251;D1OM34;Dominion Energy Inc Brazilian Depositary Receipt;D1OM34.SA;R$ 126,36;0;R$ 3.5 bi;R$ 235.0 mi;R$ 1.4 bi;R$ 3.5 bi;B3;1983;;Robert M. Blue;dominionenergy.com
+252;D1OV34;Dover Corporation;D1OV34.SA;R$ 373,16;0;R$ 2.1 bi;R$ 296.3 mi;R$ 516.4 mi;R$ 2.1 bi;B3;1955;;Richard J. Tobin;dovercorporation.com
+253;D1OW34;Dow Inc Bdr;D1OW34.SA;R$ 74,62;0;R$ 10.6 bi;R$ -105.0 mi;R$ 1.7 bi;R$ 10.6 bi;BDR;2019;;Jim Fitterling;dow.com
+254;D1RI34;Darden Restaurants Inc Bdr;D1RI34.SA;R$ 200,59;0;R$ 3.0 bi;R$ 312.9 mi;0;R$ 3.0 bi;BDR;1968;;Ricardo Cardenas;darden.com
+255;D1TE34;DTE Energy Company;D1TE34.SA;R$ 141,12;0;R$ 3.4 bi;R$ 419.0 mi;R$ 845.0 mi;R$ 3.4 bi;B3;1996;;Gerardo Norcia;dteenergy.com
+256;D1VN34;Devon Energy;D1VN34.SA;R$ 276,48;0;R$ 3.6 bi;R$ 1.1 bi;R$ 1.7 bi;R$ 3.6 bi;B3;1971;;Rick Muncrief;devonenergy.com
+257;D1XC34;DXC Technology;D1XC34.SA;R$ 102,80;0;R$ 3.4 bi;R$ 156.0 mi;R$ 706.0 mi;R$ 3.4 bi;B3;2017;;Mike Salvino;dxc.technology
+258;D2AS34;DoorDash;D2AS34.SA;R$ 47,15;0;R$ 2.3 bi;R$ -154.0 mi;R$ 485.0 mi;R$ 2.3 bi;B3;2013;;Tony Xu;doordash.com
+259;D2PZ34;Domino's Pizza;D2PZ34.SA;R$ 51,00;0;R$ 1.4 bi;R$ 157.3 mi;R$ 168.7 mi;R$ 1.4 bi;B3;1960;;Russell J. Weiner;ir.dominos.com
+260;DAMT11B;Diamante Fundo Investimento Imobiliario;DAMT11B.SA;R$ 11,40;0;0;0;0;0;FII;2017;;;btgpactual.com
+261;DASA3;DASA;DASA3.SA;R$ 4,89;0;0;0;0;0;B3;1961;;;dasa3.com.br
+262;DBAG34;Deutsche Bank;DBAG34.SA;R$ 79,68;0;R$ 6.2 bi;R$ 1.4 bi;0;R$ 6.2 bi;B3;1870;;Christian Sewing;db.com
+263;DDNB34;DuPont;DDNB34.SA;R$ 387,27;0;R$ 2.9 bi;R$ -22.0 mi;R$ 549.0 mi;R$ 2.9 bi;B3;2017;;Edward D. Breen;dupont.com
+264;DEAI34;Delta Air Lines;DEAI34.SA;R$ 239,21;0;R$ 13.8 bi;R$ 37.0 mi;R$ 2.4 bi;R$ 13.8 bi;B3;1928;;Ed Bastian;delta.com
+265;DEEC34;Deere & Company;DEEC34.SA;R$ 67,90;0;R$ 12.2 bi;R$ 1.8 bi;R$ -908.0 mi;R$ 12.2 bi;B3;1837;;John C. May;deere.com
+266;DEOP34;Diageo;DEOP34.SA;R$ 39,00;0;R$ 5.5 bi;R$ 1.1 bi;R$ 1.1 bi;R$ 5.5 bi;B3;1997;;Debra Crew;diageo.com
+267;DEVA11;Devant Recebiveis Imobiliarios Fundo DE Investimento Imobiliario;DEVA11.SA;R$ 44,86;0;0;0;0;0;FII;2020;;;devantasset.com.br
+268;DGCO34;Dollar General;DGCO34.SA;R$ 31,47;0;R$ 9.9 bi;R$ 401.8 mi;R$ 949.8 mi;R$ 9.9 bi;B3;1939;;Todd J Vasos;dollargeneral.com
+269;DHER34;Danaher Corporation;DHER34.SA;R$ 43,84;0;R$ 6.4 bi;R$ 1.1 bi;0;R$ 6.4 bi;B3;1969;;Rainer M. Blair;danaher.com
+270;DIRR3;Direcional Engenharia SA;DIRR3.SA;R$ 23,61;0,01;R$ 634.8 mi;R$ 99.6 mi;R$ -167.3 mi;R$ 634.8 mi;B3;1981;;;direcional.com.br
+271;DISB34;The Walt Disney Company;DISB34.SA;R$ 38,70;0;R$ 23.6 bi;R$ 1.9 bi;R$ 2.2 bi;R$ 23.6 bi;B3;1923;;Bob Iger;thewaltdisneycompany.com
+272;DLTR34;Dollar Tree;DLTR34.SA;R$ 332,31;0;R$ 8.6 bi;R$ -1.7 bi;R$ 1.3 bi;R$ 8.6 bi;B3;1986;;Richard W. Dreiling;dollartree.com
+273;DPRO11;Devant Properties Fundo De Investimento Imobiliario;DPRO11.SA;R$ 7,53;0;0;0;0;0;FII;2021;;;devantasset.com.br
+274;DUKB34;Duke Energy;DUKB34.SA;R$ 487,54;0;R$ 6.8 bi;R$ 1.0 bi;R$ 2.6 bi;R$ 6.8 bi;B3;1904;;Lynn Good;duke-energy.com
+275;DVAI34;DaVita;DVAI34.SA;R$ 673,20;0;R$ 3.1 bi;R$ 150.7 mi;R$ 485.2 mi;R$ 3.1 bi;B3;1994;;Javier J. Rodriguez;davita.com
+276;DVFF11;Fundo DE Investimento Imobiliario-Devant Fundo DE Fundos Imobiliarios;DVFF11.SA;R$ 7,86;0;0;0;0;0;FII;2016;;;devantasset.com.br
+277;DXCO3;Dexco;DXCO3.SA;R$ 7,28;0,02;R$ 1.9 bi;R$ 186.9 mi;R$ 610.5 mi;R$ 1.9 bi;B3;1961;;Antonio Joaquim de Oliveira;dex.co
+278;E1CL34;Ecolab;E1CL34.SA;R$ 286,81;0;R$ 3.9 bi;R$ 405.2 mi;R$ 852.5 mi;R$ 3.9 bi;B3;1923;;Christophe Beck;ecolab.com
+279;E1CO34;Ecopetrol;E1CO34.SA;R$ 30,12;0;R$ 34.79;R$ 4.23;R$ 10.4;R$ 34.79;B3;1951;;Felipe Bayón;ecopetrol.com.co
+280;E1DI34;Consolidated Edison;E1DI34.SA;R$ 224,62;0;R$ 3.4 bi;R$ 334.0 mi;R$ 975.0 mi;R$ 3.4 bi;B3;1823;;Timothy P. Cawley;conedison.com
+281;E1DU34;New Oriental Ed Tech Group Inc Bdr;E1DU34.SA;R$ 29,97;0;R$ 869.6 mi;R$ 30.1 mi;R$ 300.6 mi;R$ 869.6 mi;BDR;1993;;;investor.neworiental.org
+282;E1IX34;Edison International;E1IX34.SA;R$ 174,08;0;R$ 3.7 bi;R$ 378.0 mi;R$ 855.0 mi;R$ 3.7 bi;B3;1886;;Pedro J. Pizarro;edison.com
+283;E1MN34;Eastman Chemical Company;E1MN34.SA;R$ 249,75;0;R$ 2.2 bi;R$ 310.0 mi;R$ 452.0 mi;R$ 2.2 bi;B3;1920;;Mark J. Costa;eastman.com
+284;E1MR34;Emerson Electric Co.;E1MR34.SA;R$ 578,75;0;R$ 4.1 bi;R$ 142.0 mi;R$ 415.0 mi;R$ 4.1 bi;B3;1890;;Lal Karsanbhai;emerson.com
+285;E1OG34;Eog Resources Inc Brazilian Depositary Receipt;E1OG34.SA;R$ 359,80;0;R$ 6.1 bi;R$ 2.0 bi;R$ 3.1 bi;R$ 6.1 bi;B3;1999;;Ezra Y. Yacob;eogresources.com
+286;E1QN34;Statoil;E1QN34.SA;R$ 72,45;0;R$ 28.8 bi;R$ 2.6 bi;R$ 2.7 bi;R$ 28.8 bi;B3;1972;;Anders Opedal;equinor.com
+287;E1QR34;Equity Residential Bdr;E1QR34.SA;R$ 160,00;0;R$ 727.5 mi;R$ 311.7 mi;R$ 344.3 mi;R$ 727.5 mi;BDR;1969;;Mark J. Parrell;equityapartments.com
+288;E1RI34;Ericsson;E1RI34.SA;R$ 12,54;0;R$ 71.9 bi;R$ 3.4 bi;R$ 14.5 bi;R$ 71.9 bi;B3;1876;;Börje Ekholm;ericsson.com
+289;E1SE34;Eversource Energy Bdr;E1SE34.SA;R$ 149,40;0;R$ 2.7 bi;R$ -1.3 bi;R$ 477.0 mi;R$ 2.7 bi;BDR;1966;;Joseph R. Nolan, Jr.;eversource.com
+290;E1SS34;Essex Property Trust Inc Bdr;E1SS34.SA;R$ 121,92;0;R$ 398.8 mi;R$ 65.4 mi;R$ 203.7 mi;R$ 398.8 mi;BDR;1971;;Angela L. Kleiman;essexapartmenthomes.com
+291;E1TN34;Eaton Corporation;E1TN34.SA;R$ 116,80;0;R$ 6.0 bi;R$ 945.0 mi;R$ 1.3 bi;R$ 6.0 bi;B3;1911;;Craig Arnold;eaton.com
+292;E1TR34;Entergy Corp Bdr;E1TR34.SA;R$ 245,75;0;R$ 2.7 bi;R$ 987.6 mi;R$ 1.1 bi;R$ 2.7 bi;BDR;1913;;Andrew S. Marsh;entergy.com
+293;E1VE34;Everest Group Ltd Bdr;E1VE34.SA;R$ 464,00;0;R$ 3.7 bi;R$ 804.0 mi;R$ 1.0 bi;R$ 3.7 bi;BDR;1973;;Juan C. Andrade;everestglobal.com
+294;E1VR34;Evergy Inc Bdr;E1VR34.SA;R$ 129,90;0;R$ 1.2 bi;R$ 58.0 mi;R$ 428.5 mi;R$ 1.2 bi;BDR;2018;;David Campbell;investors.evergy.com
+295;E1WL34;Edwards Lifesciences Corp Bdr;E1WL34.SA;R$ 115,32;0;R$ 1.5 bi;R$ 369.9 mi;R$ 136.6 mi;R$ 1.5 bi;BDR;1958;;;edwards.com
+296;E1XP34;Expeditors International;E1XP34.SA;R$ 301,00;0;R$ 2.3 bi;R$ 158.7 mi;R$ 158.3 mi;R$ 2.3 bi;B3;1979;;Jeffrey S Musser;expeditors.com
+297;E1XR34;Extra Space Storage;E1XR34.SA;R$ 185,82;0;R$ 814.0 mi;R$ 216.1 mi;R$ 364.5 mi;R$ 814.0 mi;B3;1977;;Joseph D. Margolis;extraspace.com
+298;E2EF34;Euronet Worldwide Inc.;E2EF34.SA;R$ 3,53;0;R$ 957.7 mi;R$ 69.3 mi;R$ 135.7 mi;R$ 957.7 mi;B3;1994;;Michael J. Brown;euronetworldwide.com
+299;E2ST34;Elastic NV Bdr;E2ST34.SA;R$ 41,25;0;R$ 328.0 mi;R$ 176.1 mi;R$ 52.4 mi;R$ 328.0 mi;BDR;2012;;Ash Kulkarni;elastic.co
+300;E2TS34;Etsy, Inc.;E2TS34.SA;R$ 22,23;0;R$ 842.3 mi;R$ 83.3 mi;R$ 295.1 mi;R$ 842.3 mi;B3;2005;;Josh Silverman;etsy.com
+301;EAIN34;Electronic Arts;EAIN34.SA;R$ 327,74;0;R$ 1.9 bi;R$ 290.0 mi;R$ 1.3 bi;R$ 1.9 bi;B3;1982;;Andrew Wilson;ea.com
+302;EBAY34;eBay;EBAY34.SA;R$ 133,32;0;R$ 2.6 bi;R$ 724.0 mi;R$ 122.0 mi;R$ 2.6 bi;B3;1995;;Jamie Iannone;ebayinc.com
+303;ECOR3;EcoRodovias;ECOR3.SA;R$ 7,64;0;R$ 2.7 bi;R$ 117.7 mi;R$ 1.1 bi;R$ 2.7 bi;B3;2003;;;ecorodovias.com.br
+304;EGIE3;Engie Brasil;EGIE3.SA;R$ 40,82;0,05;R$ 2.7 bi;R$ 947.9 mi;R$ 1.2 bi;R$ 2.7 bi;B3;1998;;Eduardo Antonio Gori Sattamini;engie.com.br
+305;EGYR11;ENERGY RESORT FDO. INVEST. IMOB.;EGYR11.SA;R$ 4,50;0;0;0;0;0;FII;2020;;;
+306;ELCI34;Estée Lauder Companies;ELCI34.SA;R$ 29,58;0;R$ 4.3 bi;R$ 313.0 mi;R$ 1.4 bi;R$ 4.3 bi;B3;1946;;Fabrizio Freda;elcompanies.com
+307;ELET3;Eletrobras;ELET3.SA;R$ 40,75;0,04;R$ 9.9 bi;R$ 892.0 mi;R$ 1.6 bi;R$ 9.9 bi;B3;1962;;Ivan Monteiro;eletrobras.com
+308;ELET6;Eletrobras;ELET6.SA;R$ 44,08;0,04;R$ 9.9 bi;R$ 892.0 mi;R$ 1.6 bi;R$ 9.9 bi;B3;1962;;Ivan Monteiro;eletrobras.com
+309;EMBR3;Embraer;EMBR3.SA;R$ 31,76;0;R$ 9.7 bi;R$ 943.6 mi;R$ 3.9 bi;R$ 9.7 bi;B3;1969;;Francisco Gomes Neto;embraer.com
+310;ENAT3;Enauta Participacoes SA;ENAT3.SA;R$ 27,55;0;R$ 426.7 mi;R$ 67.5 mi;R$ -48.4 mi;R$ 426.7 mi;B3;2010;;Décio Oddone;enauta.com.br
+311;ENEV3;Eneva;ENEV3.SA;R$ 12,53;0;R$ 2.7 bi;R$ -290.6 mi;R$ 833.9 mi;R$ 2.7 bi;B3;2001;;Pedro Zinner;eneva.com.br
+312;ENGI11;Grupo Energisa;ENGI11.SA;R$ 46,85;0;R$ 8.1 bi;R$ 516.5 mi;R$ 2.3 bi;R$ 8.1 bi;B3;1905;;Ricardo Perez Botelho;energisa.com.br
+313;EQIR11;EQI Recebiveis Imobiliarios Fundo DE Investimento Imobiliario;EQIR11.SA;R$ 9,12;0;0;0;0;0;FII;2021;;;btgpactual.com
+314;EQIX34;Equinix;EQIX34.SA;R$ 48,78;0;R$ 2.0 bi;R$ 227.6 mi;R$ 998.7 mi;R$ 2.0 bi;B3;1998;;Charles J. Meyers;equinix.com
+315;EQTL3;Equatorial Energia;EQTL3.SA;R$ 31,64;0,01;R$ 11.3 bi;R$ 674.2 mi;R$ 671.2 mi;R$ 11.3 bi;B3;1999;;Tinn Freire Amado;equatorialenergia.com.br
+316;ERPA11;EUROPA 105 - FDO INV IMOB;ERPA11.SA;R$ 134,90;0;0;0;0;0;FII;2019;;;oliveiratrust.com.br
+317;ESPA3;MPM Corporeos SA;ESPA3.SA;R$ 0,96;0;R$ 268.5 mi;R$ -19.1 mi;R$ 4.7 mi;R$ 268.5 mi;B3;2004;;;ri.espacolaser.com.br
+318;EVBI11;Vbi Consumo Essencial Fundo DE Investimento Imobiliãrio;EVBI11.SA;R$ 98,88;0;0;0;0;0;FII;2019;;;evbi11.com.br
+319;EVEN3;Even;EVEN3.SA;R$ 7,60;0,06;R$ 938.5 mi;R$ 57.2 mi;R$ -117.1 mi;R$ 938.5 mi;B3;2002;;Leandro Melnick;even.com.br
+320;EXES11;EXES FUNDO DE INVESTIMENTO IMOBILIÁRIO;EXES11.SA;R$ 9,73;0;0;0;0;0;FII;2021;;;btgpactual.com
+321;EXGR34;Expedia Group;EXGR34.SA;R$ 333,64;0;R$ 2.9 bi;R$ 132.0 mi;R$ -238.0 mi;R$ 2.9 bi;B3;1996;;Peter M Kern;expediagroup.com
+322;EXXO34;ExxonMobil;EXXO34.SA;R$ 76,55;0;R$ 82.7 bi;R$ 7.6 bi;R$ 13.7 bi;R$ 82.7 bi;B3;1999;;Darren Woods;corporate.exxonmobil.com
+323;EZTC3;EZ TEC Empreendimentos e Participacoes SA;EZTC3.SA;R$ 14,40;0,03;R$ 294.8 mi;R$ 61.0 mi;R$ -37.0 mi;R$ 294.8 mi;B3;1979;;;eztec.com.br
+324;F1AN34;Diamondback Energy Inc Bdr;F1AN34.SA;R$ 522,08;0;R$ 2.1 bi;R$ 960.0 mi;R$ 1.6 bi;R$ 2.1 bi;BDR;2007;;;diamondbackenergy.com
+325;F1BH34;Fortune Brands Innovations Bdr;F1BH34.SA;R$ 331,84;0;R$ 1.2 bi;R$ 81.3 mi;R$ 220.2 mi;R$ 1.2 bi;BDR;2011;;Nicholas Fink;fbin.com
+326;F1EC34;Firstenergy Corp Brazilian Depositary Receipt;F1EC34.SA;R$ 191,14;0;R$ 3.0 bi;R$ 175.0 mi;R$ 958.0 mi;R$ 3.0 bi;B3;1997;;Brian X. Tierney;firstenergycorp.com
+327;F1FI34;F5;F1FI34.SA;R$ 228,70;0;R$ 692.6 mi;R$ 138.4 mi;R$ 165.3 mi;R$ 692.6 mi;B3;1996;;François Locoh-Donou;f5.com
+328;F1IS34;Fiserv;F1IS34.SA;R$ 373,06;0;R$ 4.9 bi;R$ 870.0 mi;R$ 1.6 bi;R$ 4.9 bi;B3;1984;;Frank Bisignano;fiserv.com
+329;F1LS34;Flowserve;F1LS34.SA;R$ 201,00;0;R$ 1.2 bi;R$ 62.6 mi;R$ 194.6 mi;R$ 1.2 bi;B3;1997;;R. Scott Rowe;flowserve.com
+330;F1MC34;FMC Corporation;F1MC34.SA;R$ 145,44;0;R$ 7.1 bi;R$ 487.4 mi;R$ 316.8 mi;R$ 7.1 bi;B3;1883;;Mark A. Douglas;shopmyexchange.com
+331;F1NI34;Fidelity National Information Services;F1NI34.SA;R$ 22,66;0;R$ 2.5 bi;R$ 251.0 mi;R$ 1.5 bi;R$ 2.5 bi;B3;1968;;Stephanie Ferris;fisglobal.com
+332;F1RA34;Franklin Templeton Investments;F1RA34.SA;R$ 130,00;0;R$ 2.0 bi;R$ 251.3 mi;R$ -251.9 mi;R$ 2.0 bi;B3;1947;;Jenny Johnson;franklinresources.com
+333;F1SL34;Fastly Inc Bdr;F1SL34.SA;R$ 6,94;0;R$ 137.8 mi;R$ -23.4 mi;R$ -7.4 mi;R$ 137.8 mi;BDR;2011;;Todd Nightingale;fastly.com
+334;F1TN34;Fortinet;F1TN34.SA;R$ 169,49;0;R$ 1.4 bi;R$ 310.9 mi;R$ 191.7 mi;R$ 1.4 bi;B3;2000;;Ken Xie;fortinet.com
+335;F1TV34;Fortive;F1TV34.SA;R$ 210,42;0;R$ 1.6 bi;R$ 265.2 mi;R$ 446.8 mi;R$ 1.6 bi;B3;2016;;James A Lico;fortive.com
+336;F2NV34;Franco-Nevada Corp Bdr;F2NV34.SA;R$ 3,37;0;R$ 302.7 mi;R$ -982.5 mi;R$ 283.5 mi;R$ 302.7 mi;BDR;1986;;;franco-nevada.com
+337;F2VR34;Fiverr;F2VR34.SA;R$ 4,84;0;R$ 91.5 mi;R$ 4.7 mi;R$ 27.6 mi;R$ 91.5 mi;B3;2010;;Micha Kaufman;
+338;FAMB11B;Fundo Invest Imobiliario Edificio Almirante Barroso;FAMB11B.SA;R$ 664,00;0;0;0;0;0;FII;2003;;;btgpactual.com
+339;FASL34;Fastenal;FASL34.SA;R$ 361,19;0;R$ 1.9 bi;R$ 297.7 mi;R$ 335.6 mi;R$ 1.9 bi;B3;1967;;Daniel L. Florness;fastenal.com
+340;FATN11;Fundo De Investimento Imobiliario Athena I;FATN11.SA;R$ 96,05;0;0;0;0;0;FII;2020;;;brcapitaldtvm.com.br
+341;FCXO34;Freeport-McMoRan;FCXO34.SA;R$ 85,00;0;R$ 5.9 bi;R$ 388.0 mi;R$ 1.3 bi;R$ 5.9 bi;B3;1987;;Richard Adkerson;fcx.com
+342;FDMO34;Ford Motor Company;FDMO34.SA;R$ 64,12;0;R$ 46.0 bi;R$ -526.0 mi;R$ 2.5 bi;R$ 46.0 bi;B3;1903;;Jim Farley;ford.com
+343;FDXB34;FedEx;FDXB34.SA;R$ 1.366,20;0;R$ 21.7 bi;R$ 879.0 mi;R$ 1.6 bi;R$ 21.7 bi;B3;1971;;Raj Subramaniam;fedex.com
+344;FESA4;Ferbasa;FESA4.SA;R$ 8,54;0,06;R$ 541.7 mi;R$ 55.0 mi;R$ 43.6 mi;R$ 541.7 mi;B3;1961;;Silvano de Souza Andrade;ferbasa.com.br
+345;FFTD34;Fifth Third Bancorp BDR;FFTD34.SA;R$ 167,99;0;R$ 2.1 bi;R$ 530.0 mi;R$ 2.1 bi;R$ 2.1 bi;BDR;1858;;;53.com
+346;FHER3;Fertilizantes Heringer;FHER3.SA;R$ 5,46;0;R$ 1.4 bi;R$ -31.5 mi;R$ 35.6 mi;R$ 1.4 bi;B3;1968;;Lieven Cooreman;heringer.com.br
+347;FIGS11;Fundo Invest Imobiliario General Shopping Ativo Renda FII;FIGS11.SA;R$ 58,82;0;R$ 10.6 mi;R$ 23.6 mi;R$ 9.2 mi;R$ 10.6 mi;FII;2013;;;hedgeinvest.com.br
+348;FIIP11B;RB Capital Renda I Fundo de Investimento Imobiliario- FII;FIIP11B.SA;R$ 180,91;0;R$ 17.6 mi;R$ 31.0 mi;R$ 15.8 mi;R$ 17.6 mi;FII;2007;;;oliveiratrust.com.br
+349;FLCR11;Faria Lima Capital Recebiveis Imobiliarios I FII;FLCR11.SA;R$ 98,87;0;0;0;0;0;FII;2019;;;
+350;FLFL11;Fl4440 Fundo De Investimento Imobiliario;FLFL11.SA;R$ 100,00;0;0;0;0;0;FII;2023;;;
+351;FLRY3;Fleury SA;FLRY3.SA;R$ 14,72;0,03;R$ 1.7 bi;R$ 81.3 mi;R$ 423.9 mi;R$ 1.7 bi;B3;1926;;;ri.fleury.com.br
+352;FLTC34;Fleetcor Technologies Inc BDR;FLTC34.SA;R$ 271,45;0;R$ 937.3 mi;R$ 255.9 mi;R$ 1.2 bi;R$ 937.3 mi;BDR;2000;;Ronald V. Clarke;fleetcor.com
+353;FMSC34;Fresenius Medical Care;FMSC34.SA;R$ 95,50;0;R$ 5.0 bi;R$ 187.9 mi;R$ 719.1 mi;R$ 5.0 bi;B3;1996;;Helen Giza;freseniusmedicalcare.com
+354;FMXB34;Fomento Economico Mexicano SAB de CV Bdr;FMXB34.SA;R$ 607,80;0;R$ 163.6 bi;R$ 1.7 bi;R$ 7.5 bi;R$ 163.6 bi;BDR;1890;;;femsa.com
+355;FOXC34;Fox Corporation;FOXC34.SA;R$ 156,45;0;R$ 4.2 bi;R$ 109.0 mi;R$ -536.0 mi;R$ 4.2 bi;B3;2019;;Lachlan Murdoch;foxcorporation.com
+356;FPAB11;FI Imobiliario Projeto Agua Branca - Un;FPAB11.SA;R$ 200,00;0;R$ 17.7 mi;R$ -17.9 mi;R$ 11.8 mi;R$ 17.7 mi;FII;1998;;;
+357;FPNG11;Pedra Negra Renda Imobiliaria Fundo de Investimento Imobiliario;FPNG11.SA;R$ 85,07;0;0;0;0;0;FII;2012;;;brcapitaldtvm.com.br
+358;FRAS3;Fras-le SA;FRAS3.SA;R$ 17,63;0,03;R$ 741.3 mi;R$ 87.6 mi;R$ 346.0 mi;R$ 741.3 mi;B3;1954;;;ir.fras-le.com.br
+359;FSLR34;First Solar;FSLR34.SA;R$ 465,17;0;R$ 1.2 bi;R$ 349.2 mi;R$ 561.1 mi;R$ 1.2 bi;B3;1999;;Mark R Widmar;firstsolar.com
+360;G1AR34;Gartner Group;G1AR34.SA;R$ 595,90;0;R$ 1.6 bi;R$ 208.6 mi;R$ 224.3 mi;R$ 1.6 bi;B3;1979;;Eugene A. Hall;gartner.com
+361;G1DS34;Gds Holdings Ltd Bdr;G1DS34.SA;R$ 3,16;0;R$ 2.6 bi;R$ -3.2 bi;R$ 949.4 mi;R$ 2.6 bi;BDR;2001;;William Wei Huang;gds-services.com
+362;G1FI34;Gold Fields Ltd Bdr;G1FI34.SA;R$ 47,45;0;0;0;0;0;BDR;1998;;;goldfields.com
+363;G1LL34;Globe Life Inc Bdr;G1LL34.SA;R$ 15,04;0;R$ 1.4 bi;R$ 274.8 mi;R$ 391.4 mi;R$ 1.4 bi;BDR;1900;;Frank M Svoboda;investors.globelifeinsurance.com
+364;G1LP34;Galapagos Nv Bdr;G1LP34.SA;R$ 7,75;0;0;0;0;0;BDR;1999;;Paul Stoffels;glpg.com
+365;G1LW34;Corning Inc.;G1LW34.SA;R$ 160,80;0;R$ 3.0 bi;R$ -40.0 mi;R$ 713.0 mi;R$ 3.0 bi;B3;1851;;Wendell Weeks;corning.com
+366;G1MI34;General Mills;G1MI34.SA;R$ 343,06;0;R$ 5.1 bi;R$ 670.1 mi;R$ 943.1 mi;R$ 5.1 bi;B3;1928;;Jeff Harmening;generalmills.com
+367;G1PC34;Genuine Parts Company;G1PC34.SA;R$ 369,26;0;R$ 5.6 bi;R$ 316.9 mi;R$ 353.2 mi;R$ 5.6 bi;B3;1925;;Paul D. Donahue;genpt.com
+368;G1PI34;Global Payments Inc.;G1PI34.SA;R$ 161,12;0;R$ 2.4 bi;R$ 361.3 mi;R$ 657.5 mi;R$ 2.4 bi;B3;1967;;Cameron M. Bready;globalpayments.com
+369;G1RM34;Garmin;G1RM34.SA;R$ 371,48;0;R$ 1.5 bi;R$ 542.1 mi;R$ 465.9 mi;R$ 1.5 bi;B3;1989;;Cliff Pemble;garmin.com
+370;G1SK34;GlaxoSmithKline;G1SK34.SA;R$ 41,52;0;R$ 8.1 bi;R$ 350.0 mi;R$ 3.2 bi;R$ 8.1 bi;B3;2000;;Emma Walmsley;gsk.com
+371;G1WW34;W.W. Grainger;G1WW34.SA;R$ 123,82;0;R$ 4.0 bi;R$ 395.0 mi;R$ 604.0 mi;R$ 4.0 bi;B3;1927;;Donald G. Macpherson;grainger.com
+372;G2DD34;GoDaddy;G2DD34.SA;R$ 60,42;0;R$ 1.1 bi;R$ 1.1 bi;R$ 297.7 mi;R$ 1.1 bi;B3;1997;;Aman Bhutani;godaddy.com
+373;GCRA11;Galapagos Recebiveis Imobiliarios Fundo DE Investimento Imobiliario;GCRA11.SA;R$ 66,50;0;0;0;0;0;FII;2020;;;
+374;GCRI11;Galapagos Recebiveis Imobiliarios Fundo DE Investimento Imobiliario;GCRI11.SA;R$ 86,04;0;0;0;0;0;FII;2020;;;
+375;GDBR34;General Dynamics;GDBR34.SA;R$ 1.477,52;0;R$ 11.7 bi;R$ 1.0 bi;R$ 1.2 bi;R$ 11.7 bi;B3;1952;;Phebe Novakovic;gd.com
+376;GEOO34;General Electric;GEOO34.SA;R$ 799,48;0;R$ 19.4 bi;R$ 1.6 bi;R$ 3.1 bi;R$ 19.4 bi;B3;1892;;H. Lawrence Culp Jr.;geaerospace.com
+377;GFSA3;Gafisa;GFSA3.SA;R$ 5,93;0;0;0;0;0;B3;1954;;Sheyla Castro Resende;gafisa.com.br
+378;GGBR4;Gerdau;GGBR4.SA;R$ 22,31;0,06;R$ 14.7 bi;R$ 578.0 mi;R$ 3.6 bi;R$ 14.7 bi;B3;1901;;Gustavo Werneck da Cunha;www2.gerdau.com
+379;GGPS3;GPS Participações e Empreendimentos S.A.;GGPS3.SA;R$ 19,74;0,01;R$ 2.9 bi;R$ 252.0 mi;R$ -91.0 mi;R$ 2.9 bi;B3;1962;;Luis Carlos Martinez Romero;gpssa.com.br
+380;GGRC11;Ggr Covipe Renda Fundo Investimento Imobiliario;GGRC11.SA;R$ 11,44;0;0;0;0;0;FII;1998;;;cmcapitalmarkets.com.br
+381;GILD34;Gilead Sciences;GILD34.SA;R$ 173,84;0;R$ 7.1 bi;R$ 1.4 bi;R$ 2.2 bi;R$ 7.1 bi;B3;1987;;Daniel O'Day;gilead.com
+382;GMAT3;Grupo Mateus;GMAT3.SA;R$ 7,98;0;R$ 7.5 bi;R$ 384.9 mi;R$ 587.3 mi;R$ 7.5 bi;B3;1986;;;grupomateus.com.br
+383;GMCO34;General Motors;GMCO34.SA;R$ 54,82;0;R$ 43.0 bi;R$ 2.1 bi;R$ 3.7 bi;R$ 43.0 bi;B3;1908;;Mary Barra;gm.com
+384;GOAU4;Metalúrgica Gerdau;GOAU4.SA;R$ 10,51;0,15;R$ 14.7 bi;R$ 209.7 mi;R$ 4.3 bi;R$ 14.7 bi;B3;1901;;;gerdau.com/br/pt
+385;GOGL34;Alphabet Inc.;GOGL34.SA;R$ 67,55;0;R$ 86.3 bi;R$ 20.7 bi;R$ 18.9 bi;R$ 86.3 bi;B3;2015;;Sundar Pichai;abc.xyz
+386;GOGL35;Alphabet Inc.;GOGL35.SA;R$ 67,96;0;R$ 86.3 bi;R$ 20.7 bi;R$ 18.9 bi;R$ 86.3 bi;B3;2015;;Sundar Pichai;abc.xyz
+387;GOLL4;Gol Linhas Aéreas Inteligentes S.A.;GOLL4.SA;R$ 1,49;0;R$ 5.0 bi;R$ -1.1 bi;R$ 143.9 mi;R$ 5.0 bi;B3;2001;;Celso Ferrer;voegol.com.br
+388;GPRK34;Geopark Ltd BDR;GPRK34.SA;R$ 51,20;0;R$ 199.7 mi;R$ 26.3 mi;R$ 110.6 mi;R$ 199.7 mi;BDR;2002;;;geo-park.com
+389;GPRO34;GoPro;GPRO34.SA;R$ 9,46;0;R$ 295.4 mi;R$ -2.4 mi;R$ 43.7 mi;R$ 295.4 mi;B3;2002;;Nick Woodman;gopro.com
+390;GPSI34;Gap;GPSI34.SA;R$ 115,44;0;R$ 4.3 bi;R$ 185.0 mi;R$ 700.0 mi;R$ 4.3 bi;B3;1969;;Richard Dickson;gapinc.com
+391;GRND3;Grendene;GRND3.SA;R$ 6,22;0,03;R$ 760.8 mi;R$ 243.0 mi;R$ 167.9 mi;R$ 760.8 mi;B3;1971;;Rudimar Dall'Onder;grendene.com.br
+392;GSGI34;Goldman Sachs;GSGI34.SA;R$ 66,48;0;R$ 10.7 bi;R$ 2.0 bi;R$ -28.4 bi;R$ 10.7 bi;B3;1869;;David Solomon;goldmansachs.com
+393;GUAR3;Guararapes Confeccoes S.A.;GUAR3.SA;R$ 7,63;0;R$ 2.7 bi;R$ 229.8 mi;R$ 757.0 mi;R$ 2.7 bi;B3;1947;;;ri.riachuelo.com.br
+394;GZIT11;Gazit Malls Fundo De Investimento Imobiliario;GZIT11.SA;R$ 67,06;0;0;0;0;0;FII;2018;;;
+395;H1AS34;Hasbro;H1AS34.SA;R$ 142,50;0;R$ 1.3 bi;R$ -1.1 bi;R$ 390.7 mi;R$ 1.3 bi;B3;1923;;Chris Cocks;shop.hasbro.com/en-in
+396;H1BA34;Huntington Bancshares;H1BA34.SA;R$ 68,74;0;R$ 1.6 bi;R$ 243.0 mi;R$ 898.0 mi;R$ 1.6 bi;B3;1866;;Stephen D Steinour;huntington.com
+397;H1BI34;Hanesbrands;H1BI34.SA;R$ 25,74;0;R$ 1.3 bi;R$ 77.9 mi;R$ 274.4 mi;R$ 1.3 bi;B3;1901;;Stephen B. Bratspies;hanes.com
+398;H1CA34;Hospital Corporation of America;H1CA34.SA;R$ 82,32;0;R$ 17.3 bi;R$ 1.6 bi;R$ 2.7 bi;R$ 17.3 bi;B3;1968;;Samuel N. Hazen;hcahealthcare.com
+399;H1DB34;HDFC Bank Ltd.;H1DB34.SA;R$ 58,22;0;R$ 671.7 bi;R$ 172.6 bi;0;R$ 671.7 bi;B3;1994;;Sashidhar Jagdishan;hdfcbank.com
+400;H1EI34;Heico Corporation Bdr;H1EI34.SA;R$ 98,90;0;R$ 896.4 mi;R$ 114.7 mi;R$ 111.7 mi;R$ 896.4 mi;BDR;1957;;;heico.com
+401;H1ES34;Hess Corporation;H1ES34.SA;R$ 316,19;0;R$ 3.0 bi;R$ 413.0 mi;R$ 1.3 bi;R$ 3.0 bi;B3;1933;;John B. Hess;hess.com
+402;H1FC34;Hf Sinclair Corporation Bdr;H1FC34.SA;R$ 306,28;0;0;0;0;0;BDR;2022;;;hfsinclair.com
+403;H1IG34;Hartford Financial Services Group Inc Bdr;H1IG34.SA;R$ 474,05;0;R$ 6.4 bi;R$ 771.0 mi;R$ 1.6 bi;R$ 6.4 bi;BDR;1810;;Christopher J. Swift;thehartford.com
+404;H1II34;Huntington Ingalls Industries;H1II34.SA;R$ 18,62;0;R$ 3.2 bi;R$ 274.0 mi;R$ 562.0 mi;R$ 3.2 bi;B3;2011;;Christopher D. Kastner;hii.com
+405;H1LT34;Hilton Worldwide;H1LT34.SA;R$ 44,12;0;R$ 1.1 bi;R$ 147.0 mi;R$ 465.0 mi;R$ 1.1 bi;B3;1919;;Christopher J. Nassetta;hilton.com
+406;H1OG34;Harley-Davidson;H1OG34.SA;R$ 217,35;0;R$ 1.1 bi;R$ 25.8 mi;R$ 48.1 mi;R$ 1.1 bi;B3;1903;;Jochen Zeitz;harley-davidson.com
+407;H1OL34;Hologic;H1OL34.SA;R$ 366,30;0;R$ 1.0 bi;R$ 246.5 mi;R$ 220.0 mi;R$ 1.0 bi;B3;1985;;Stephen P. MacMillan;hologic.com
+408;H1PE34;Hewlett Packard Enterprise;H1PE34.SA;R$ 89,73;0;R$ 6.8 bi;R$ 387.0 mi;R$ 64.0 mi;R$ 6.8 bi;B3;1939;;Antonio Neri;hpe.com
+409;H1RB34;H&R Block;H1RB34.SA;R$ 245,76;0;R$ 179.1 mi;R$ -189.8 mi;R$ -607.2 mi;R$ 179.1 mi;B3;1955;;Jeff Jones;hrblock.com
+410;H1RL34;Hormel;H1RL34.SA;R$ 175,86;0;R$ 3.0 bi;R$ 218.9 mi;R$ 404.0 mi;R$ 3.0 bi;B3;1891;;Jim Snee;hormelfoods.com
+411;H1SB34;HSBC;H1SB34.SA;R$ 52,15;0;R$ 5.7 bi;R$ -28.0 mi;0;R$ 5.7 bi;B3;1865;;Noel Quinn;hsbc.com
+412;H1SI34;Henry Schein;H1SI34.SA;R$ 180,72;0;R$ 3.0 bi;R$ 18.0 mi;R$ -32.0 mi;R$ 3.0 bi;B3;1932;;Stanley M. Bergman;henryschein.com
+413;H1ST34;Host Hotels & Resorts;H1ST34.SA;R$ 102,00;0;R$ 1.3 bi;R$ 132.0 mi;R$ 307.0 mi;R$ 1.3 bi;B3;1993;;James F Risoleo;hosthotels.com
+414;H1TH34;HUAZHU Hotels Group;H1TH34.SA;R$ 43,74;0;R$ 5.6 bi;R$ 743.0 mi;R$ 2.4 bi;R$ 5.6 bi;B3;2005;;Hui Jin;ir.hworld.com
+415;H1UM34;Humana Inc.;H1UM34.SA;R$ 35,44;0;R$ 26.5 bi;R$ -541.0 mi;R$ -7.1 bi;R$ 26.5 bi;B3;1961;;Bruce D. Broussard;humana.com
+416;H2UB34;HubSpot;H2UB34.SA;R$ 68,09;0;R$ 581.9 mi;R$ -13.6 mi;R$ 104.3 mi;R$ 581.9 mi;B3;2006;;Yamini Rangan;
+417;HAAA11;Hedge Aaa Fundo DE Investimento Imobiliário;HAAA11.SA;R$ 42,26;0;0;0;0;0;FII;2020;;;hedgeinvest.com.br
+418;HALI34;Halliburton;HALI34.SA;R$ 204,61;0;R$ 5.7 bi;R$ 661.0 mi;R$ 1.4 bi;R$ 5.7 bi;B3;1919;;Jeff Miller;halliburton.com
+419;HAPV3;Hapvida Participacoes E Investimentos SA;HAPV3.SA;R$ 3,88;0;R$ 6.9 bi;R$ -30.1 mi;R$ 525.2 mi;R$ 6.9 bi;B3;1979;;;ri.hapvida.com.br
+420;HBCR11;Fundo De Investimento Imobiliário Hbc Renda Urbana;HBCR11.SA;R$ 120,00;0;0;0;0;0;FII;2020;;;
+421;HBRH11;Fundo DE Investimento Imobiliario Multi Renda Urbana;HBRH11.SA;R$ 93,50;0;0;0;0;0;FII;2020;;;
+422;HBSA3;Hidrovias DO Brasil SA;HBSA3.SA;R$ 4,09;0;R$ 361.8 mi;R$ -191.6 mi;R$ 127.4 mi;R$ 361.8 mi;B3;2010;;;hbsa.com.br
+423;HCTR11;Fundo DE Investimento Imobiliario Hectare CE;HCTR11.SA;R$ 33,41;0;0;0;0;0;FII;2018;;;hectarecapital.com
+424;HDOF11;Hedge Paladin Design Offices Fundo De Investimento Imobiliário;HDOF11.SA;R$ 115,00;0;0;0;0;0;FII;2021;;;hedgeinvest.com.br
+425;HFOF11;Hedge Top Fofii 3 Fundo Investimento Imobiliario;HFOF11.SA;R$ 77,78;0;0;0;0;0;FII;2003;;;hedgeinvest.com.br
+426;HGBS11;Hedge Brasil Shopping Fundo DE Investimento Imobiliario;HGBS11.SA;R$ 229,48;0;R$ 208.9 mi;R$ 289.1 mi;0;R$ 208.9 mi;FII;2006;;;cshg.com.br/site/publico/imob/imob2.seam
+427;HGIC11;Hgi Creditos Imobiliarios Fundo DE Investimento;HGIC11.SA;R$ 100,51;0;0;0;0;0;FII;2020;;;btgpactual.com
+428;HGLG11;CSHG LOGÍSTICA FDO INV IMOB - FII;HGLG11.SA;R$ 167,50;0;0;0;0;0;FII;2010;;;
+429;HGPO11;CSHG Prime Offices FII;HGPO11.SA;R$ 311,47;0;0;0;0;0;FII;2010;;;cshg.com.br
+430;HLOG11;Hedge Logistica Fundo Investimento Imobiliario;HLOG11.SA;R$ 83,22;0;0;0;0;0;FII;2017;;;hedgeinvest.com.br
+431;HOFC11;Hedge Office Income Fundo De Investimento Imobiliario;HOFC11.SA;R$ 33,00;0;0;0;0;0;FII;2019;;;hedgeinvest.com.br
+432;HOME34;The Home Depot;HOME34.SA;R$ 63,00;0;R$ 34.8 bi;R$ 2.8 bi;R$ 4.7 bi;R$ 34.8 bi;B3;1978;;Ted Decker;homedepot.com
+433;HONB34;Honeywell;HONB34.SA;R$ 1.000,27;0;R$ 9.4 bi;R$ 1.3 bi;R$ 3.0 bi;R$ 9.4 bi;B3;1906;;Vimal Kapur;honeywell.com
+434;HOND34;Honda;HOND34.SA;R$ 187,38;0;R$ 5.39;R$ 253.3 bi;R$ 41.8 bi;R$ 5.39;B3;1948;;Toshihiro Mibe;honda.co.jp
+435;HOSI11;Fundo DE Investimento Imobiliario Housi;HOSI11.SA;R$ 90,48;0;0;0;0;0;FII;2019;;;vortx.com.br
+436;HPQB34;Hewlett-Packard;HPQB34.SA;R$ 146,00;0;R$ 13.2 bi;R$ 622.0 mi;R$ 121.0 mi;R$ 13.2 bi;B3;1939;;Enrique Lores;hp.com
+437;HREC11;Hedge Recebiveis Fundo DE Investimento Imobiliario;HREC11.SA;R$ 8,70;0;0;0;0;0;FII;2019;;;hedgeinvest.com.br
+438;HSAF11;Hsi Ativos Financeiros Fundos Investimentos Imoliarios;HSAF11.SA;R$ 89,19;0,11;0;0;0;0;FII;2020;;;hsaf.hsifii.com
+439;HSHY34;Hershey's;HSHY34.SA;R$ 190,00;0;R$ 2.7 bi;R$ 349.0 mi;R$ 757.6 mi;R$ 2.7 bi;B3;1894;;Michele Buck;amplifysnackbrands.com
+440;HSLG11;Hsi Logistica Fundo De Investimento Imobiliario;HSLG11.SA;R$ 95,79;0;0;0;0;0;FII;2019;;;brltrust.com.br
+441;HSML11;Hsi Malls Fundo DE Investimento Imobiliario;HSML11.SA;R$ 97,92;0;0;0;0;0;FII;2006;;;hsinvest.com
+442;HUCG11;Fundo De Investimento Imobiliario Hospital Unimed Campina Grande;HUCG11.SA;R$ 90,00;0;0;0;0;0;FII;2020;;;coinvalores.com.br
+443;HUSC11;Fundo Investimento Imobiliario Hospital Unimed SUL Capixaba;HUSC11.SA;R$ 115,59;0;0;0;0;0;FII;2017;;;riobravo.com.br
+444;HUSI11;Husi Fundo DE Investimento Imobiliario;HUSI11.SA;R$ 1.195,00;0;0;0;0;0;FII;2018;;;
+445;HYPE3;Hypera Pharma;HYPE3.SA;R$ 30,05;0,03;R$ 1.9 bi;R$ 307.1 mi;R$ 792.0 mi;R$ 1.9 bi;B3;2001;;Breno Toledo Pires de Oliveira;hyperapharma.com.br
+446;I1AC34;IAC;I1AC34.SA;R$ 13,59;0;R$ 1.1 bi;R$ 327.8 mi;R$ 46.9 mi;R$ 1.1 bi;B3;1995;;Joey Levin;iac.com
+447;I1BN34;ICICI Bank;I1BN34.SA;R$ 133,61;0;R$ 390.5 bi;R$ 110.5 bi;0;R$ 390.5 bi;B3;1994;;Sandeep Bakhshi;icicibank.com
+448;I1CE34;IntercontinentalExchange;I1CE34.SA;R$ 351,75;0;R$ 2.2 bi;R$ 373.0 mi;R$ 969.0 mi;R$ 2.2 bi;B3;2000;;Jeffrey C. Sprecher;ice.com
+449;I1DX34;Idexx Laboratories;I1DX34.SA;R$ 511,00;0;R$ 901.6 mi;R$ 194.5 mi;R$ 249.8 mi;R$ 901.6 mi;B3;1983;;Jay Mazelsky;idexx.com
+450;I1EX34;IDEX Corporation;I1EX34.SA;R$ 60,30;0;R$ 788.9 mi;R$ 108.6 mi;R$ 201.0 mi;R$ 788.9 mi;B3;1987;;Eric D. Ashleman;idexcorp.com
+451;I1FF34;International Flavors & Fragrances;I1FF34.SA;R$ 217,80;0;R$ 2.7 bi;R$ -2.6 bi;R$ 644.0 mi;R$ 2.7 bi;B3;1958;;Frank Clyburn;iff.com
+452;I1FO34;Infosys;I1FO34.SA;R$ 45,50;0;R$ 4.7 bi;R$ 733.0 mi;R$ 707.0 mi;R$ 4.7 bi;B3;1981;;Salil Parekh;infosys.com
+453;I1HG34;InterContinental Hotels Group;I1HG34.SA;R$ 75,46;0;R$ 192.0 mi;R$ 145.5 mi;R$ 289.0 mi;R$ 192.0 mi;B3;2003;;;ihg.com
+454;I1LM34;Illumina;I1LM34.SA;R$ 129,41;0;R$ 1.1 bi;R$ -175.0 mi;R$ 224.0 mi;R$ 1.1 bi;B3;1998;;Jacob Thaysen;illumina.com
+455;I1NC34;Incyte Corp Bdr;I1NC34.SA;R$ 144,90;0;R$ 1.0 bi;R$ 201.1 mi;R$ 147.7 mi;R$ 1.0 bi;BDR;2002;;Hervé Hoppenot;incyte.com
+456;I1PC34;International Paper;I1PC34.SA;R$ 190,07;0;R$ 4.6 bi;R$ -284.0 mi;R$ 492.0 mi;R$ 4.6 bi;B3;1898;;Mark S. Sutton;internationalpaper.com
+457;I1PG34;Ipg Photonics Corp Bdr;I1PG34.SA;R$ 242,50;0;R$ 298.9 mi;R$ 41.4 mi;R$ 106.1 mi;R$ 298.9 mi;BDR;1990;;Eugene Scherbakov;ipgphotonics.com
+458;I1PH34;The Interpublic Group of Companies, Inc.;I1PH34.SA;R$ 158,14;0;R$ 4.1 bi;R$ 463.2 mi;R$ 894.8 mi;R$ 4.1 bi;B3;1930;;Philippe Krakowsky;interpublic.com
+459;I1QV34;Iqvia Holdings Inc Bdr;I1QV34.SA;R$ 315,89;0;R$ 3.9 bi;R$ 469.0 mi;R$ 747.0 mi;R$ 3.9 bi;BDR;2016;;;iqvia.com
+460;I1QY34;Iqiyi Inc Bdr;I1QY34.SA;R$ 10,46;0;R$ 7.7 bi;R$ 466.2 mi;R$ 633.6 mi;R$ 7.7 bi;BDR;2007;;Gong Yu;iqiyi.com
+461;I1RM34;Iron Mountain Incorporated;I1RM34.SA;R$ 391,40;0;R$ 1.4 bi;R$ 28.5 mi;R$ 447.2 mi;R$ 1.4 bi;B3;1951;;William Meaney;ironmountain.com
+462;I1RP34;Ingersoll Rand;I1RP34.SA;R$ 702,10;0;R$ 4.4 bi;R$ 504.3 mi;R$ 934.8 mi;R$ 4.4 bi;B3;1871;;Dave Regnery;tranetechnologies.com
+463;I1SR34;Intuitive Surgical;I1SR34.SA;R$ 99,60;0;R$ 1.9 bi;R$ 606.2 mi;R$ 228.3 mi;R$ 1.9 bi;B3;1995;;Gary S Guthart;intuitive.com
+464;I1TW34;Illinois Tool Works;I1TW34.SA;R$ 323,20;0;R$ 4.0 bi;R$ 717.0 mi;R$ 1.0 bi;R$ 4.0 bi;B3;1912;;Ernest Scott Santi;itw.com
+465;I1VZ34;Invesco Ltd.;I1VZ34.SA;R$ 79,84;0;R$ 1.4 bi;R$ -683.1 mi;R$ 714.3 mi;R$ 1.4 bi;B3;1978;;;invesco.com
+466;I1XC34;Orix;I1XC34.SA;R$ 66,46;0;R$ 678.1 bi;R$ 91.1 bi;R$ 335.6 bi;R$ 678.1 bi;B3;1964;;Makoto Inoue;orix.co.jp
+467;IBCR11;FDO DE INV IMOBILIÁRIO DE CRI INTEGRAL BREI;IBCR11.SA;R$ 78,63;0;0;0;0;0;FII;2021;;;integralbrei.com.br/en
+468;IBMB34;IBM;IBMB34.SA;R$ 935,00;0;R$ 17.4 bi;R$ 3.3 bi;R$ 4.5 bi;R$ 17.4 bi;B3;1911;;Arvind Krishna;ibm.com
+469;IDGR11;Fundo De Investimento Imobiliario De Unidades Autonomas II;IDGR11.SA;R$ 12,94;0;0;0;0;0;FII;2021;;;
+470;IFCM3;Infracommerce;IFCM3.SA;R$ 0,78;0;R$ 268.5 mi;R$ -110.2 mi;R$ 130.4 mi;R$ 268.5 mi;B3;2012;;Kai Schoppen;ri.infracommerce.com.br
+471;IGTI11;Iguatemi;IGTI11.SA;R$ 22,26;0;R$ 289.7 mi;R$ 119.8 mi;R$ 161.9 mi;R$ 289.7 mi;B3;1946;;;iguatemi.com.br
+472;INBR32;Inter;INBR32.SA;R$ 27,94;0;R$ 928.5 mi;R$ 150.9 mi;R$ -2.0 bi;R$ 928.5 mi;B3;1994;;;ri.bancointer.com.br
+473;INTB3;Intelbras;INTB3.SA;R$ 18,40;0,03;R$ 1.2 bi;R$ 184.3 mi;R$ 246.8 mi;R$ 1.2 bi;B3;1976;;Altair Silvestri;intelbras.com.br
+474;INTU34;Intuit;INTU34.SA;R$ 72,29;0;R$ 3.4 bi;R$ 353.0 mi;R$ 613.0 mi;R$ 3.4 bi;B3;1983;;Sasan K. Goodarzi;intuit.com
+475;IRBR3;IRB (Re);IRBR3.SA;R$ 40,14;0;R$ -605.3 mi;R$ -200.2 mi;R$ 1.5 bi;R$ -605.3 mi;B3;1939;;;irbre.com
+476;IRDM11;Fundo Investimento Imobiliario Iridium Recebiveis Imobiliarios;IRDM11.SA;R$ 77,85;0;0;0;0;0;FII;2017;;;iridiumgestao.com.br
+477;IRIM11;Iridium Fundo De Investimento Imobiliario;IRIM11.SA;R$ 78,39;0;0;0;0;0;FII;2017;;;iridiumgestao.com.br
+478;ITLC34;Intel;ITLC34.SA;R$ 31,50;0;R$ 15.4 bi;R$ 2.7 bi;R$ 4.6 bi;R$ 15.4 bi;B3;1968;;Pat Gelsinger;intel.com
+479;ITSA4;Itaúsa;ITSA4.SA;R$ 9,90;0,04;R$ 1.9 bi;R$ 3.0 bi;R$ 249.0 mi;R$ 1.9 bi;B3;1966;;Alfredo Egydio Setubal;itausa.com.br
+480;ITUB3;Itaú Unibanco;ITUB3.SA;R$ 28,35;0,01;R$ 32.0 bi;R$ 8.8 bi;R$ -33.7 bi;R$ 32.0 bi;B3;2008;;Milton Maluhy Filho;itau.com.br
+481;ITUB4;Itaú Unibanco;ITUB4.SA;R$ 32,86;0,01;R$ 32.0 bi;R$ 8.8 bi;R$ -33.7 bi;R$ 32.0 bi;B3;2008;;Milton Maluhy Filho;itau.com.br
+482;J1BH34;Jb Hunt Transport Services Inc Bdr;J1BH34.SA;R$ 27,87;0;R$ 3.3 bi;R$ 153.5 mi;R$ 215.0 mi;R$ 3.3 bi;BDR;1961;;John N. Roberts III;jbhunt.com
+483;J1CI34;Johnson Controls International;J1CI34.SA;R$ 321,01;0;R$ 6.1 bi;R$ 374.0 mi;R$ -246.0 mi;R$ 6.1 bi;B3;1885;;;johnsoncontrols.com
+484;J1EF34;Jefferies Financial Group Inc Bdr;J1EF34.SA;R$ 192,00;0;R$ 1.7 bi;R$ 163.8 mi;R$ -1.3 bi;R$ 1.7 bi;BDR;1979;;Richard B. Handler;jefferies.com
+485;J1EG34;Jacobs Engineering Group;J1EG34.SA;R$ 366,30;0;R$ 4.2 bi;R$ 171.6 mi;R$ 418.4 mi;R$ 4.2 bi;B3;1947;;Bob Pragada;jacobs.com
+486;J1KH34;Jack Henry & Associates Inc Bdr;J1KH34.SA;R$ 201,70;0;R$ 545.7 mi;R$ 92.0 mi;R$ 81.5 mi;R$ 545.7 mi;BDR;1976;;David B. Foss;jackhenry.com
+487;J1NP34;Juniper Networks;J1NP34.SA;R$ 188,95;0;R$ 1.4 bi;R$ 124.3 mi;R$ 9.1 mi;R$ 1.4 bi;B3;1996;;Rami Rahim;juniper.net
+488;J1WN34;Nordstrom;J1WN34.SA;R$ 100,70;0;R$ 4.4 bi;R$ 134.0 mi;R$ 514.0 mi;R$ 4.4 bi;B3;1901;;Erik B. Nordstrom;press.nordstrom.com
+489;JALL3;Jalles;JALL3.SA;R$ 7,32;0,06;R$ 495.9 mi;R$ 75.8 mi;R$ 201.2 mi;R$ 495.9 mi;B3;1980;;;jallesmachado.com
+490;JASC11;Jasc Renda Varejo Essencial Fundo De Investimento Imobiliario - Fii;JASC11.SA;R$ 100,00;0;0;0;0;0;FII;2021;;;brltrust.com.br
+491;JBFO11;Jbfo Fof Fundo De Investimento Imobiliário;JBFO11.SA;R$ 82,01;0;0;0;0;0;FII;2020;;;bemdtvm.com.br
+492;JBSS3;JBS;JBSS3.SA;R$ 22,10;0,08;R$ 96.3 bi;R$ 82.6 mi;R$ 6.9 bi;R$ 96.3 bi;B3;1953;;Gilberto Tomazoni;jbs.com.br
+493;JDCO34;Jd.Com Inc Bdr;JDCO34.SA;R$ 21,89;0;R$ 306.1 bi;R$ 3.4 bi;R$ 19.6 bi;R$ 306.1 bi;BDR;1998;;Lei Xu;corporate.jd.com
+494;JFLL11;JFL LIVING REAL ESTATE INVESTMENT FUND;JFLL11.SA;R$ 79,14;0;0;0;0;0;FII;2019;;;jfll11.com.br
+495;JHSF3;JHSF;JHSF3.SA;R$ 4,20;0,08;R$ 494.1 mi;R$ -233.7 mi;R$ 68.4 mi;R$ 494.1 mi;B3;1972;;Thiago Alonso de Oliveira;jhsf.com.br
+496;JNJB34;Johnson & Johnson;JNJB34.SA;R$ 50,37;0;R$ 21.4 bi;R$ 4.0 bi;R$ 7.9 bi;R$ 21.4 bi;B3;1886;;Joaquin Duato;jnj.com
+497;JPMC34;JPMorgan Chase;JPMC34.SA;R$ 93,89;0;R$ 40.0 bi;R$ 13.4 bi;0;R$ 40.0 bi;B3;2000;;Jamie Dimon;jpmorganchase.com
+498;JPPA11;Jpp Capital Recebiveis Imobiliarios Fundo De Investimento Imobiliario;JPPA11.SA;R$ 89,90;0;0;0;0;0;FII;2018;;;
+499;JPPC11;Jpp Capital Fundo Invest Imobiliario FII;JPPC11.SA;R$ 175,00;0;0;0;0;0;FII;2012;;;jppsa.com.br
+500;JSAF11;FUNDO DE INVESTIMENTO IMOBILIÁRIO REC LOGÍSTICA;JSAF11.SA;R$ 103,00;0;0;0;0;0;FII;2020;;;safra.com.br
+501;JSRE11;JS REAL ESTATE MULTIGESTÃO - FII;JSRE11.SA;R$ 73,45;0;0;0;0;0;FII;2011;;;safra.com.br
+502;K1BF34;KB Financial Bdr;K1BF34.SA;R$ 62,34;0;R$ 2.23;R$ 261.5 bi;R$ -8.72;R$ 2.23;BDR;2008;;Jong-Hee Yang;kbfg.com
+503;K1EL34;Kellogg’s;K1EL34.SA;R$ 141,70;0;R$ 3.2 bi;R$ 27.0 mi;R$ 245.0 mi;R$ 3.2 bi;B3;1906;;Steve Cahillane;kellanova.com
+504;K1EY34;Keycorp Brazilian Depositary Receipt;K1EY34.SA;R$ 75,04;0;0;0;0;0;B3;1958;;;key.com
+505;K1IM34;Kimco Realty Corp Bdr;K1IM34.SA;R$ 92,34;0;R$ 451.6 mi;R$ 139.7 mi;R$ 190.2 mi;R$ 451.6 mi;BDR;1958;;Conor C. Flynn;kimcorealty.com
+506;K1LA34;KLA Corporation;K1LA34.SA;R$ 874,71;0;R$ 2.5 bi;R$ 582.5 mi;R$ 622.2 mi;R$ 2.5 bi;B3;1975;;Richard P. Wallace;kla.com
+507;K1MX34;CarMax;K1MX34.SA;R$ 183,75;0;R$ 6.1 bi;R$ 50.3 mi;R$ 309.6 mi;R$ 6.1 bi;B3;1993;;William D. Nash;carmax.com
+508;K1RC34;Kroger;K1RC34.SA;R$ 284,48;0;R$ 37.1 bi;R$ 736.0 mi;R$ 1.9 bi;R$ 37.1 bi;B3;1883;;Rodney McMullen;thekrogerco.com
+509;K1SG34;Keysight Technologies;K1SG34.SA;R$ 378,48;0;R$ 1.3 bi;R$ 172.0 mi;R$ 328.0 mi;R$ 1.3 bi;B3;2014;;Satish Dhanasekaran;keysight.com
+510;K1SS34;Kohl's;K1SS34.SA;R$ 136,76;0;R$ 6.0 bi;R$ 186.0 mi;R$ 789.0 mi;R$ 6.0 bi;B3;1962;;Tom Kingsbury;kohls.com
+511;K1TC34;KT Corporation;K1TC34.SA;R$ 63,49;0;R$ 6.69;R$ 54.5 bi;R$ 1.04;R$ 6.69;B3;1981;;Kim Young Shub;kt.com
+512;KCRE11;Kinea Creditas Fundo De Investimento Imobiliario - Fii;KCRE11.SA;R$ 98,63;0;0;0;0;0;FII;2022;;;kinea.com.br
+513;KEPL3;Kepler Weber;KEPL3.SA;R$ 9,90;0,07;R$ 502.2 mi;R$ 94.0 mi;R$ 89.0 mi;R$ 502.2 mi;B3;1925;;Piero Abbondi;kepler.com.br
+514;KEVE11;EVEN II KINEA FUNDO DE INVESTIMENTO IMOBILIÁRIO;KEVE11.SA;R$ 1.139,00;0;0;0;0;0;FII;2020;;;
+515;KHCB34;Kraft Heinz;KHCB34.SA;R$ 46,04;0;R$ 6.9 bi;R$ 757.0 mi;R$ 1.4 bi;R$ 6.9 bi;B3;2015;;Miguel Patricio;
+516;KIVO11;KILIMA VOLKANO RECEBÍVEIS IMOBILIARIOS FUNDO DE INVESTIMENTO IMOBILIARIO;KIVO11.SA;R$ 89,80;0;0;0;0;0;FII;2021;;;brltrust.com.br/?lang=en
+517;KLBN11;Klabin;KLBN11.SA;R$ 24,93;0;R$ 4.5 bi;R$ 630.7 mi;R$ 2.6 bi;R$ 4.5 bi;B3;1899;;Cristiano Cardoso Teixeira;klabin.com.br
+518;KMBB34;Kimberly-Clark;KMBB34.SA;R$ 640,10;0;R$ 5.0 bi;R$ 509.0 mi;R$ 1.2 bi;R$ 5.0 bi;B3;1872;;Michael D. Hsu;kimberly-clark.com
+519;KMIC34;Kinder Morgan, Inc.;KMIC34.SA;R$ 93,06;0;R$ 4.0 bi;R$ 594.0 mi;R$ 2.3 bi;R$ 4.0 bi;B3;1997;;Steven J. Kean;kindermorgan.com
+520;KMPR34;Kemper Corp BDR;KMPR34.SA;R$ 105,26;0;R$ 1.2 bi;R$ 51.4 mi;R$ -29.7 mi;R$ 1.2 bi;BDR;1990;;Joseph P. Lacher Jr.;kemper.com
+521;KNCR11;Kinea Rendimentos Imobiliários Fundo de Investimento Imobiliário;KNCR11.SA;R$ 103,40;0;0;0;0;0;FII;2012;;;intrag.com.br
+522;KNHF11;Kinea Hedge Fund Fundo de Investimento Imobiliário;KNHF11.SA;R$ 102,36;0;0;0;0;0;FII;2023;;;kinea.com.br
+523;KNIP11;Kinea Indices Precos Fundo Investimento Imobiliario - FII;KNIP11.SA;R$ 97,78;0;0;0;0;0;FII;2016;;;intrag.com.br
+524;KNRE11;Kinea Ii Real Estate Equity Fundo Invest Imobiliario FII;KNRE11.SA;R$ 0,45;0;0;0;0;0;FII;2011;;;
+525;KNSC11;Kinea Securities Fundo DE Investimento Imobiliario - FII;KNSC11.SA;R$ 9,19;0;0;0;0;0;FII;2020;;;kinea.com.br
+526;KNUQ11;Kinea Unique Hy Cdi Fundo De Investimento Imobiliario;KNUQ11.SA;R$ 102,96;0;0;0;0;0;FII;2022;;;kinea.com.br
+527;L1CA34;LabCorp;L1CA34.SA;R$ 262,34;0;R$ 3.0 bi;R$ -167.1 mi;R$ 579.6 mi;R$ 3.0 bi;B3;1978;;Adam H. Schechter;labcorp.com
+528;L1DO34;Leidos Holdings Inc Bdr;L1DO34.SA;R$ 64,26;0;R$ 4.0 bi;R$ 229.0 mi;R$ 304.0 mi;R$ 4.0 bi;BDR;1969;;Thomas A. Bell;leidos.com
+529;L1EG34;Leggett & Platt;L1EG34.SA;R$ 91,17;0;R$ 1.1 bi;R$ -297.3 mi;R$ 146.1 mi;R$ 1.1 bi;B3;1883;;J. Mitchell Dolloff;leggett.com
+530;L1EN34;Lennar Corporation;L1EN34.SA;R$ 811,98;0;R$ 7.3 bi;R$ 719.3 mi;R$ 367.9 mi;R$ 7.3 bi;B3;1954;;Jonathan M Jaffe;lennar.com
+531;L1HX34;L3harris Technologies Inc Bdr;L1HX34.SA;R$ 261,83;0;R$ 5.3 bi;R$ 158.0 mi;R$ 789.0 mi;R$ 5.3 bi;BDR;2019;;Chris Kubasik;l3harris.com
+532;L1KQ34;Lkq Corp Bdr;L1KQ34.SA;R$ 245,95;0;R$ 3.5 bi;R$ 177.0 mi;R$ 212.0 mi;R$ 3.5 bi;BDR;1998;;Dominick Zarcone;lkqcorp.com
+533;L1MN34;CenturyLink;L1MN34.SA;R$ 7,08;0;R$ 3.5 bi;R$ -2.0 bi;R$ 784.0 mi;R$ 3.5 bi;B3;1968;;Kate Johnson;lumen.com
+534;L1NC34;Lincoln National Corp Bdr;L1NC34.SA;R$ 133,30;0;R$ 699.0 mi;R$ -1.2 bi;R$ -1.9 bi;R$ 699.0 mi;BDR;1905;;Ellen Cooper;lincolnfinancial.com
+535;L1OE34;Loews Corporation;L1OE34.SA;R$ 302,25;0;R$ 4.3 bi;R$ 446.0 mi;R$ 477.0 mi;R$ 4.3 bi;B3;1969;;James S. Tisch;loews.com
+536;L1RC34;Lam Research;L1RC34.SA;R$ 111,50;0;R$ 3.8 bi;R$ 954.3 mi;R$ 1.4 bi;R$ 3.8 bi;B3;1980;;Timothy Archer;lamresearch.com
+537;L1UL34;Lululemon Athletica;L1UL34.SA;R$ 437,00;0;R$ 3.2 bi;R$ 669.5 mi;R$ 1.4 bi;R$ 3.2 bi;B3;1998;;Calvin McDonald;corporate.lululemon.com
+538;L1VS34;Las Vegas Sands;L1VS34.SA;R$ 52,65;0;R$ 2.9 bi;R$ 382.0 mi;R$ 1.0 bi;R$ 2.9 bi;B3;1988;;Robert Glen Goldstein;sands.com
+539;L1WH34;Lamb Weston;L1WH34.SA;R$ 208,40;0;R$ 1.5 bi;R$ 146.1 mi;R$ 26.3 mi;R$ 1.5 bi;B3;1950;;Tom Werner;lambweston.com
+540;L1YB34;LyondellBasell Industries NV;L1YB34.SA;R$ 265,46;0;R$ 9.9 bi;R$ 183.0 mi;R$ 1.5 bi;R$ 9.9 bi;B3;2007;;Peter Vanacker;lyondellbasell.com
+541;L1YG34;Lloyds Banking Group;L1YG34.SA;R$ 12,71;0;R$ 5.3 bi;R$ 1.2 bi;0;R$ 5.3 bi;B3;2009;;;lloydsbank.nl
+542;L1YV34;Live Nation Entertainment;L1YV34.SA;R$ 103,00;0;R$ 5.8 bi;R$ -210.7 mi;R$ 608.4 mi;R$ 5.8 bi;B3;2010;;Michael Rapino;livenationentertainment.com
+543;LASC11;LEGATUS SHOPPINGS FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII;LASC11.SA;R$ 109,15;0;0;0;0;0;FII;2019;;;btgpactual.com
+544;LAVV3;Lavvi Empreendimentos Imobiliarios SA;LAVV3.SA;R$ 8,87;0,05;R$ 255.7 mi;R$ 88.1 mi;R$ -111.8 mi;R$ 255.7 mi;B3;1976;;Ralph Horn;lavvi.com.br
+545;LBRD34;Liberty Broadband Corp BDR;LBRD34.SA;R$ 20,95;0;R$ 250.0 mi;R$ 205.0 mi;R$ 62.0 mi;R$ 250.0 mi;BDR;2014;;;libertybroadband.com
+546;LEVE3;MAHLE-Metal Leve SA;LEVE3.SA;R$ 34,24;0,33;R$ 1.0 bi;R$ 154.1 mi;R$ 206.7 mi;R$ 1.0 bi;B3;1920;;;mahle.com/en
+547;LIFE11;LIFE CAPITAL PARTNERS FUNDO DE INVESTIMENTO IMOB;LIFE11.SA;R$ 10,05;0;0;0;0;0;FII;2022;;;vortx.com.br
+548;LILY34;Eli Lilly and Company;LILY34.SA;R$ 128,18;0;R$ 9.3 bi;R$ 2.2 bi;R$ -311.9 mi;R$ 9.3 bi;B3;1876;;David A. Ricks;lilly.com
+549;LJQQ3;LOJAS QUERO-QUERO S/A;LJQQ3.SA;R$ 5,60;0,02;R$ 654.1 mi;R$ 60.2 mi;R$ 63.4 mi;R$ 654.1 mi;B3;1967;;;queroquero.com.br
+550;LLAO11;Bs2 Allinvestments Fundo De Investimento Imobiliario;LLAO11.SA;R$ 77,37;0;0;0;0;0;FII;2021;;;singulare.com.br
+551;LMTB34;Lockheed Martin;LMTB34.SA;R$ 2.329,90;0;R$ 18.9 bi;R$ 1.9 bi;R$ 2.4 bi;R$ 18.9 bi;B3;1995;;James D. Taiclet;lockheedmartin.com
+552;LOGG3;LOG Commercial Properties;LOGG3.SA;R$ 22,27;0,03;R$ 48.3 mi;R$ 73.4 mi;R$ 80.6 mi;R$ 48.3 mi;B3;2008;;;logcp.com.br
+553;LOGN3;Log-In Logística Intermodal SA;LOGN3.SA;R$ 36,30;0;R$ 601.5 mi;R$ -35.9 mi;R$ 130.9 mi;R$ 601.5 mi;B3;1973;;;loginlogistica.com.br
+554;LOWC34;Lowe’s;LOWC34.SA;R$ 59,67;0;R$ 18.6 bi;R$ 1.0 bi;R$ 1.1 bi;R$ 18.6 bi;B3;1921;;Marvin Ellison;lowes.com
+555;LPLP11;Lago Da Pedra Fundo Investimento Imobiliari;LPLP11.SA;R$ 500,00;0;0;0;0;0;FII;2021;;;oliveiratrust.com.br
+556;LREN3;Lojas Renner;LREN3.SA;R$ 16,06;0,03;R$ 4.3 bi;R$ 526.9 mi;R$ 1.0 bi;R$ 4.3 bi;B3;1965;;Fabio Adegas Faccio;lojasrenner.com.br
+557;LSPA11;Leste Riva Equity Preferencial I Fundo De Investimento Imobiliario;LSPA11.SA;R$ 108,00;0;0;0;0;0;FII;2021;;;bancoplural.com
+558;LUPA3;Lupatech SA;LUPA3.SA;R$ 1,66;0;R$ 20.0 mi;R$ 98.5 mi;R$ 5.6 mi;R$ 20.0 mi;B3;1980;;;lupatech.com.br
+559;LWSA3;Locaweb;LWSA3.SA;R$ 5,21;0;R$ 347.3 mi;R$ -45.1 mi;R$ 110.4 mi;R$ 347.3 mi;B3;1998;;Fernando Cirne;locaweb.com.br
+560;M1AA34;Mid-America Apartment Communities Inc Bdr;M1AA34.SA;R$ 169,12;0;R$ 542.3 mi;R$ 160.5 mi;R$ 264.9 mi;R$ 542.3 mi;BDR;1977;;H Eric Bolton Jr;maac.com
+561;M1AS34;Masco Corporation;M1AS34.SA;R$ 315,50;0;R$ 1.9 bi;R$ 191.0 mi;R$ 485.0 mi;R$ 1.9 bi;B3;1929;;Keith J. Allman;masco.com
+562;M1BT34;MTS - Mobile TeleSystems;M1BT34.SA;R$ 29,01;0;R$ 168.0 bi;R$ 16.1 bi;R$ 45.4 bi;R$ 168.0 bi;B3;1993;;Vyacheslav Nikolaev;ir.mts.ru
+563;M1CB34;Molson Coors Brewing Company;M1CB34.SA;R$ 337,80;0;R$ 2.8 bi;R$ 103.3 mi;R$ 474.5 mi;R$ 2.8 bi;B3;2005;;Gavin D. Hattersley;molsoncoors.com
+564;M1CH34;Microchip Technology;M1CH34.SA;R$ 219,12;0;R$ 1.8 bi;R$ 419.2 mi;R$ 853.3 mi;R$ 1.8 bi;B3;1989;;Ganesh Moorthy;microchip.com
+565;M1CK34;Celesio;M1CK34.SA;R$ 667,32;0;R$ 80.9 bi;R$ 589.0 mi;R$ 254.0 mi;R$ 80.9 bi;B3;1833;;Brian S. Tyler;mckesson.com
+566;M1DB34;MongoDB;M1DB34.SA;R$ 90,07;0;R$ 458.0 mi;R$ -55.5 mi;R$ 54.6 mi;R$ 458.0 mi;B3;2007;;Dev Ittycheria;mongodb.com
+567;M1GM34;MGM Mirage;M1GM34.SA;R$ 231,12;0;R$ 4.4 bi;R$ 313.5 mi;R$ 715.9 mi;R$ 4.4 bi;B3;1986;;;mgmresorts.com
+568;M1HK34;Mohawk Industries Inc Bdr;M1HK34.SA;R$ 22,37;0;R$ 2.6 bi;R$ 139.5 mi;R$ 296.3 mi;R$ 2.6 bi;BDR;1988;;Jeffrey Lorberbaum;mohawkind.com
+569;M1KC34;McCormick & Company;M1KC34.SA;R$ 95,31;0;R$ 1.6 bi;R$ 166.0 mi;R$ 138.4 mi;R$ 1.6 bi;B3;1889;;Brendan Foley;mccormickcorporation.com
+570;M1KT34;Marketaxess Holdings Bdr;M1KT34.SA;R$ 21,68;0;R$ 197.3 mi;R$ 69.6 mi;R$ 141.7 mi;R$ 197.3 mi;BDR;2000;;Christopher R Concannon;marketaxess.com
+571;M1LC34;Melco Resorts & Entertainment Bdr;M1LC34.SA;R$ 18,28;0;R$ 1.1 bi;R$ -205.9 mi;0;R$ 1.1 bi;BDR;2004;;Lawrence Ho Yau Lung;melco-resorts.com
+572;M1LM34;Martin Marietta Materials Inc Bdr;M1LM34.SA;R$ 495,39;0;R$ 1.6 bi;R$ 282.5 mi;R$ 555.9 mi;R$ 1.6 bi;BDR;1993;;C. Howard Nye;martinmarietta.com
+573;M1MC34;Marsh & McLennan Companies;M1MC34.SA;R$ 502,86;0;R$ 5.5 bi;R$ 756.0 mi;R$ 1.8 bi;R$ 5.5 bi;B3;1871;;John Q. Doyle;mmc.com
+574;M1NS34;Monster Beverage Corp Bdr;M1NS34.SA;R$ 35,07;0;R$ 1.7 bi;R$ 367.0 mi;R$ 434.3 mi;R$ 1.7 bi;BDR;1935;;Hilton Schlosberg;monsterbevcorp.com
+575;M1PC34;Marathon Petroleum Corp Brazilian Depositary Receipt;M1PC34.SA;R$ 1.079,63;0;R$ 36.5 bi;R$ 1.4 bi;R$ 1.1 bi;R$ 36.5 bi;B3;2009;;Michael J. Hennigan;marathonpetroleum.com
+576;M1RN34;Moderna Inc Bdr;M1RN34.SA;R$ 27,17;0;R$ 2.8 bi;R$ 217.0 mi;R$ 622.0 mi;R$ 2.8 bi;BDR;2010;;Stéphane Bancel;modernatx.com
+577;M1RO34;Marathon Oil Corp Brazilian Depositary Receipt;M1RO34.SA;R$ 150,30;0;R$ 1.6 bi;R$ 397.0 mi;R$ 1.1 bi;R$ 1.6 bi;B3;1887;;Lee M. Tillman;marathonoil.com
+578;M1SC34;MSCI Inc.;M1SC34.SA;R$ 61,24;0;R$ 690.1 mi;R$ 403.4 mi;R$ 388.9 mi;R$ 690.1 mi;B3;1969;;Henry A. Fernandez;msci.com
+579;M1SI34;Motorola;M1SI34.SA;R$ 405,72;0;R$ 2.9 bi;R$ 596.0 mi;R$ 1.3 bi;R$ 2.9 bi;B3;1928;;Greg Brown;motorolasolutions.com
+580;M1TB34;M&T Bank;M1TB34.SA;R$ 175,61;0;R$ 2.1 bi;R$ 482.4 mi;R$ 800.3 mi;R$ 2.1 bi;B3;1856;;René F. Jones;www3.mtb.com
+581;M1TC34;Match Group Bdr;M1TC34.SA;R$ 8,50;0;R$ 2.0 bi;R$ 534.7 mi;R$ 658.4 mi;R$ 2.0 bi;BDR;2009;;Bernard Kim;mtch.com
+582;M1TD34;Mettler-Toledo International Inc Bdr;M1TD34.SA;R$ 645,45;0;R$ 935.0 mi;R$ 184.8 mi;R$ 281.5 mi;R$ 935.0 mi;BDR;1991;;;mt.com
+583;M1TT34;Marriott Internacional;M1TT34.SA;R$ 320,88;0;R$ 1.7 bi;R$ 848.0 mi;R$ 751.0 mi;R$ 1.7 bi;B3;1927;;Anthony Capuano;marriott.com
+584;M1UF34;Mitsubishi UFJ Financial Group;M1UF34.SA;R$ 52,15;0;R$ 1.52;R$ 370.6 bi;0;R$ 1.52;B3;2005;;Hironori Kamezawa;mufg.jp
+585;MACY34;Macy's;MACY34.SA;R$ 100,80;0;R$ 8.4 bi;R$ -70.0 mi;R$ 1.1 bi;R$ 8.4 bi;B3;1985;;Jeffrey Gennette;macysinc.com
+586;MALL11;Malls Brasil Fundo Investimento Imobiliario;MALL11.SA;R$ 117,21;0;0;0;0;0;FII;2016;;;gerafuturo.com.br
+587;MATD3;Hospital Mater Dei SA;MATD3.SA;R$ 5,81;0,01;R$ 541.2 mi;R$ 25.8 mi;R$ 26.8 mi;R$ 541.2 mi;B3;1980;;Henrique Moraes Salvador Silva;materdei.com.br
+588;MBLY3;Mobly;MBLY3.SA;R$ 2,16;0;R$ 143.2 mi;R$ -21.2 mi;R$ 14.8 mi;R$ 143.2 mi;B3;2011;;Victor Pereira Noda;mobly.com.br
+589;MCDC34;McDonald's;MCDC34.SA;R$ 68,46;0;R$ 6.4 bi;R$ 2.0 bi;R$ 2.5 bi;R$ 6.4 bi;B3;1955;;Chris Kempczinski;mcdonalds.com
+590;MDIA3;M. Dias Branco;MDIA3.SA;R$ 34,94;0,01;R$ 2.8 bi;R$ 341.8 mi;R$ 583.9 mi;R$ 2.8 bi;B3;1936;;;mdiasbranco.com.br
+591;MDLZ34;Mondelez International;MDLZ34.SA;R$ 169,87;0;R$ 9.3 bi;R$ 950.0 mi;R$ 1.6 bi;R$ 9.3 bi;B3;2012;;Dirk Van de Put;mondelezinternational.com
+592;MDTC34;Medtronic;MDTC34.SA;R$ 208,95;0;R$ 8.1 bi;R$ 1.3 bi;R$ 2.5 bi;R$ 8.1 bi;B3;1949;;Geoffrey S. Martha;medtronic.com
+593;MEAL3;International Meal Company;MEAL3.SA;R$ 1,65;0;R$ 512.7 mi;R$ -76.2 mi;R$ 30.6 mi;R$ 512.7 mi;B3;2006;;;ri.internationalmealcompany.com
+594;MELI34;Mercado Livre;MELI34.SA;R$ 62,42;0;R$ 4.3 bi;R$ 165.0 mi;R$ 1.9 bi;R$ 4.3 bi;B3;1999;;Stelleo Tolda;mercadolibre.com.ar
+595;METB34;MetLife Inc.;METB34.SA;R$ 371,85;0;R$ 19.0 bi;R$ 607.0 mi;R$ 5.2 bi;R$ 19.0 bi;B3;1868;;Michel A. Khalaf;metlife.com
+596;MGHT11;Fundo DE Investimento Imobiliario Mogno Hoteis;MGHT11.SA;R$ 44,94;0;0;0;0;0;FII;2019;;;btgpactual.com
+597;MGLU3;Magazine Luiza;MGLU3.SA;R$ 1,66;0;R$ 10.6 bi;R$ -709.9 mi;R$ 756.8 mi;R$ 10.6 bi;B3;1957;;Frederico Trajano;magazineluiza.com.br
+598;MILS3;Mills;MILS3.SA;R$ 13,22;0,03;R$ 367.3 mi;R$ 80.9 mi;R$ 44.2 mi;R$ 367.3 mi;B3;1952;;;mills.com.br
+599;MINT11;Fundo De Investimento Imobiliário Mint Educacional;MINT11.SA;R$ 93,08;0;0;0;0;0;FII;2020;;;mintcapital.com.br
+600;MKLC34;Markelgroup BDR;MKLC34.SA;R$ 378,14;0;R$ 4.6 bi;R$ 769.3 mi;R$ 822.5 mi;R$ 4.6 bi;BDR;1930;;Thomas S. Gayner;markel.com
+601;MLAS3;Multilaser;MLAS3.SA;R$ 2,29;0;R$ 840.8 mi;R$ -324.8 mi;R$ 281.1 mi;R$ 840.8 mi;B3;1987;;Alexandre Ostrowiecki;multilaser.com.br
+602;MMMC34;3M;MMMC34.SA;R$ 116,73;0;R$ 8.0 bi;R$ 945.0 mi;R$ 2.0 bi;R$ 8.0 bi;B3;1902;;Mike Roman;3m.com
+603;MOOO34;Altria;MOOO34.SA;R$ 211,26;0;R$ 5.0 bi;R$ 2.1 bi;R$ 3.2 bi;R$ 5.0 bi;B3;1985;;William F. Gifford;altria.com
+604;MORE11;More Real Estate Fof Fundo DE Investimento Imobiliario;MORE11.SA;R$ 76,21;0;0;0;0;0;FII;2019;;;btgpactual.com
+605;MOSC34;The Mosaic Company;MOSC34.SA;R$ 26,52;0;R$ 3.1 bi;R$ 365.3 mi;R$ 538.1 mi;R$ 3.1 bi;B3;2004;;James C. O'Rourke;mosaicco.com
+606;MOVI3;Movida Participacoes SA;MOVI3.SA;R$ 8,08;0,06;R$ 2.5 bi;R$ -104.5 mi;0;R$ 2.5 bi;B3;2006;;;ri.movida.com.br
+607;MRCK34;Merck Sharp and Dohme;MRCK34.SA;R$ 80,17;0;R$ 14.6 bi;R$ -1.2 bi;R$ 246.0 mi;R$ 14.6 bi;B3;1891;;Robert M Davis;merck.com
+608;MRFG3;Marfrig;MRFG3.SA;R$ 9,95;0;R$ 36.6 bi;R$ 12.0 mi;0;R$ 36.6 bi;B3;2000;;Miguel Gularte;marfrig.com.br
+609;MRVE3;MRV Engenharia e Participacoes SA;MRVE3.SA;R$ 6,67;0;R$ 1.9 bi;R$ -105.0 mi;R$ 371.8 mi;R$ 1.9 bi;B3;1979;;;mrv.com.br
+610;MSBR34;Morgan Stanley;MSBR34.SA;R$ 87,92;0;R$ 12.9 bi;R$ 1.5 bi;R$ -17.8 bi;R$ 12.9 bi;B3;1935;;Ted Pick;morganstanley.com
+611;MSCD34;Mastercard;MSCD34.SA;R$ 76,79;0;R$ 6.5 bi;R$ 2.8 bi;R$ 4.1 bi;R$ 6.5 bi;B3;1966;;Michael Miebach;mastercard.com
+612;MSFT34;Microsoft;MSFT34.SA;R$ 89,83;0;R$ 62.0 bi;R$ 21.9 bi;R$ 18.9 bi;R$ 62.0 bi;B3;1975;;Satya Nadella;microsoft.com
+613;MTRE3;MITRE REALTY EMPREENDIMENTOS E PARTICIPAÇÕES S.A.;MTRE3.SA;R$ 4,73;0,13;R$ 278.7 mi;R$ 13.6 mi;R$ 13.4 mi;R$ 278.7 mi;B3;2005;;Fabricio Mitre;mitrerealty.com.br
+614;MULT3;Multiplan;MULT3.SA;R$ 24,64;0,03;R$ 570.6 mi;R$ 302.6 mi;R$ 307.8 mi;R$ 570.6 mi;B3;1975;;José Isaac Peres;multiplan.com.br
+615;MUTC34;Micron Technology;MUTC34.SA;R$ 106,99;0;R$ 5.8 bi;R$ 793.0 mi;R$ 1.2 bi;R$ 5.8 bi;B3;1978;;Sanjay Mehrotra;micron.com
+616;MXRF11;Maxi Renda Fundo Invest Imobiliario FII;MXRF11.SA;R$ 10,49;0;0;0;0;0;FII;2012;;;
+617;MYPK3;Iochpe-Maxion;MYPK3.SA;R$ 13,32;0;R$ 3.5 bi;R$ -7.5 mi;R$ 396.1 mi;R$ 3.5 bi;B3;1918;;;iochpe.com.br
+618;N1BI34;Neurocrine Biosciences Bdr;N1BI34.SA;R$ 34,47;0;R$ 515.2 mi;R$ 147.7 mi;R$ 123.5 mi;R$ 515.2 mi;BDR;1992;;Kevin C. Gorman;neurocrine.com
+619;N1CL34;Norwegian Cruise Line Holdings Ltd Brazilian Depositary Receipt;N1CL34.SA;R$ 95,70;0;R$ 2.0 bi;R$ -106.5 mi;R$ 259.0 mi;R$ 2.0 bi;B3;2011;;;nclhltd.com
+620;N1DA34;Nasdaq, Inc.;N1DA34.SA;R$ 157,92;0;R$ 1.6 bi;R$ 197.0 mi;R$ 417.0 mi;R$ 1.6 bi;B3;1971;;Adena Friedman;nasdaq.com
+621;N1EM34;Newmont Mining Corporation;N1EM34.SA;R$ 197,94;0;R$ 4.0 bi;R$ -3.2 bi;R$ 616.0 mi;R$ 4.0 bi;B3;1921;;Tom Palmer;newmont.com
+622;N1GG34;National Grid;N1GG34.SA;R$ 55,45;0;R$ 4.2 bi;R$ 564.0 mi;R$ 1.4 bi;R$ 4.2 bi;B3;1990;;John Pettigrew;nationalgrid.com
+623;N1IC34;NICE Systems Ltda;N1IC34.SA;R$ 44,35;0;R$ 623.2 mi;R$ 81.7 mi;R$ 180.5 mi;R$ 623.2 mi;B3;1986;;Barak Eilam;validate.perfdrive.com
+624;N1IS34;Nisource Inc Brazilian Depositary Receipt;N1IS34.SA;R$ 127,79;0;R$ 1.4 bi;R$ 237.4 mi;R$ 399.2 mi;R$ 1.4 bi;B3;1912;;Joseph Hamrock;nisource.com
+625;N1OV34;National Oilwell Varco Inc;N1OV34.SA;R$ 101,40;0;R$ 2.3 bi;R$ 598.0 mi;R$ 377.0 mi;R$ 2.3 bi;B3;1841;;Clay C. Williams;nov.com
+626;N1OW34;ServiceNow;N1OW34.SA;R$ 78,24;0;R$ 2.4 bi;R$ 295.0 mi;R$ 1.6 bi;R$ 2.4 bi;B3;2004;;Bill McDermott;servicenow.com
+627;N1RG34;Nrg Energy Inc Brazilian Depositary Receipt;N1RG34.SA;R$ 378,48;0;R$ 6.8 bi;R$ 482.0 mi;R$ 241.0 mi;R$ 6.8 bi;B3;1989;;;nrg.com
+628;N1SC34;Norfolk Southern Corp Bdr;N1SC34.SA;R$ 317,40;0;R$ 3.1 bi;R$ 527.0 mi;R$ 673.0 mi;R$ 3.1 bi;BDR;1982;;Alan H. Shaw;norfolksouthern.com
+629;N1TA34;NetApp;N1TA34.SA;R$ 525,48;0;R$ 1.6 bi;R$ 313.0 mi;R$ 484.0 mi;R$ 1.6 bi;B3;1992;;George Kurian;netapp.com
+630;N1TR34;Northern Trust;N1TR34.SA;R$ 214,28;0;R$ 1.5 bi;R$ 113.1 mi;R$ 2.8 bi;R$ 1.5 bi;B3;1889;;Michael G. O'Grady;northerntrust.com
+631;N1UE34;Nucor Corp Bdr;N1UE34.SA;R$ 82,56;0;R$ 7.7 bi;R$ 785.4 mi;R$ 1.5 bi;R$ 7.7 bi;BDR;1940;;Leon Topalian;nucor.com
+632;N1VO34;Novo Nordisk;N1VO34.SA;R$ 79,99;0;R$ 65.9 bi;R$ 22.0 bi;R$ 9.6 bi;R$ 65.9 bi;B3;1923;;Lars Fruergaard Jørgensen;novonordisk.com
+633;N1VR34;NVR, Inc.;N1VR34.SA;R$ 798,40;0;R$ 2.5 bi;R$ 410.1 mi;R$ 495.7 mi;R$ 2.5 bi;B3;1980;;Eugene J. Bredow;nvrinc.com
+634;N1VS34;Novartis;N1VS34.SA;R$ 47,88;0;R$ 11.8 bi;R$ 8.5 bi;R$ 3.2 bi;R$ 11.8 bi;B3;1996;;Vasant Narasimhan;novartis.com
+635;N1WG34;The Royal Bank of Scotland Group plc;N1WG34.SA;R$ 35,56;0;R$ 3.4 bi;R$ 1.3 bi;0;R$ 3.4 bi;B3;1968;;Paul Thwaite;personal.natwest.com
+636;N1WL34;Newell Rubbermaid;N1WL34.SA;R$ 37,80;0;R$ 2.1 bi;R$ -86.0 mi;R$ 251.0 mi;R$ 2.1 bi;B3;1903;;Chris Peterson;newellbrands.com
+637;N1WS34;News Corp;N1WS34.SA;R$ 105,99;0;R$ 2.6 bi;R$ 156.0 mi;R$ 360.0 mi;R$ 2.6 bi;B3;2013;;Robert Thomson;
+638;N1WS35;News Corp;N1WS35.SA;R$ 49,00;0;R$ 2.6 bi;R$ 156.0 mi;R$ 360.0 mi;R$ 2.6 bi;B3;2013;;Robert Thomson;
+639;N1XP34;NXP Semiconductors;N1XP34.SA;R$ 600,42;0;R$ 3.4 bi;R$ 697.0 mi;R$ 1.1 bi;R$ 3.4 bi;B3;2006;;Kurt Sievers;nxp.com
+640;NAVT11;Navi Imobiliario Total Return Fundos DE Investimento Imobiliario;NAVT11.SA;R$ 94,34;0;0;0;0;0;FII;2018;;;navi.com.br
+641;NCRI11;Navi Credito Imobiliario - Fundo De Investimento Imobiliario;NCRI11.SA;R$ 8,61;0;0;0;0;0;FII;2020;;;brltrust.com.br
+642;NEOE3;Neoenergia;NEOE3.SA;R$ 20,39;0,03;R$ 11.6 bi;R$ 973.0 mi;R$ 742.0 mi;R$ 11.6 bi;B3;1997;;Solange Maria Pinto Ribeiro;neoenergia.com
+643;NETE34;Netease Inc Bdr;NETE34.SA;R$ 47,35;0;0;0;0;0;BDR;2007;;;
+644;NEWL11;Newport Logistica Fundo DE Investimento Imobiliario;NEWL11.SA;R$ 119,96;0;0;0;0;0;FII;2019;;;newport-realestate.com/nossos_investime
+645;NEWU11;RENDA DE ESCRITÓRIOS FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII;NEWU11.SA;R$ 76,08;0;R$ 10.1 mi;R$ 13.9 mi;R$ 1.5 mi;R$ 10.1 mi;FII;2012;;;bb.com.br
+646;NEXT34;Nextera Energy Inc BDR;NEXT34.SA;R$ 80,88;0;R$ 6.9 bi;R$ 1.2 bi;R$ 2.9 bi;R$ 6.9 bi;BDR;1925;;John W. Ketchum;nexteraenergy.com
+647;NFLX34;Netflix;NFLX34.SA;R$ 63,73;0;R$ 8.8 bi;R$ 937.8 mi;R$ 1.7 bi;R$ 8.8 bi;B3;1997;;Greg Peters;netflix.com
+648;NIKE34;Nike, Inc.;NIKE34.SA;R$ 47,07;0;R$ 12.4 bi;R$ 1.2 bi;R$ 2.1 bi;R$ 12.4 bi;B3;1964;;John Donahoe;nike.com
+649;NMRH34;Nomura Holdings;NMRH34.SA;R$ 31,20;0;R$ 400.2 bi;R$ 50.5 bi;R$ 728.5 bi;R$ 400.2 bi;B3;1925;;Kentaro Okuda;nomura.com
+650;NOCG34;Northrop Grumman;NOCG34.SA;R$ 479,40;0;R$ 10.6 bi;R$ -535.0 mi;R$ 2.4 bi;R$ 10.6 bi;B3;1994;;Kathy J. Warden;northropgrumman.com
+651;NOKI34;Nokia;NOKI34.SA;R$ 17,20;0;R$ 5.7 bi;R$ -43.0 mi;R$ 1.9 bi;R$ 5.7 bi;B3;1865;;Pekka Lundmark;nokia.com
+652;NTCO3;Natura;NTCO3.SA;R$ 17,03;0;R$ 590.5 mi;R$ -120.0 mi;R$ -158.4 mi;R$ 590.5 mi;B3;1886;;;avonworldwide.com
+653;NVDC34;Nvidia;NVDC34.SA;R$ 94,12;0;R$ 22.1 bi;R$ 12.3 bi;R$ 11.5 bi;R$ 22.1 bi;B3;1993;;Jensen Huang;nvidia.com
+654;O1DF34;Old Dominion Freight Line;O1DF34.SA;R$ 56,16;0;R$ 1.5 bi;R$ 322.8 mi;R$ 436.7 mi;R$ 1.5 bi;B3;1934;;Kevin Marty Freeman;odfl.com
+655;O1KE34;Oneok Inc Bdr;O1KE34.SA;R$ 205,60;0;R$ 5.2 bi;R$ 688.0 mi;R$ 1.5 bi;R$ 5.2 bi;BDR;1906;;Pierce H. Norton II;oneok.com
+656;O1KT34;Okta Bdr;O1KT34.SA;R$ 25,35;0;R$ 605.0 mi;R$ -44.0 mi;R$ 174.0 mi;R$ 605.0 mi;BDR;2009;;Todd McKinnon;okta.com
+657;O1MC34;Grupo Omnicom;O1MC34.SA;R$ 231,36;0;R$ 4.1 bi;R$ 425.7 mi;R$ 1.8 bi;R$ 4.1 bi;B3;1986;;John Wren;omnicomgroup.com
+658;O1TI34;Otis Elevator Company;O1TI34.SA;R$ 49,35;0;R$ 3.6 bi;R$ 323.0 mi;R$ 597.0 mi;R$ 3.6 bi;B3;1853;;Judy Marks;otis.com
+659;OCRE11;Octo Fundo De Investimento Imobiliario;OCRE11.SA;R$ 101,50;0;0;0;0;0;FII;2022;;;idsf.com.br
+660;ODPV3;Odontoprev;ODPV3.SA;R$ 11,67;0,07;R$ 579.5 mi;R$ 114.6 mi;R$ 121.4 mi;R$ 579.5 mi;B3;1987;;;odontoprev.com.br
+661;OGHY11;Orama High Yield Fundo De Investimento Imobiliario;OGHY11.SA;R$ 8,72;0;0;0;0;0;FII;2022;;;daycoval.com.br
+662;OIBR3;Oi;OIBR3.SA;R$ 0,65;0;R$ 2.3 bi;R$ -487.9 mi;R$ -1.3 bi;R$ 2.3 bi;B3;1998;;Rodrigo Modesto de Abreu;ri.oi.com.br
+663;OIBR4;Oi;OIBR4.SA;R$ 1,86;0;R$ 2.3 bi;R$ -487.9 mi;R$ -1.3 bi;R$ 2.3 bi;B3;1998;;Rodrigo Modesto de Abreu;ri.oi.com.br
+664;ONCO3;Oncoclinicas Do Brasil Servicos Medicos SA;ONCO3.SA;R$ 8,44;0;R$ 1.4 bi;R$ 75.4 mi;R$ -204.3 mi;R$ 1.4 bi;B3;2010;;Bruno Lemos Ferrari;grupooncoclinicas.com
+665;ORCL34;Oracle Corporation;ORCL34.SA;R$ 103,11;0;R$ 13.3 bi;R$ 2.4 bi;R$ 5.5 bi;R$ 13.3 bi;B3;1977;;Safra Catz;oracle.com
+666;ORLY34;O'Reilly Auto Parts;ORLY34.SA;R$ 17,80;0;R$ 3.8 bi;R$ 552.5 mi;R$ 516.4 mi;R$ 3.8 bi;B3;1957;;Gregory D. Johnson;oreillyauto.com
+667;ORVR3;Orizon Valorizacao De Residuos SA;ORVR3.SA;R$ 36,89;0;R$ 198.6 mi;R$ 92.3 mi;0;R$ 198.6 mi;B3;1999;;Milton Pilão Júnior;orizonvr.com.br
+668;OUJP11;Ourinvest Jpp Fundo Investimento Imobiliario - FII;OUJP11.SA;R$ 94,07;0;0;0;0;0;FII;2010;;;finaxis.com.br
+669;OXYP34;Occidental Petroleum;OXYP34.SA;R$ 58,86;0;R$ 7.2 bi;R$ 1.2 bi;R$ 3.2 bi;R$ 7.2 bi;B3;1920;;Vicki Hollub;oxy.com
+670;P1AC34;Paccar;P1AC34.SA;R$ 306,64;0;R$ 9.1 bi;R$ 1.4 bi;R$ 1.2 bi;R$ 9.1 bi;B3;1905;;Preston Feight;paccar.com
+671;P1AY34;Paychex;P1AY34.SA;R$ 316,00;0;R$ 1.4 bi;R$ 498.6 mi;R$ 671.7 mi;R$ 1.4 bi;B3;1971;;John B. Gibson;paychex.com
+672;P1DD34;Pinduoduo;P1DD34.SA;R$ 59,52;0;R$ 88.9 bi;R$ 23.3 bi;R$ 36.9 bi;R$ 88.9 bi;B3;2015;;;pddholdings.com
+673;P1DT34;Prudential Financial;P1DT34.SA;R$ 286,23;0;R$ 17.4 bi;R$ 1.3 bi;R$ 1.1 bi;R$ 17.4 bi;B3;1875;;Charles F. Lowrey;prudential.com
+674;P1EA34;Healthpeak Properties Inc Bdr;P1EA34.SA;R$ 93,52;0;R$ 553.6 mi;R$ 70.9 mi;R$ 231.3 mi;R$ 553.6 mi;BDR;1985;;Scott M. Brinker;healthpeak.com
+675;P1EG34;Public Service Enterprise Group;P1EG34.SA;R$ 300,60;0;R$ 2.6 bi;R$ 546.0 mi;R$ 710.0 mi;R$ 2.6 bi;B3;1903;;Ralph A Larossa;investor.pseg.com/home/default.aspx
+676;P1FG34;Principal Financial Group;P1FG34.SA;R$ 337,31;0;R$ 2.7 bi;R$ -871.7 mi;R$ 944.0 mi;R$ 2.7 bi;B3;1879;;Daniel Joseph Houston;principal.com
+677;P1GR34;Progressive Corp.;P1GR34.SA;R$ 531,44;0;R$ 17.2 bi;R$ 2.3 bi;0;R$ 17.2 bi;B3;1937;;Tricia Griffith;progressive.com
+678;P1HC34;Parker Hannifin;P1HC34.SA;R$ 679,38;0;R$ 4.8 bi;R$ 681.9 mi;R$ 702.0 mi;R$ 4.8 bi;B3;1917;;Jennifer A. Parmentier;phstock.com
+679;P1HM34;Pulte Homes;P1HM34.SA;R$ 513,76;0;R$ 4.3 bi;R$ 711.0 mi;R$ 288.4 mi;R$ 4.3 bi;B3;1950;;Ryan R. Marshall;pultegroup.com
+680;P1IO34;Pioneer Natural Resources Co Bdr;P1IO34.SA;R$ 339,15;0;R$ 5.1 bi;R$ 1.3 bi;R$ 2.4 bi;R$ 5.1 bi;BDR;1997;;Richard P Dealy;pxd.com
+681;P1KG34;Packaging Corp Of America Bdr;P1KG34.SA;R$ 368,98;0;R$ 1.9 bi;R$ 189.2 mi;R$ 335.3 mi;R$ 1.9 bi;BDR;1959;;Mark W. Kowlzan;packagingcorp.com
+682;P1KX34;POSCO;P1KX34.SA;R$ 91,62;0;R$ 18.66;R$ -206.3 bi;R$ 1.89;R$ 18.66;B3;1968;;Jeong-Woo Choi;posco.com
+683;P1LD34;ProLogis;P1LD34.SA;R$ 51,72;0;R$ 2.0 bi;R$ 630.9 mi;R$ 1.1 bi;R$ 2.0 bi;B3;1983;;;prologis.com
+684;P1NR34;Pentair;P1NR34.SA;R$ 365,19;0;R$ 984.6 mi;R$ 208.0 mi;R$ 118.5 mi;R$ 984.6 mi;B3;1966;;John L. Stauch;pentair.com
+685;P1NW34;Pinnacle West Capital Corp Bdr;P1NW34.SA;R$ 176,80;0;R$ 991.6 mi;R$ -23;R$ 373.8 mi;R$ 991.6 mi;BDR;1985;;Jeffrey B. Guldner;pinnaclewest.com
+686;P1PG34;PPG Industries;P1PG34.SA;R$ 347,55;0;R$ 4.3 bi;R$ 90.0 mi;R$ 898.0 mi;R$ 4.3 bi;B3;1883;;Timothy M. Knavish;ppg.com
+687;P1PL34;PPL Corporation;P1PL34.SA;R$ 132,84;0;R$ 2.0 bi;R$ 113.0 mi;R$ 110.0 mi;R$ 2.0 bi;B3;1920;;Vincent Sorgi;pplweb.com
+688;P1RG34;Perrigo;P1RG34.SA;R$ 153,30;0;R$ 1.2 bi;R$ -32.3 mi;R$ 208.7 mi;R$ 1.2 bi;B3;1887;;Murray S. Kessler;perrigo.com
+689;P1SA34;Public Storage Bdr;P1SA34.SA;R$ 281,01;0;R$ 1.2 bi;R$ 439.3 mi;R$ 791.7 mi;R$ 1.2 bi;BDR;1972;;Joseph D. Russell Jr.;publicstorage.com
+690;P1SX34;Phillips 66;P1SX34.SA;R$ 361,44;0;R$ 38.3 bi;R$ 1.3 bi;R$ 2.2 bi;R$ 38.3 bi;B3;1927;;Mark Lashier;phillips66.com
+691;P1UK34;Prudential plc;P1UK34.SA;R$ 22,92;0;R$ 2.8 bi;R$ 378.5 mi;R$ -217.5 mi;R$ 2.8 bi;B3;1848;;Anil Wadhwani;prudentialplc.com
+692;P1VH34;PVH;P1VH34.SA;R$ 270,05;0;R$ 2.5 bi;R$ 271.8 mi;R$ 657.7 mi;R$ 2.5 bi;B3;1881;;Stefan Larsson;pvh.com
+693;P1YC34;Paycom Software Bdr;P1YC34.SA;R$ 34,26;0;R$ 434.6 mi;R$ 81.8 mi;R$ 134.5 mi;R$ 434.6 mi;BDR;1998;;Chad Richison;paycom.com
+694;P2AT34;UiPath Inc Bdr;P2AT34.SA;R$ 13,26;0;R$ 405.3 mi;R$ 33.9 mi;R$ 145.6 mi;R$ 405.3 mi;BDR;2005;;;uipath.com
+695;P2CO34;Procore Technologies Inc Bdr;P2CO34.SA;R$ 32,28;0;R$ 260.0 mi;R$ -29.5 mi;R$ 40.7 mi;R$ 260.0 mi;BDR;2002;;Tooey Courtemanche;procore.com
+696;P2IN34;Pinterest Inc Bdr;P2IN34.SA;R$ 28,38;0;R$ 981.3 mi;R$ 201.2 mi;R$ 258.3 mi;R$ 981.3 mi;BDR;2008;;Bill Ready;pinterest.com
+697;P2LN34;Planet Fitness;P2LN34.SA;R$ 39,84;0;R$ 337.5 mi;R$ 35.3 mi;R$ 63.3 mi;R$ 337.5 mi;B3;1992;;;planetfitness.com
+698;P2LT34;Palantir Technologies;P2LT34.SA;R$ 38,46;0;R$ 608.4 mi;R$ 93.4 mi;R$ 301.2 mi;R$ 608.4 mi;B3;2003;;Alex Karp;palantir.com
+699;PABY11;Fundo Invest Imobiliario Panamby;PABY11.SA;R$ 14,96;0;R$ 5.2 mi;R$ 743;R$ 213;R$ 5.2 mi;FII;1995;;;brkbdtvm.com.br/fundos_detalhes.aspx?codigo=11
+700;PAGS34;PagSeguro;PAGS34.SA;R$ 12,83;0;R$ 4.3 bi;R$ 488.0 mi;R$ 2.2 bi;R$ 4.3 bi;B3;2006;;Luiz Frias;pagseguro.uol.com.br
+701;PATC11;Pátria Investimentos Ltda.;PATC11.SA;R$ 37,00;0;0;0;0;0;FII;2011;;;patria.com
+702;PATL11;Pátria Logística Fundo de Investimento Imobiliário;PATL11.SA;R$ 67,15;0;0;0;0;0;FII;1993;;;
+703;PCAR3;GPA;PCAR3.SA;R$ 2,55;0;R$ 5.3 bi;R$ -303.0 mi;R$ 1.2 bi;R$ 5.3 bi;B3;1948;;Marcelo Ribeiro Pimentel;gpari.com.br
+704;PEMA11;Performa Real Estate - Fundo DE Investimento Imobiliário;PEMA11.SA;R$ 39,00;0;0;0;0;0;FII;2019;;;brltrust.com.br
+705;PEPB34;PepsiCo;PEPB34.SA;R$ 57,36;0;R$ 27.9 bi;R$ 1.3 bi;R$ 5.8 bi;R$ 27.9 bi;B3;1965;;Ramon Laguarta;pepsico.com
+706;PETR3;Petrobras;PETR3.SA;R$ 40,96;0,12;R$ 134.3 bi;R$ 31.0 bi;R$ 57.7 bi;R$ 134.3 bi;B3;1953;;Jean Paul Prates;petrobras.com.br
+707;PETR4;Petrobras;PETR4.SA;R$ 38,10;0,13;R$ 134.3 bi;R$ 31.0 bi;R$ 57.7 bi;R$ 134.3 bi;B3;1953;;Jean Paul Prates;petrobras.com.br
+708;PETZ3;Petz;PETZ3.SA;R$ 3,79;0;R$ 820.6 mi;R$ 1.3 mi;R$ 86.5 mi;R$ 820.6 mi;B3;2013;;Sérgio Zimerman;petz.com.br
+709;PFIZ34;Pfizer;PFIZ34.SA;R$ 33,20;0;R$ 14.3 bi;R$ -3.4 bi;R$ 5.2 bi;R$ 14.3 bi;B3;1849;;Albert Bourla;pfizer.com
+710;PGCO34;Procter & Gamble;PGCO34.SA;R$ 56,80;0;R$ 21.4 bi;R$ 3.5 bi;R$ 5.1 bi;R$ 21.4 bi;B3;1837;;Jon R. Moeller;pginvestor.com
+711;PGMN3;Pague Menos;PGMN3.SA;R$ 2,60;0,1;R$ 2.9 bi;R$ 123.8 mi;R$ 146.1 mi;R$ 2.9 bi;B3;1981;;;paguemenos.com.br
+712;PHGN34;Philips;PHGN34.SA;R$ 100,53;0;R$ 5.1 bi;R$ 39.0 mi;0;R$ 5.1 bi;B3;1891;;Roy Jakobs;philips.com
+713;PHMO34;Philip Morris International;PHMO34.SA;R$ 227,48;0;R$ 9.1 bi;R$ 2.2 bi;R$ 3.3 bi;R$ 9.1 bi;B3;1847;;Jacek Olczak;pmi.com
+714;PLCR11;Plural Recebiveis Imobiliarios Fundo DE Investimento Imobiliario;PLCR11.SA;R$ 89,65;0;0;0;0;0;FII;2018;;;bancoplural.com
+715;PLPL3;Plano & Plano Desenvolvimento Imobiliario SA;PLPL3.SA;R$ 13,29;0,04;R$ 639.6 mi;R$ 83.1 mi;R$ 147.2 mi;R$ 639.6 mi;B3;1997;;Rodrigo Fairbanks von Uhlendorff;planoeplano.com.br
+716;PMIS11;Paramis Hedge Fund Fundo De Investimento Imobiliario - Fii;PMIS11.SA;R$ 9,07;0;0;0;0;0;FII;2023;;;
+717;PNCS34;PNC Financial Services;PNCS34.SA;R$ 312,63;0;R$ 5.1 bi;R$ 864.0 mi;R$ 4.9 bi;R$ 5.1 bi;B3;1845;;Bill Demchak;pnc.com
+718;PNRC11;Panorama Real Estate Credito Fundo De Investimento Imobiliario;PNRC11.SA;R$ 102,32;0;0;0;0;0;FII;2016;;;panoramacapital.com.br
+719;PNVL3;Dimed;PNVL3.SA;R$ 11,89;0,02;R$ 1.2 bi;R$ 29.0 mi;R$ 126.9 mi;R$ 1.2 bi;B3;1967;;;dimed.com.br
+720;POMO4;Marcopolo;POMO4.SA;R$ 7,18;0,04;R$ 2.0 bi;R$ 277.3 mi;R$ 269.9 mi;R$ 2.0 bi;B3;1949;;James Bellini;marcopolo.com.br
+721;PORD11;Fundo Investimento Imobiliario Vida Nova;PORD11.SA;R$ 9,42;0;R$ 40.4 mi;R$ 33.7 mi;R$ -129.2 mi;R$ 40.4 mi;FII;2014;;;oliveiratrust.com.br
+722;POSI3;Positivo Tecnologia;POSI3.SA;R$ 9,99;0,04;R$ 1.6 bi;R$ 191.9 mi;R$ 126.2 mi;R$ 1.6 bi;B3;1989;;Helio Bruck Rotenberg;positivotecnologia.com.br
+723;PQDP11;Fundo Invest Imobiliario FII Parque Dom Pedro Shopping Center;PQDP11.SA;R$ 2.000,00;0;0;0;0;0;FII;2009;;;btgpactual.com
+724;PRIO3;PRIO;PRIO3.SA;R$ 50,86;0;R$ 3.0 bi;R$ 1.6 bi;R$ 2.8 bi;R$ 3.0 bi;B3;2009;;;prio3.com.br
+725;PRSV11;Fundo de Investimento Imobilario Presidente Vargas;PRSV11.SA;R$ 70,00;0;0;0;0;0;FII;2010;;;hedgeinvest.com.br
+726;PSSA3;Porto;PSSA3.SA;R$ 30,64;0,04;R$ 9.2 bi;R$ 648.5 mi;R$ -2.4 bi;R$ 9.2 bi;B3;1945;;Roberto Santos;portoseguro.com.br
+727;PTBL3;Portobello S/A;PTBL3.SA;R$ 5,92;0,06;R$ 556.2 mi;R$ 14.3 mi;R$ 89.3 mi;R$ 556.2 mi;B3;1977;;Cesar Gomes Jr.;portobello.com.br
+728;PVBI11;Fundo DE Investimento Imobiliário VBI Prime Properties;PVBI11.SA;R$ 101,57;0;0;0;0;0;FII;2020;;;
+729;PYPL34;PayPal;PYPL34.SA;R$ 16,80;0;R$ 8.0 bi;R$ 1.4 bi;R$ 2.6 bi;R$ 8.0 bi;B3;1998;;Alex Chriss;paypal.com
+730;Q1RV34;Qorvo Inc Bdr;Q1RV34.SA;R$ 276,64;0;R$ 1.1 bi;R$ -126.9 mi;R$ 492.9 mi;R$ 1.1 bi;BDR;2015;;Robert A. Bruggeworth;qorvo.com
+731;Q1UA34;Quanta Services Inc Bdr;Q1UA34.SA;R$ 108,99;0;R$ 5.8 bi;R$ 210.9 mi;R$ 1.0 bi;R$ 5.8 bi;BDR;1997;;Earl C. Austin Jr.;quantaservices.com
+732;Q1UE34;Quest Diagnostics;Q1UE34.SA;R$ 328,82;0;R$ 2.3 bi;R$ 192.0 mi;R$ 527.0 mi;R$ 2.3 bi;B3;1967;;James E. Davis;questdiagnostics.com
+733;QCOM34;Qualcomm;QCOM34.SA;R$ 73,46;0;R$ 9.9 bi;R$ 2.8 bi;R$ 3.0 bi;R$ 9.9 bi;B3;1985;;Cristiano Amon;qualcomm.com
+734;QUAL3;Qualicorp Consultoria E Corretora De Seguros SA;QUAL3.SA;R$ 1,47;0;R$ 414.4 mi;R$ -58.7 mi;R$ -6.4 mi;R$ 414.4 mi;B3;1997;;;qualicorp.com.br
+735;R1CL34;Royal Caribbean Cruises Ltd.;R1CL34.SA;R$ 326,33;0;R$ 3.3 bi;R$ 277.1 mi;R$ 1.1 bi;R$ 3.3 bi;B3;1985;;Jason T. Liberty;royalcaribbeangroup.com
+736;R1DY34;Dr. Reddy's Laboratories;R1DY34.SA;R$ 61,45;0;R$ 72.2 bi;R$ 13.8 bi;R$ 4.7 bi;R$ 72.2 bi;B3;1984;;Erez Israeli;drreddys.com
+737;R1EG34;Regency Centers Corp Bdr;R1EG34.SA;R$ 149,55;0;R$ 370.7 mi;R$ 89.8 mi;R$ 171.9 mi;R$ 370.7 mi;BDR;1963;;Lisa Palmer;regencycenters.com
+738;R1EL34;Relx Plc Bdr;R1EL34.SA;R$ 53,10;0;0;0;0;0;BDR;1894;;;
+739;R1FC34;Regions Financial Corporation;R1FC34.SA;R$ 78,16;0;R$ 1.6 bi;R$ 391.0 mi;R$ 855.0 mi;R$ 1.6 bi;B3;1971;;John M Turner Jr;regions.com
+740;R1HI34;Robert Half;R1HI34.SA;R$ 370,00;0;R$ 1.5 bi;R$ 87.3 mi;R$ 114.6 mi;R$ 1.5 bi;B3;1948;;M. Keith Waddell;roberthalf.com
+741;R1IN34;Realty Income;R1IN34.SA;R$ 134,03;0;R$ 1.1 bi;R$ 218.4 mi;R$ 760.7 mi;R$ 1.1 bi;B3;1969;;Sumit Roy;realtyincome.com
+742;R1JF34;Raymond James Financial;R1JF34.SA;R$ 300,55;0;R$ 3.0 bi;R$ 498.0 mi;R$ 543.0 mi;R$ 3.0 bi;B3;1962;;Paul Reilly;raymondjames.com
+743;R1KU34;Roku;R1KU34.SA;R$ 15,58;0;R$ 984.4 mi;R$ -78.3 mi;R$ 16.3 mi;R$ 984.4 mi;B3;2002;;Anthony Wood;roku.com
+744;R1LC34;Ralph Lauren Corporation;R1LC34.SA;R$ 420,97;0;R$ 1.9 bi;R$ 276.6 mi;R$ 605.1 mi;R$ 1.9 bi;B3;1967;;Patrice Louvet;ralphlauren.com
+745;R1MD34;ResMed;R1MD34.SA;R$ 237,84;0;R$ 1.2 bi;R$ 208.8 mi;R$ 272.8 mi;R$ 1.2 bi;B3;1989;;Michael J. Farrell;resmed.com
+746;R1OK34;Rockwell Automation;R1OK34.SA;R$ 361,20;0;R$ 2.0 bi;R$ 215.2 mi;R$ 32.6 mi;R$ 2.0 bi;B3;1903;;Blake D. Moret;rockwellautomation.com
+747;R1OL34;Rollins Inc Bdr;R1OL34.SA;R$ 230,00;0;R$ 754.1 mi;R$ 108.8 mi;R$ 152.8 mi;R$ 754.1 mi;BDR;1948;;Gary Rollins;rollins.com
+748;R1OP34;Roper Technologies Inc Bdr;R1OP34.SA;R$ 280,00;0;R$ 1.6 bi;R$ 389.0 mi;R$ 621.8 mi;R$ 1.6 bi;BDR;1890;;Neil Hunn;ropertech.com
+749;R1SG34;Republic Services Inc Bdr;R1SG34.SA;R$ 474,75;0;R$ 3.8 bi;R$ 439.6 mi;R$ 898.5 mi;R$ 3.8 bi;BDR;1996;;Jon Vander Ark;republicservices.com
+750;R1YA34;Ryanair Holdings Plc Bdr;R1YA34.SA;R$ 89,01;0;R$ 2.7 bi;R$ 14.8 mi;R$ -354.7 mi;R$ 2.7 bi;BDR;1996;;;ryanair.com
+751;R2BL34;Roblox Corporation;R2BL34.SA;R$ 19,68;0;R$ 749.9 mi;R$ -323.7 mi;R$ 143.3 mi;R$ 749.9 mi;B3;2004;;David Baszucki;corp.roblox.com
+752;R2DF34;Redfin;R2DF34.SA;R$ 5,10;0;R$ 218.1 mi;R$ -22.9 mi;R$ -34.7 mi;R$ 218.1 mi;B3;2002;;Glenn Kelman;redfin.com
+753;R2HH34;RH Bdr;R2HH34.SA;R$ 22,64;0;R$ 738.3 mi;R$ 11.4 mi;R$ -114.0 mi;R$ 738.3 mi;BDR;2011;;;rh.com
+754;RADL3;RaiaDrogasil;RADL3.SA;R$ 26,36;0,01;R$ 8.9 bi;R$ 260.8 mi;R$ 674.7 mi;R$ 8.9 bi;B3;2011;;Marcilio D'Amico Pousada;rd.com.br
+755;RAIL3;Rumo SA;RAIL3.SA;R$ 22,42;0;R$ 2.6 bi;R$ -1.4 mi;R$ 1.1 bi;R$ 2.6 bi;B3;2016;;João Alberto Fernandez de Abreu;rumolog.com
+756;RAIZ4;Raizen SA;RAIZ4.SA;R$ 3,10;0,05;R$ 58.5 bi;R$ 779.2 mi;R$ 4.9 bi;R$ 58.5 bi;B3;2011;;;raizen.com.br
+757;RANI3;Celulose Irani;RANI3.SA;R$ 9,31;0,08;R$ 385.0 mi;R$ 7.1 mi;R$ 137.1 mi;R$ 385.0 mi;B3;1941;;Sergio Luiz Cotrim Ribas;irani.com.br
+758;RAPT4;Empresas Randon;RAPT4.SA;R$ 13,17;0,03;R$ 2.6 bi;R$ 55.4 mi;R$ 1.2 bi;R$ 2.6 bi;B3;1949;;;randon.com.br
+759;RBED11;Rio Bravo Renda Educacional;RBED11.SA;R$ 141,06;0;R$ 35.5 mi;R$ 35.1 mi;R$ 60.1 mi;R$ 35.5 mi;FII;2011;;;
+760;RBLG11;Rb Capital Logístico Fundo DE Investimento Imobiliário;RBLG11.SA;R$ 100,00;0;0;0;0;0;FII;2020;;;rbasset.com
+761;RBOP11;Fundo De Investimento Imobiliario Mercantil Do Brasil FII;RBOP11.SA;R$ 389,97;0;0;0;0;0;FII;2011;;;
+762;RBRI11;Fundo DE Investimento Imobiliário - FII RBR Desenvolvimento III;RBRI11.SA;R$ 916,83;0;0;0;0;0;FII;2019;;;rbrasset.com.br
+763;RBRL11;Rbr Log - Fundo DE Investimento Imobiliario;RBRL11.SA;R$ 84,20;0;0;0;0;0;FII;2019;;;rbrasset.com.br
+764;RBTS11;Rb Capital Tfo Situs Fundo Investimento Imobiliario FII;RBTS11.SA;R$ 785,05;0;0;0;0;0;FII;2007;;;oliveiratrust.com.br
+765;RBVA11;Rio Bravo Renda Educacional;RBVA11.SA;R$ 112,98;0;R$ 35.5 mi;R$ 35.1 mi;R$ 60.1 mi;R$ 35.5 mi;FII;2011;;;
+766;RCFF11;Rbr Desenvolvimento Comercial Feeder Fof Fundo DE Inv Imob;RCFF11.SA;R$ 95,00;0;0;0;0;0;FII;2020;;;
+767;RCRB11;Fundo Invest Imobiliario Rio Bravo Renda Corporativa;RCRB11.SA;R$ 161,30;0;0;0;0;0;FII;2000;;;riobravo.com.br
+768;RDOR3;Rede D'Or São Luiz;RDOR3.SA;R$ 24,71;0,01;R$ 11.5 bi;R$ 590.9 mi;R$ -829.4 mi;R$ 11.5 bi;B3;1977;;;rededorsaoluiz.com.br
+769;RECR11;FII REC Recebíveis Imobiliários – (Ticker: “RECR11”);RECR11.SA;R$ 89,12;0;0;0;0;0;FII;2017;;;brltrust.com.br
+770;RECV3;Petroreconcavo SA;RECV3.SA;R$ 21,52;0,02;R$ 689.0 mi;R$ 186.7 mi;R$ 308.2 mi;R$ 689.0 mi;B3;1999;;;petroreconcavo.com.br
+771;RECX11;Rec Fundo DE Fundos - FII Fundo DE Investimento Imobiliário;RECX11.SA;R$ 68,60;0;0;0;0;0;FII;2021;;;rec-gestao.com
+772;REGN34;Regeneron Pharmaceuticals;REGN34.SA;R$ 77,55;0;R$ 3.4 bi;R$ 1.2 bi;R$ 1.1 bi;R$ 3.4 bi;B3;1988;;Leonard Schleifer;regeneron.com
+773;RENT3;Localiza;RENT3.SA;R$ 51,85;0,02;R$ 7.9 bi;R$ 705.8 mi;R$ -2.0 bi;R$ 7.9 bi;B3;1973;;Bruno Lasansky;localiza.com
+774;RFOF11;Fundo DE Investimento Imobiliario RB Capital I Fundo DE Fundos;RFOF11.SA;R$ 78,76;0;0;0;0;0;FII;2020;;;brltrust.com.br
+775;RIGG34;Transocean;RIGG34.SA;R$ 32,79;0;R$ 741.0 mi;R$ -104.0 mi;R$ 98.0 mi;R$ 741.0 mi;B3;1953;;Jeremy D. Thigpen;deepwater.com
+776;RINV11;Real Investor Fundo De Investimento Imobiliario;RINV11.SA;R$ 113,00;0;0;0;0;0;FII;2008;;;realinvestor.com.br
+777;RIOT34;Rio Tinto Plc Bdr;RIOT34.SA;R$ 338,30;0;0;0;0;0;BDR;1873;;;riotinto.com
+778;RMAI11;Domo Fundo de Investimento Imobiliario FII;RMAI11.SA;R$ 70,50;0;R$ 21.2 mi;R$ -1.9 mi;R$ 6.8 mi;R$ 21.2 mi;FII;2013;;;
+779;ROMI3;Romi SA;ROMI3.SA;R$ 12,50;0,04;R$ 386.7 mi;R$ 51.2 mi;R$ 58.0 mi;R$ 386.7 mi;B3;1930;;;romi.com
+780;ROOF11;Fundo De Investimento Imobiliario Rooftop I;ROOF11.SA;R$ 727,20;0;0;0;0;0;FII;2020;;;vortx.com.br
+781;ROST34;Ross Stores;ROST34.SA;R$ 347,40;0;R$ 6.0 bi;R$ 609.7 mi;R$ 948.8 mi;R$ 6.0 bi;B3;1982;;Barbara Rentler;rossstores.com
+782;RPRI11;Rbr Premium Recebiveis Imobiliarios Fundo De Investimento Imobiliario;RPRI11.SA;R$ 99,89;0;0;0;0;0;FII;2022;;;rbrasset.com.br
+783;RRRP3;3R Petroleum Oleo E Gas SA;RRRP3.SA;R$ 35,05;0,01;R$ 1.9 bi;R$ 399.0 mi;R$ 611.5 mi;R$ 1.9 bi;B3;2010;;;3rpetroleum.com.br
+784;RVBI11;Vbr Reits Fof Fundo DE Investimento Imobiliario;RVBI11.SA;R$ 78,72;0;0;0;0;0;FII;2005;;;brltrust.com.br
+785;RYTT34;Raytheon Technologies Corp Bdr;RYTT34.SA;R$ 85,40;0;R$ 19.9 bi;R$ 1.4 bi;R$ 4.7 bi;R$ 19.9 bi;BDR;2020;;Gregory J. Hayes;rtx.com
+786;RZAK11;Riza Akin Fundo DE Investimento Imobiliario - FII;RZAK11.SA;R$ 89,30;0;0;0;0;0;FII;2021;;;rizaasset.com/home
+787;RZTR11;Fundo De Investimento Imobiliário Riza Terrax;RZTR11.SA;R$ 97,99;0;0;0;0;0;FII;2020;;;rizaasset.com
+788;S1BA34;Sba Communications Corp Bdr;S1BA34.SA;R$ 217,00;0;R$ 675.0 mi;R$ 109.5 mi;R$ 432.6 mi;R$ 675.0 mi;BDR;1989;;Jeffrey Stoops;sbasite.com
+789;S1BS34;Sibanye Gold;S1BS34.SA;R$ 13,90;0;R$ 26.6 bi;R$ -22.6 bi;R$ 2.0 bi;R$ 26.6 bi;B3;2012;;Neal John Froneman;sibanyestillwater.com
+790;S1EA34;Sealed Air;S1EA34.SA;R$ 158,15;0;R$ 1.4 bi;R$ 124.0 mi;R$ 323.7 mi;R$ 1.4 bi;B3;1960;;Edward L. Doheny II;sealedair.com
+791;S1HW34;Sherwin-Williams;S1HW34.SA;R$ 163,00;0;R$ 5.3 bi;R$ 356.2 mi;R$ 918.6 mi;R$ 5.3 bi;B3;1866;;Heidi Petz;sherwin-williams.com
+792;S1JM34;The J.M. Smucker Company;S1JM34.SA;R$ 301,01;0;R$ 2.2 bi;R$ 120.4 mi;R$ 406.5 mi;R$ 2.2 bi;B3;1897;;Mark Smucker;jmsmucker.com
+793;S1KM34;SK Telecom;S1KM34.SA;R$ 25,74;0;R$ 4.53;R$ 176.0 bi;R$ 1.21;R$ 4.53;B3;1984;;Ryu Young-sang;sktelecom.com
+794;S1LG34;Sl Green Realty Corp Bdr;S1LG34.SA;R$ 131,95;0;R$ 263.8 mi;R$ -150.0 mi;R$ 48.2 mi;R$ 263.8 mi;BDR;1997;;Marc Holliday;slgreen.com
+795;S1MF34;Sumitomo Mitsui Financial Group;S1MF34.SA;R$ 58,44;0;R$ 1.41;R$ 135.9 bi;0;R$ 1.41;B3;2002;;;smfg.co.jp
+796;S1NA34;Snap-on;S1NA34.SA;R$ 367,78;0;R$ 1.3 bi;R$ 255.3 mi;R$ 296.9 mi;R$ 1.3 bi;B3;1920;;Nicholas T. Pinchuk;snapon.com
+797;S1NN34;Smith & Nephew;S1NN34.SA;R$ 24,51;0;R$ 1.4 bi;R$ 45.5 mi;R$ 247.5 mi;R$ 1.4 bi;B3;1856;;Deepak Nath;smith-nephew.com
+798;S1NP34;Synopsys, Inc.;S1NP34.SA;R$ 714,10;0;R$ 1.6 bi;R$ 449.1 mi;R$ -87.8 mi;R$ 1.6 bi;B3;1986;;Sassine Ghazi;synopsys.com
+799;S1OU34;Southwest Airlines;S1OU34.SA;R$ 147,77;0;R$ 6.8 bi;R$ -252.0 mi;R$ 425.0 mi;R$ 6.8 bi;B3;1967;;Robert E Jordan;southwest.com
+800;S1PL34;Splunk;S1PL34.SA;R$ 39,27;0;R$ 1.5 bi;R$ 426.6 mi;R$ 421.4 mi;R$ 1.5 bi;B3;2003;;Gary Steele;splunk.com
+801;S1PO34;Spotify;S1PO34.SA;R$ 392,54;0;R$ 3.7 bi;R$ -70.0 mi;R$ 397.0 mi;R$ 3.7 bi;B3;2006;;Daniel Ek;open.spotify.com
+802;S1RE34;Sempra Energy;S1RE34.SA;R$ 88,83;0;R$ 3.5 bi;R$ 748.0 mi;R$ 1.1 bi;R$ 3.5 bi;B3;1998;;Jeffrey W. Martin;sempra.com
+803;S1RP34;Sarepta Therapeutics Bdr;S1RP34.SA;R$ 31,86;0;R$ 396.8 mi;R$ 45.7 mi;R$ -54.7 mi;R$ 396.8 mi;BDR;1980;;Douglas S. Ingram;sarepta.com
+804;S1SL34;Skyworks Solutions Inc Bdr;S1SL34.SA;R$ 258,96;0;R$ 1.2 bi;R$ 231.3 mi;R$ 774.9 mi;R$ 1.2 bi;BDR;2002;;Liam Griffin;skyworksinc.com
+805;S1SN34;SS&C Techologies Holdings Bdr;S1SN34.SA;R$ 52,80;0;R$ 1.4 bi;R$ 194.4 mi;R$ 388.4 mi;R$ 1.4 bi;BDR;1986;;William C. Stone;ssctech.com
+806;S1TE34;Steris Plc Bdr;S1TE34.SA;R$ 53,05;0;R$ 1.4 bi;R$ 140.7 mi;R$ 291.2 mi;R$ 1.4 bi;BDR;1985;;Dan Carestio;steris.com
+807;S1TT34;State Street Corporation;S1TT34.SA;R$ 378,98;0;R$ 3.1 bi;R$ 463.0 mi;0;R$ 3.1 bi;B3;1792;;Ronald P. O'Hanley;statestreet.com
+808;S1TX34;Seagate Technology;S1TX34.SA;R$ 446,16;0;R$ 1.6 bi;R$ -19.0 mi;R$ 169.0 mi;R$ 1.6 bi;B3;1979;;Dave Mosley;seagate.com
+809;S1WK34;Stanley Black & Decker;S1WK34.SA;R$ 122,04;0;R$ 3.7 bi;R$ -304.4 mi;R$ 769.3 mi;R$ 3.7 bi;B3;1843;;Donald Allan;stanleyblackanddecker.com
+810;S1YF34;Synchrony Financial Brazilian Depositary Receipt;S1YF34.SA;R$ 213,78;0;R$ 1.9 bi;R$ 440.0 mi;R$ 2.3 bi;R$ 1.9 bi;B3;1932;;Brian D. Doubles;synchrony.com
+811;S1YK34;Stryker Corporation;S1YK34.SA;R$ 88,20;0;R$ 5.8 bi;R$ 1.1 bi;R$ 1.5 bi;R$ 5.8 bi;B3;1941;;Kevin A. Lobo;stryker.com
+812;S1YM34;Symantec;S1YM34.SA;R$ 107,20;0;R$ 951.0 mi;R$ 144.0 mi;R$ 315.0 mi;R$ 951.0 mi;B3;1982;;Vincent Pilette;gendigital.com
+813;S1YY34;Sysco Corporation;S1YY34.SA;R$ 202,34;0;R$ 19.3 bi;R$ 415.2 mi;R$ 768.8 mi;R$ 19.3 bi;B3;1969;;Kevin Hourican;sysco.com
+814;S2QS34;Squarespace Inc Bdr;S2QS34.SA;R$ 31,35;0;R$ 270.7 mi;R$ 5.3 mi;R$ 61.1 mi;R$ 270.7 mi;BDR;2003;;Anthony Casalena;squarespace.com
+815;SANB11;Banco Santander (Brasil) SA;SANB11.SA;R$ 27,05;0;R$ 9.8 bi;R$ 2.0 bi;R$ -12.5 bi;R$ 9.8 bi;B3;1985;;;santander.com.br
+816;SAPP34;SAP SE;SAPP34.SA;R$ 949,00;0;R$ 8.5 bi;R$ 1.3 bi;R$ 2.0 bi;R$ 8.5 bi;B3;1972;;Christian Klein;sap.com
+817;SAPR11;Companhia de Saneamento do Paraná;SAPR11.SA;R$ 24,97;0;R$ 1.7 bi;R$ 364.8 mi;R$ 651.6 mi;R$ 1.7 bi;B3;1963;;Claudio Stabile;sanepar.com.br
+818;SARE11;Santander Renda DE Alugueis Fundo Investimento Imobiliarios;SARE11.SA;R$ 48,60;0;0;0;0;0;FII;2019;;;santander.com.br
+819;SBFG3;Grupo SBF;SBFG3.SA;R$ 13,42;0,01;R$ 2.1 bi;R$ 127.0 mi;R$ 900.8 mi;R$ 2.1 bi;B3;1981;;Pedro Zemel;ri.gruposbf.com.br
+820;SBSP3;Sabesp;SBSP3.SA;R$ 84,96;0,01;R$ 7.3 bi;R$ 1.2 bi;R$ 1.7 bi;R$ 7.3 bi;B3;1973;;Benedito Braga;sabesp.com.br
+821;SBUB34;Starbucks;SBUB34.SA;R$ 433,01;0;R$ 9.4 bi;R$ 1.0 bi;R$ 2.4 bi;R$ 9.4 bi;B3;1971;;Laxman Narasimhan;starbucks.com
+822;SCHW34;The Charles Schwab Corporation;SCHW34.SA;R$ 45,00;0;R$ 4.5 bi;R$ 1.1 bi;R$ 20.0 bi;R$ 4.5 bi;B3;1971;;Walter W Bettinger II;schwab.com
+823;SEER3;Ser Educacional;SEER3.SA;R$ 6,18;0;R$ 482.1 mi;R$ 5.7 mi;R$ 16.4 mi;R$ 482.1 mi;B3;1993;;;sereducacional.com
+824;SEQL3;Sequoia Logistica E Transportes SA;SEQL3.SA;R$ 0,29;0;R$ 125.1 mi;R$ -348.9 mi;R$ -68.7 mi;R$ 125.1 mi;B3;1996;;;sequoialog.com.br
+825;SHOP11;Multi Shoppings Fundo Investimento Imobiliario FII;SHOP11.SA;R$ 59,29;0;0;0;0;0;FII;1995;;;modal.com.br
+826;SIGR11;SIG CAPITAL RECEBÍVEIS PULVERIZADOS FDO INV IMOB;SIGR11.SA;R$ 99,90;0;0;0;0;0;FII;2021;;;btgpactual.com
+827;SIMH3;Simpar;SIMH3.SA;R$ 7,30;0,01;R$ 8.5 bi;R$ -377.2 mi;R$ -2.5 bi;R$ 8.5 bi;B3;1956;;;ri.simpar.com.br
+828;SIMN34;Simon Property Group;SIMN34.SA;R$ 184,49;0;R$ 1.5 bi;R$ 748.3 mi;R$ 1.0 bi;R$ 1.5 bi;B3;1960;;David Simon;simon.com
+829;SJAU11;SJ AU LOGÍSTICA FDO. INV. IMOB.;SJAU11.SA;R$ 66,00;0;0;0;0;0;FII;2020;;;
+830;SLBG34;Schlumberger;SLBG34.SA;R$ 134,82;0;R$ 9.0 bi;R$ 1.1 bi;R$ 3.0 bi;R$ 9.0 bi;B3;1926;;Olivier Le Peuch;slb.com
+831;SLCE3;SLC Agrícola;SLCE3.SA;R$ 19,46;0,05;R$ 1.9 bi;R$ -142.3 mi;R$ 927.8 mi;R$ 1.9 bi;B3;1977;;;slcagricola.com.br
+832;SMFT3;Grupo Smart Fit;SMFT3.SA;R$ 26,57;0,01;R$ 1.1 bi;R$ 633.4 mi;R$ 320.7 mi;R$ 1.1 bi;B3;1996;;;smartfit.com.br
+833;SMTO3;São Martinho;SMTO3.SA;R$ 29,01;0,04;R$ 1.6 bi;R$ 210.6 mi;R$ 358.9 mi;R$ 1.6 bi;B3;1907;;;saomartinho.com.br
+834;SNCI11;Suno Recebiveis Imobiliarios Fdo De Inv Imob;SNCI11.SA;R$ 98,00;0;0;0;0;0;FII;2021;;;suno.com.br
+835;SNEC34;Sony;SNEC34.SA;R$ 431,10;0;R$ 3.75;R$ 363.9 bi;R$ 816.9 bi;R$ 3.75;B3;1946;;Kenichiro Yoshida;sony.com
+836;SNFF11;Suno Fundo De Fundos De Investimento Imobiliário;SNFF11.SA;R$ 92,16;0;0;0;0;0;FII;2021;;;
+837;SOMA3;Grupo De Moda Soma SA;SOMA3.SA;R$ 6,29;0,01;R$ 1.5 bi;R$ -1.9 bi;R$ 174.8 mi;R$ 1.5 bi;B3;2008;;Roberto Luiz Jatahy Gonçalves;somagrupo.com.br
+838;SPGI34;S&P Global;SPGI34.SA;R$ 59,54;0;R$ 3.1 bi;R$ 579.0 mi;R$ 1.3 bi;R$ 3.1 bi;B3;1860;;Douglas L. Peterson;spglobal.com
+839;SPTW11;Sp Downtown Fundo Invest Imobiliario FII;SPTW11.SA;R$ 43,80;0;0;0;0;0;FII;2013;;;spdowntown.com.br
+840;SPXS11;Fundo De Investimento Imobiliario Spx Syn Multiestrategia;SPXS11.SA;R$ 9,37;0;0;0;0;0;FII;2010;;;spxsynfii.com/en
+841;SRXM34;Sirius XM;SRXM34.SA;R$ 16,56;0;R$ 2.3 bi;R$ 352.0 mi;R$ 571.0 mi;R$ 2.3 bi;B3;2008;;Jennifer C. Witz;siriusxm.com/corporate
+842;SSFO34;Salesforce;SSFO34.SA;R$ 68,54;0;R$ 9.3 bi;R$ 1.4 bi;R$ 3.4 bi;R$ 9.3 bi;B3;1999;;Marc Benioff;salesforce.com
+843;STBP3;Santos Brasil;STBP3.SA;R$ 12,71;0,04;R$ 667.0 mi;R$ 225.0 mi;R$ 272.9 mi;R$ 667.0 mi;B3;1997;;Antonio Carlos Duarte Sepúlveda;santosbrasil.com.br
+844;STMN34;STMicroelectronics;STMN34.SA;R$ 212,30;0;R$ 4.3 bi;R$ 850.0 mi;R$ 1.9 bi;R$ 4.3 bi;B3;1987;;Jean-Marc Chery;st.com
+845;STZB34;Constellation Brands;STZB34.SA;R$ 338,98;0;R$ 2.1 bi;R$ 392.4 mi;R$ 433.2 mi;R$ 2.1 bi;B3;1945;;Bill Newlands;cbrands.com
+846;SUZB3;Suzano SA;SUZB3.SA;R$ 61,20;0,01;R$ 10.4 bi;R$ 4.5 bi;R$ 4.6 bi;R$ 10.4 bi;B3;1924;;;suzano.com.br
+847;T1AL34;Tal Education Group Bdr;T1AL34.SA;R$ 6,04;0;R$ 373.5 mi;R$ -23.9 mi;R$ 247.1 mi;R$ 373.5 mi;BDR;2003;;Zhang Bangxin;taleducationgroup.gcs-web.com
+848;T1AM34;Atlassian;T1AM34.SA;R$ 53,36;0;R$ 1.1 bi;R$ -84.5 mi;R$ 289.6 mi;R$ 1.1 bi;B3;2002;;Scott Farquhar;atlassian.com
+849;T1CH34;Bio Techne Corporation Bdr;T1CH34.SA;R$ 11,45;0;R$ 272.6 mi;R$ 27.5 mi;R$ 83.1 mi;R$ 272.6 mi;BDR;1976;;Charles R. Kummeth;bio-techne.com
+850;T1DG34;Transdigm Group Inc Bdr;T1DG34.SA;R$ 124,40;0;R$ 1.8 bi;R$ 382.0 mi;R$ 636.0 mi;R$ 1.8 bi;BDR;1993;;Kevin M. Stein;transdigm.com
+851;T1EC34;Technipfmc Plc Bdr;T1EC34.SA;R$ 124,41;0;R$ 2.1 bi;R$ 19.7 mi;R$ 751.0 mi;R$ 2.1 bi;BDR;2017;;Douglas J. Pferdehirt;technipfmc.com
+852;T1EL34;TE Connectivity;T1EL34.SA;R$ 301,62;0;R$ 3.8 bi;R$ 1.8 bi;R$ 719.0 mi;R$ 3.8 bi;B3;1941;;Terrence Curtin;te.com
+853;T1EV34;Teva;T1EV34.SA;R$ 35,37;0;R$ 4.5 bi;R$ 429.0 mi;R$ 1.2 bi;R$ 4.5 bi;B3;1944;;Richard Francis;tevapharm.com
+854;T1FX34;Teleflex;T1FX34.SA;R$ 109,30;0;R$ 773.9 mi;R$ 31.1 mi;R$ 138.9 mi;R$ 773.9 mi;B3;1943;;Liam Kelly;teleflex.com
+855;T1LK34;Telkom Indonesia;T1LK34.SA;R$ 53,40;0;R$ 37.98;R$ 4.93;R$ 17.8;R$ 37.98;B3;1965;;Ririek Adriansyah;telkom.co.id
+856;T1MU34;T-Mobile US;T1MU34.SA;R$ 408,92;0;R$ 20.5 bi;R$ 2.0 bi;R$ 4.9 bi;R$ 20.5 bi;B3;2001;;Mike Sievert;t-mobile.com
+857;T1OW34;American Tower Corporation;T1OW34.SA;R$ 38,28;0;R$ 2.8 bi;R$ 84.9 mi;R$ 1.1 bi;R$ 2.8 bi;B3;1995;;Steven Vondran;americantower.com
+858;T1RI34;TripAdvisor;T1RI34.SA;R$ 136,76;0;R$ 390.0 mi;R$ 32.0 mi;R$ -19.0 mi;R$ 390.0 mi;B3;2000;;Matt Goldberg;tripadvisor.com
+859;T1RO34;T. Rowe Price;T1RO34.SA;R$ 290,87;0;R$ 1.6 bi;R$ 437.6 mi;R$ -157.4 mi;R$ 1.6 bi;B3;1937;;Robert W. Sharps;troweprice.com
+860;T1SC34;Tractor Supply Company;T1SC34.SA;R$ 70,62;0;R$ 3.7 bi;R$ 247.9 mi;R$ 396.1 mi;R$ 3.7 bi;B3;1938;;Hal Lawton;tractorsupply.com
+861;T1SO34;The Southern Co Brazilian Depositary Receipt;T1SO34.SA;R$ 352,80;0;R$ 6.0 bi;R$ 855.0 mi;R$ 1.8 bi;R$ 6.0 bi;B3;1945;;Christopher C Womack;southerncompany.com
+862;T1SS34;Tenaris;T1SS34.SA;R$ 98,90;0;R$ 3.4 bi;R$ 1.1 bi;R$ 835.7 mi;R$ 3.4 bi;B3;2001;;Paolo Rocca;tenaris.com
+863;T1TW34;Take-Two Interactive;T1TW34.SA;R$ 190,00;0;R$ 1.4 bi;R$ -91.6 mi;R$ -77.0 mi;R$ 1.4 bi;B3;1993;;Strauss Zelnick;take2games.com
+864;T1WL34;Twilio;T1WL34.SA;R$ 12,53;0;R$ 1.1 bi;R$ -365.4 mi;R$ 222.6 mi;R$ 1.1 bi;B3;2008;;Khozema Shipchandler;twilio.com
+865;T1XT34;Textron;T1XT34.SA;R$ 362,97;0;R$ 3.9 bi;R$ 198.0 mi;R$ 533.0 mi;R$ 3.9 bi;B3;1923;;Scott C. Donnelly;textron.com
+866;T2PX34;Tempur Sealy International Inc Bdr;T2PX34.SA;R$ 69,51;0;R$ 1.2 bi;R$ 77.1 mi;R$ 91.1 mi;R$ 1.2 bi;BDR;2012;;Scott L Thompson;tempursealy.com
+867;TAEE11;Taesa S.A.;TAEE11.SA;R$ 36,21;0;R$ 1.3 bi;R$ 481.7 mi;R$ 444.7 mi;R$ 1.3 bi;B3;2000;;Marco Antonio Resende Faria;institucional.taesa.com.br
+868;TAKP34;Takeda Pharmaceutical Company;TAKP34.SA;R$ 68,53;0;R$ 1.11;R$ 105.7 bi;R$ 146.4 bi;R$ 1.11;B3;1781;;Christophe Weber;takeda.com
+869;TASA4;Taurus Armas;TASA4.SA;R$ 12,78;0,07;R$ 419.1 mi;R$ 42.5 mi;R$ 68.4 mi;R$ 419.1 mi;B3;1939;;Salesio Nuhs;taurusarmas.com.br
+870;TEND3;Construtora Tenda;TEND3.SA;R$ 12,10;0;R$ 754.9 mi;R$ -19.6 mi;R$ 323.2 mi;R$ 754.9 mi;B3;1969;;Rodrigo Osmo;tenda.com
+871;TEXA34;Texas Instruments;TEXA34.SA;R$ 56,78;0;R$ 4.1 bi;R$ 1.4 bi;R$ 1.9 bi;R$ 4.1 bi;B3;1930;;Haviv Ilan;ti.com
+872;TGAR11;Fundo Investimento Imobiliario TG Ativo Real;TGAR11.SA;R$ 125,96;0;0;0;0;0;FII;2016;;;intraderdtvm.com.br
+873;TGMA3;Tegma Gestão Logística;TGMA3.SA;R$ 25,09;0,05;R$ 453.8 mi;R$ 51.0 mi;R$ 15.9 mi;R$ 453.8 mi;B3;1969;;;tegma.com.br
+874;TGTB34;Target Corporation;TGTB34.SA;R$ 863,04;0;R$ 31.9 bi;R$ 1.4 bi;R$ 3.3 bi;R$ 31.9 bi;B3;1902;;Brian Cornell;corporate.target.com
+875;THGI34;Hanover Insurance Group Inc BDR;THGI34.SA;R$ 269,73;0;R$ 1.5 bi;R$ 107.9 mi;R$ 92.7 mi;R$ 1.5 bi;BDR;1852;;John C. Roche;hanover.com
+876;TIMS3;TIM Brasil;TIMS3.SA;R$ 17,27;0,06;R$ 6.3 bi;R$ 1.1 bi;R$ 4.8 bi;R$ 6.3 bi;B3;1998;;Alberto Mario Griselli;tim.com.br
+877;TJKB11;TJK RENDA IMOBILIÁRIA FUNDO DE INVESTIMENTO IMOBILIÁRIO;TJKB11.SA;R$ 271,01;0;0;0;0;0;FII;2020;;;unitas.com.br
+878;TJXC34;TJX Companies Inc BDR;TJXC34.SA;R$ 487,10;0;R$ 16.4 bi;R$ 1.4 bi;R$ 2.8 bi;R$ 16.4 bi;BDR;1987;;Ernie Herrman;tjx.com
+879;TLNC34;Telefónica;TLNC34.SA;R$ 21,34;0;R$ 9.3 bi;R$ -2.1 bi;R$ 3.4 bi;R$ 9.3 bi;B3;1924;;José María Álvarez-Pallete López;telefonica.com
+880;TMCO34;Toyota Motor;TMCO34.SA;R$ 77,52;0;R$ 12.04;R$ 1.36;R$ 508.1 bi;R$ 12.04;B3;1937;;Kōji Satō;global.toyota/en
+881;TMOS34;Thermo Fisher Scientific BDR;TMOS34.SA;R$ 60,20;0;R$ 10.9 bi;R$ 1.6 bi;R$ 3.7 bi;R$ 10.9 bi;BDR;1956;;;thermofisher.com
+882;TMPS11;Itau Tempus Fundo De Investimento Imobiliario;TMPS11.SA;R$ 100,13;0;0;0;0;0;FII;2022;;;intrag.com.br
+883;TORD11;TORDESILHAS EI FDO. INV. IMOB.;TORD11.SA;R$ 1,82;0;0;0;0;0;FII;2019;;;vortx.com.br
+884;TOTS3;Totvs;TOTS3.SA;R$ 27,47;0,01;R$ 1.2 bi;R$ 117.6 mi;R$ 296.8 mi;R$ 1.2 bi;B3;1983;;Dennis Herszkowicz;totvs.com
+885;TPRY34;Tapestry;TPRY34.SA;R$ 216,70;0;R$ 2.1 bi;R$ 322.3 mi;R$ 826.5 mi;R$ 2.1 bi;B3;1941;;Joanne C. Crevoiserat;tapestry.com
+886;TRAD3;TC SA;TRAD3.SA;R$ 1,00;0;R$ 13.4 mi;R$ -190.0 mi;R$ -23.4 mi;R$ 13.4 mi;B3;2015;;;tc.com.br
+887;TRBL11;SDI Logistica RIO Fundo Invest Imobiliario FII;TRBL11.SA;R$ 101,00;0;R$ 71.4 mi;R$ 42.5 mi;R$ 61.1 mi;R$ 71.4 mi;FII;2012;;;
+888;TRIS3;TRISUL S.A.;TRIS3.SA;R$ 4,89;0,03;R$ 283.2 mi;R$ 44.5 mi;R$ 85.3 mi;R$ 283.2 mi;B3;2007;;;trisul-sa.com.br
+889;TRPL4;ISA CTEEP;TRPL4.SA;R$ 26,25;0,03;R$ 1.7 bi;R$ 1.0 bi;R$ -81.2 mi;R$ 1.7 bi;B3;1999;;Rui Chammas;isacteep.com.br
+890;TRVC34;The Travelers Companies;TRVC34.SA;R$ 35,24;0;R$ 10.9 bi;R$ 1.6 bi;R$ 2.1 bi;R$ 10.9 bi;B3;1853;;Alan D. Schnitzer;travelers.com
+891;TRXB11;Trx Real Estate Ii Fundo DE Investimento Imobiliario-FII;TRXB11.SA;R$ 144,56;0;0;0;0;0;FII;2020;;;brltrust.com.br
+892;TSER11;Tishman Speyer Renda Corporativa Fundo DE Investimento Imobiliário;TSER11.SA;R$ 100,00;0;0;0;0;0;FII;2019;;;tishmanspeyergestora.com.br
+893;TSLA34;Tesla, Inc.;TSLA34.SA;R$ 27,49;0;R$ 25.2 bi;R$ 7.9 bi;R$ 4.4 bi;R$ 25.2 bi;B3;2003;;Elon Musk;tesla.com
+894;TSMC34;TSMC;TSMC34.SA;R$ 91,80;0;R$ 625.5 bi;R$ 238.7 bi;R$ 394.8 bi;R$ 625.5 bi;B3;1987;;C. C. Wei;tsmc.com
+895;TSNC11;Transinc Fundo DE Investimento Imobiliario-FII;TSNC11.SA;R$ 0,01;0;0;0;0;0;FII;2016;;;
+896;TSNF34;Tyson Foods;TSNF34.SA;R$ 293,00;0;R$ 13.3 bi;R$ 107.0 mi;R$ 1.3 bi;R$ 13.3 bi;B3;1935;;Donnie D. King;tysonfoods.com
+897;TTEN3;Tres Tentos Agroindustrial SA;TTEN3.SA;R$ 10,21;0,01;R$ 3.0 bi;R$ 173.2 mi;R$ 212.3 mi;R$ 3.0 bi;B3;1995;;;3tentos.com.br
+898;TUPY3;Tupy;TUPY3.SA;R$ 27,44;0,02;R$ 2.6 bi;R$ 157.2 mi;R$ 443.3 mi;R$ 2.6 bi;B3;1938;;;tupy.com.br
+899;TXSA34;Ternium;TXSA34.SA;R$ 218,24;0;R$ 4.9 bi;R$ 413.9 mi;R$ 895.5 mi;R$ 4.9 bi;B3;2005;;Paolo Rocca;us.ternium.com
+900;U1AI34;Under Armour;U1AI34.SA;R$ 32,31;0;R$ 1.5 bi;R$ 114.1 mi;R$ 428.9 mi;R$ 1.5 bi;B3;1996;;Stephanie Linnartz;underarmour.com
+901;U1AL34;United Continental Holdings;U1AL34.SA;R$ 107,00;0;R$ 13.6 bi;R$ 600.0 mi;R$ -910.0 mi;R$ 13.6 bi;B3;1968;;Scott Kirby;united.com
+902;U1BE34;Uber;U1BE34.SA;R$ 95,85;0;R$ 9.9 bi;R$ 1.4 bi;R$ 823.0 mi;R$ 9.9 bi;B3;2009;;Dara Khosrowshahi;uber.com
+903;U1DR34;Udr Inc Bdr;U1DR34.SA;R$ 176,00;0;R$ 417.4 mi;R$ 33.0 mi;R$ 219.1 mi;R$ 417.4 mi;BDR;1972;;Thomas W Toomey;udr.com
+904;U1HS34;Universal Health Services Inc Bdr;U1HS34.SA;R$ 188,97;0;R$ 3.7 bi;R$ 216.4 mi;R$ 452.4 mi;R$ 3.7 bi;BDR;1979;;Marc D Miller;uhs.com
+905;U1LT34;ULTA Beauty;U1LT34.SA;R$ 113,60;0;R$ 3.5 bi;R$ 394.4 mi;R$ 1.1 bi;R$ 3.5 bi;B3;1990;;David C. Kimbell;ulta.com
+906;U1NM34;Unum Group Bdr;U1NM34.SA;R$ 253,50;0;R$ 3.1 bi;R$ 330.6 mi;R$ 343.5 mi;R$ 3.1 bi;BDR;1848;;Rick McKenney;unum.com
+907;U1RI34;United Rentals Inc Bdr;U1RI34.SA;R$ 122,64;0;R$ 3.7 bi;R$ 679.0 mi;R$ 1.4 bi;R$ 3.7 bi;BDR;1997;;Matthew John Flannery;unitedrentals.com
+908;U2PW34;Upwork;U2PW34.SA;R$ 12,01;0;R$ 183.9 mi;R$ 17.4 mi;R$ -5.3 mi;R$ 183.9 mi;B3;2013;;Hayden Brown;upwork.com
+909;UBSG34;Ubs Group Ag BDR;UBSG34.SA;R$ 148,05;0;R$ 7.9 bi;R$ -1.4 bi;R$ -14.8 bi;R$ 7.9 bi;BDR;1862;;;ubs.com
+910;UGPA3;Grupo Ultra;UGPA3.SA;R$ 26,92;0,02;R$ 33.4 bi;R$ 1.1 bi;R$ 1.8 bi;R$ 33.4 bi;B3;1937;;Marcos Marinho Lutz;ultra.com.br
+911;ULEV34;Unilever;ULEV34.SA;R$ 239,90;0;R$ 14.6 bi;R$ 1.5 bi;R$ 3.0 bi;R$ 14.6 bi;B3;1929;;Hein Schumacher;unilever.com
+912;UNHH34;UnitedHealth Group;UNHH34.SA;R$ 32,07;0;R$ 94.4 bi;R$ 5.5 bi;R$ -5.2 bi;R$ 94.4 bi;B3;1977;;Andrew Witty;unitedhealthgroup.com
+913;UNIP6;Unipar Carbocloro;UNIP6.SA;R$ 65,45;0,03;R$ 643.6 mi;R$ 160.2 mi;R$ 147.9 mi;R$ 643.6 mi;B3;1969;;Maurício Parolin Russomanno;unipar.com
+914;UPAC34;Union Pacific Corporation;UPAC34.SA;R$ 302,00;0;R$ 6.2 bi;R$ 1.6 bi;R$ 2.4 bi;R$ 6.2 bi;B3;1969;;Jim Vena;up.com
+915;UPSS34;United Parcel Service;UPSS34.SA;R$ 46,45;0;R$ 24.9 bi;R$ 1.6 bi;R$ 2.4 bi;R$ 24.9 bi;B3;1907;;Carol B. Tomé;ups.com
+916;URPR11;Urca Prime Renda Fundo DE Investimento Imobiliario-FII;URPR11.SA;R$ 87,20;0;0;0;0;0;FII;2019;;;urcacp.com.br
+917;USBC34;U.S. Bancorp;USBC34.SA;R$ 55,20;0;R$ 6.2 bi;R$ 847.0 mi;R$ 416.0 mi;R$ 6.2 bi;B3;1929;;Andrew Cecere;usbank.com
+918;USIM5;Usiminas;USIM5.SA;R$ 10,17;0,02;R$ 6.8 bi;R$ 874.5 mi;R$ 883.2 mi;R$ 6.8 bi;B3;1956;;;usiminas.com
+919;USSX34;United States Steel;USSX34.SA;R$ 211,19;0;R$ 4.1 bi;R$ -80.0 mi;R$ 389.0 mi;R$ 4.1 bi;B3;1901;;David B. Burritt;ussteel.com
+920;V1IP34;Vipshop Holdings Bdr;V1IP34.SA;R$ 44,12;0;R$ 34.7 bi;R$ 3.0 bi;0;R$ 34.7 bi;BDR;2008;;Eric Ya Shen;vip.com
+921;V1MC34;Vulcan Materials Co Bdr;V1MC34.SA;R$ 22,48;0;R$ 1.8 bi;R$ 227.4 mi;R$ 481.6 mi;R$ 1.8 bi;BDR;1909;;;vulcanmaterials.com
+922;V1NO34;Vornado Realty Trust Bdr;V1NO34.SA;R$ 140,56;0;R$ 458.8 mi;R$ -45.5 mi;R$ 211.3 mi;R$ 458.8 mi;BDR;1982;;Steven Roth;vno.com
+923;V1OD34;Vodafone;V1OD34.SA;R$ 21,12;0;R$ 11.0 bi;R$ -173.0 mi;R$ 2.8 bi;R$ 11.0 bi;B3;1984;;Margherita Della Valle;vodafone.com
+924;V1RS34;Verisk Analytics Inc Bdr;V1RS34.SA;R$ 15,32;0;R$ 677.2 mi;R$ 174.0 mi;R$ 252.4 mi;R$ 677.2 mi;BDR;1971;;Lee M Shavel;verisk.com
+925;V1TA34;Ventas;V1TA34.SA;R$ 109,89;0;R$ 1.2 bi;R$ -90.8 mi;R$ 279.1 mi;R$ 1.2 bi;B3;1998;;Debra Cafaro;ventasreit.com
+926;V2EE34;Veeva Systems Inc Bdr;V2EE34.SA;R$ 37,00;0;R$ 630.6 mi;R$ 147.4 mi;R$ 57.8 mi;R$ 630.6 mi;BDR;2007;;Peter Gassner;veeva.com
+927;V2ME34;Vimeo, LLC;V2ME34.SA;R$ 3,77;0;R$ 105.5 mi;R$ 8.4 mi;R$ 10.0 mi;R$ 105.5 mi;B3;2004;;;vimeo.com
+928;VALE3;Vale S.A.;VALE3.SA;R$ 62,42;0,1;R$ 64.5 bi;R$ 12.0 bi;R$ 23.6 bi;R$ 64.5 bi;B3;1942;;Eduardo Bartolomeo;vale.com
+929;VAMO3;Vamos Locacao De Caminhoes Maquinas E Equipamentos SA;VAMO3.SA;R$ 8,10;0,03;R$ 1.4 bi;R$ 195.4 mi;R$ -1.0 bi;R$ 1.4 bi;B3;1950;;Gustavo Henrique Braga Couto;grupovamos.com.br
+930;VBBR3;Vibra;VBBR3.SA;R$ 24,67;0,03;R$ 43.7 bi;R$ 3.3 bi;R$ 1.3 bi;R$ 43.7 bi;B3;1971;;;vibraenergia.com.br
+931;VCJR11;Vectis Juros Real Fundo DE Investimento Imobiliario-FII;VCJR11.SA;R$ 95,87;0;0;0;0;0;FII;2019;;;vectis.com.br
+932;VERZ34;Verizon Communications;VERZ34.SA;R$ 33,96;0;R$ 35.1 bi;R$ -2.7 bi;R$ 8.7 bi;R$ 35.1 bi;B3;1983;;Hans Vestberg;verizon.com
+933;VFCO34;VF Corporation;VFCO34.SA;R$ 33,66;0;R$ 3.0 bi;R$ -42.5 mi;R$ 1.1 bi;R$ 3.0 bi;B3;1899;;;vfc.com
+934;VGHF11;Valora Hedge Fund Fundo De Investimento Imobiliário - Fii;VGHF11.SA;R$ 9,19;0;0;0;0;0;FII;2021;;;daycoval.com.br
+935;VIFI11;Vinci Instrumentos Financeiros Fundo DE Investimento Imobiliario;VIFI11.SA;R$ 8,23;0;0;0;0;0;FII;2019;;;brltrust.com.br
+936;VISA34;Visa;VISA34.SA;R$ 70,65;0;R$ 8.6 bi;R$ 4.9 bi;R$ 3.6 bi;R$ 8.6 bi;B3;1958;;Ryan McInerney;visa.com
+937;VISC11;Vinci Shopping Centers Fundo Investimento Imobiliario-FII;VISC11.SA;R$ 122,30;0;0;0;0;0;FII;2009;;;vincipartners.com
+938;VIVA3;Vivara Participacoes SA;VIVA3.SA;R$ 22,78;0,01;R$ 778.1 mi;R$ 144.2 mi;R$ 141.0 mi;R$ 778.1 mi;B3;1962;;;vivara.com.br
+939;VIVT3;Telefônica Brasil;VIVT3.SA;R$ 51,85;0,03;R$ 13.5 bi;R$ 1.6 bi;R$ 3.8 bi;R$ 13.5 bi;B3;1973;;Christian Gebara;telefonica.com.br
+940;VLID3;Valid;VLID3.SA;R$ 17,33;0,04;R$ 633.5 mi;R$ 35.6 mi;R$ 269.4 mi;R$ 633.5 mi;B3;1957;;Ivan Murias;valid.com
+941;VLOE34;Valero Energy Corporation;VLOE34.SA;R$ 444,40;0;R$ 34.0 bi;R$ 1.2 bi;R$ 1.2 bi;R$ 34.0 bi;B3;1980;;R. Lane Riggs;valero.com
+942;VLYB34;Valley National Bancorp BDR;VLYB34.SA;R$ 37,36;0;R$ 424.8 mi;R$ 71.5 mi;R$ -278.6 mi;R$ 424.8 mi;BDR;1927;;;valley.com
+943;VOTS11;VOTORANTIM SECURITIES MASTER FDO INV IMOB - FII;VOTS11.SA;R$ 82,00;0;0;0;0;0;FII;2018;;;
+944;VRSN34;VeriSign;VRSN34.SA;R$ 252,50;0;R$ 380.4 mi;R$ 264.7 mi;R$ 204.2 mi;R$ 380.4 mi;B3;1995;;James Bidzos;verisign.com
+945;VRTA11;Fator Verita Fundo de Investimento Imobiliario - FII;VRTA11.SA;R$ 89,85;0;0;0;0;0;FII;2011;;;bancofator.com.br
+946;VRTX34;Vertex Pharmaceuticals;VRTX34.SA;R$ 516,63;0;R$ 2.5 bi;R$ 968.8 mi;R$ 234.6 mi;R$ 2.5 bi;B3;1989;;Reshma Kewalramani;vrtx.com
+947;VULC3;Vulcabras;VULC3.SA;R$ 16,43;0,02;R$ 791.3 mi;R$ 144.7 mi;R$ 114.0 mi;R$ 791.3 mi;B3;1952;;Alexandre Grendene Bartelle;vulcabrasri.com
+948;W1AB34;Wabtec;W1AB34.SA;R$ 374,30;0;R$ 2.5 bi;R$ 215.0 mi;R$ 686.0 mi;R$ 2.5 bi;B3;1869;;Rafael Santana;wabteccorp.com
+949;W1BO34;Weibo Corp Bdr;W1BO34.SA;R$ 9,77;0;R$ 463.7 mi;R$ 83.2 mi;0;R$ 463.7 mi;BDR;2010;;Gaofei Wang;ir.weibo.com
+950;W1DA34;Workday, Inc.;W1DA34.SA;R$ 85,60;0;R$ 1.9 bi;R$ 1.2 bi;R$ 995.6 mi;R$ 1.9 bi;B3;2005;;Carl M. Eschenbach;workday.com
+951;W1DC34;Western Digital;W1DC34.SA;R$ 366,48;0;R$ 3.0 bi;R$ -287.0 mi;R$ -92.0 mi;R$ 3.0 bi;B3;1970;;David Goeckeler;westerndigital.com
+952;W1EC34;Wec Energy Group Inc Bdr;W1EC34.SA;R$ 206,85;0;R$ 2.2 bi;R$ 218.5 mi;R$ 480.0 mi;R$ 2.2 bi;BDR;1981;;Scott J. Lauber;wecenergygroup.com
+953;W1EL34;Welltower Inc Bdr;W1EL34.SA;R$ 229,31;0;R$ 1.8 bi;R$ 83.9 mi;R$ 370.5 mi;R$ 1.8 bi;BDR;1970;;Shankh Mitra;welltower.com
+954;W1HR34;Whirlpool Corporation;W1HR34.SA;R$ 139,23;0;R$ 5.1 bi;R$ 491.0 mi;R$ 1.2 bi;R$ 5.1 bi;B3;1911;;Marc Bitzer;whirlpoolcorp.com
+955;W1IX34;Wix.com;W1IX34.SA;R$ 21,78;0;R$ 403.8 mi;R$ 3.0 mi;R$ 90.4 mi;R$ 403.8 mi;B3;2006;;Avishai Abrahami;
+956;W1LT34;Willis Towers Watson;W1LT34.SA;R$ 335,00;0;R$ 2.9 bi;R$ 622.0 mi;R$ 522.0 mi;R$ 2.9 bi;B3;2016;;Carl Hess;wtwco.com
+957;W1MB34;Williams Companies, Inc.;W1MB34.SA;R$ 196,27;0;R$ 2.5 bi;R$ 1.1 bi;R$ 1.8 bi;R$ 2.5 bi;B3;1908;;Alan S. Armstrong;williams.com
+958;W1MC34;Waste Management, Inc;W1MC34.SA;R$ 525,20;0;R$ 5.2 bi;R$ 493.0 mi;R$ 1.4 bi;R$ 5.2 bi;B3;1968;;James C. Fish Jr.;wm.com
+959;W1MG34;Warner Music Group Corporation Bdr;W1MG34.SA;R$ 43,00;0;R$ 1.8 bi;R$ 159.0 mi;R$ 293.0 mi;R$ 1.8 bi;BDR;1929;;;wmg.com
+960;W1PP34;WPP Group;W1PP34.SA;R$ 48,00;0;R$ 3.8 bi;R$ -800;R$ 841.1 mi;R$ 3.8 bi;B3;1971;;Mark Read;wpp.com
+961;W1RB34;Wr Berkley Corporation Bdr;W1RB34.SA;R$ 33,94;0;R$ 3.2 bi;R$ 397.3 mi;R$ 698.1 mi;R$ 3.2 bi;BDR;1967;;William R Berkley Jr;berkley.com
+962;W1SO34;Watsco Inc Bdr;W1SO34.SA;R$ 77,22;0;R$ 1.6 bi;R$ 82.5 mi;R$ 298.6 mi;R$ 1.6 bi;BDR;1925;;Albert H. Nahmad;watsco.com
+963;W1YC34;Weyerhaeuser Co Bdr;W1YC34.SA;R$ 171,36;0;R$ 1.8 bi;R$ 219.0 mi;R$ 288.0 mi;R$ 1.8 bi;BDR;1900;;Devin W. Stockfish;weyerhaeuser.com
+964;W1YN34;Wynn Resorts;W1YN34.SA;R$ 210,54;0;R$ 1.8 bi;R$ 729.2 mi;R$ 441.3 mi;R$ 1.8 bi;B3;2002;;Craig Billings;wynnresorts.com
+965;W2ST34;West Pharmaceutical Services, Inc.;W2ST34.SA;R$ 54,80;0;R$ 732.0 mi;R$ 137.0 mi;R$ 239.1 mi;R$ 732.0 mi;B3;1923;;Eric M. Green;westpharma.com
+966;W2YF34;Wayfair LLC;W2YF34.SA;R$ 8,80;0;R$ 3.1 bi;R$ -174.0 mi;R$ 158.0 mi;R$ 3.1 bi;B3;2002;;Niraj Shah;wayfair.com
+967;WABC34;Western Alliance Bancorporation BDR;WABC34.SA;R$ 307,00;0;R$ 672.9 mi;R$ 147.9 mi;R$ 341.2 mi;R$ 672.9 mi;BDR;1994;;Kenneth Vecchione;westernalliancebancorporation.com
+968;WALM34;Walmart;WALM34.SA;R$ 19,53;0;R$ 173.4 bi;R$ 5.5 bi;R$ 16.7 bi;R$ 173.4 bi;B3;1962;;Doug McMillon;corporate.walmart.com
+969;WATC34;Waters Corporation;WATC34.SA;R$ 394,00;0;R$ 819.5 mi;R$ 216.2 mi;R$ 230.1 mi;R$ 819.5 mi;B3;1958;;Udit Batra;waters.com
+970;WEGE3;WEG S.A.;WEGE3.SA;R$ 37,99;0,01;R$ 8.6 bi;R$ 1.7 bi;R$ 1.9 bi;R$ 8.6 bi;B3;1961;;Harry Schmelzer Jr.;weg.net/institutional/BR/en
+971;WFCO34;Wells Fargo;WFCO34.SA;R$ 72,25;0;R$ 19.9 bi;R$ 4.6 bi;0;R$ 19.9 bi;B3;1852;;Charles W. Scharf;wellsfargo.com
+972;WGBA34;Walgreens Boots Alliance;WGBA34.SA;R$ 45,90;0;R$ 37.0 bi;R$ -5.9 bi;R$ -637.0 mi;R$ 37.0 bi;B3;2014;;Tim Wentworth;walgreensbootsalliance.com
+973;WHGR11;WHG Real Estate Fundo De Investimento Imobiliario - FII;WHGR11.SA;R$ 9,95;0;0;0;0;0;FII;2020;;;bancogenial.com
+974;WIZC3;Wiz Soluções e Corretagem de Seguros S.A.;WIZC3.SA;R$ 7,06;0,03;R$ 321.9 mi;R$ 58.2 mi;R$ 118.1 mi;R$ 321.9 mi;B3;1973;;Heverton Pessoa de Melo Peixoto;wiz.co
+975;WSEC11;Warren Securities Fundo De Investimento Imobiliario Fii;WSEC11.SA;R$ 83,69;0;0;0;0;0;FII;2021;;;warren.com.br
+976;WUNI34;Western Union;WUNI34.SA;R$ 68,04;0;R$ 1.1 bi;R$ 127.0 mi;R$ 264.5 mi;R$ 1.1 bi;B3;1851;;Devin McGranahan;westernunion.com
+977;X1EL34;Xcel Energy;X1EL34.SA;R$ 152,00;0;R$ 3.4 bi;R$ 409.0 mi;R$ 974.0 mi;R$ 3.4 bi;B3;1909;;Bob Frenzel;
+978;X1YL34;Xylem;X1YL34.SA;R$ 249,00;0;R$ 2.1 bi;R$ 266.0 mi;R$ 455.0 mi;R$ 2.1 bi;B3;2011;;;xylem.com
+979;XPBR31;XP Inc;XPBR31.SA;R$ 119,11;0;R$ 3.9 bi;R$ 1.0 bi;R$ 4.1 bi;R$ 3.9 bi;B3;2001;;Thiago Maffra;
+980;XPCI11;Xp Credito Imobiliario-Fundo DE Investimento Imobiliario;XPCI11.SA;R$ 89,54;0;0;0;0;0;FII;2019;;;xpasset.com.br/xpcreditoimobiliario
+981;XPIN11;Xp Industrial Fundo Investimento Imobiliario;XPIN11.SA;R$ 80,45;0;0;0;0;0;FII;2023;;;vortx.com.br
+982;XPLG11;XP LOG FUNDO DE INVESTIMENTO IMOBILIÁRIO;XPLG11.SA;R$ 108,58;0;0;0;0;0;FII;2016;;;xplog.riweb.com.br
+983;XPML11;XP Malls FII;XPML11.SA;R$ 116,02;0;0;0;0;0;FII;2017;;;xpmalls.com.br
+984;XRAY34;Dentsply Sirona;XRAY34.SA;R$ 167,00;0;R$ 1.0 bi;R$ 67.0 mi;R$ 160.0 mi;R$ 1.0 bi;B3;1899;;Simon Campion;dentsplysirona.com
+985;XRXB34;Xerox;XRXB34.SA;R$ 87,12;0;R$ 1.8 bi;R$ -58.0 mi;R$ 389.0 mi;R$ 1.8 bi;B3;1906;;Steven Bandrowczak;xerox.com
+986;YDUQ3;YDUQS;YDUQ3.SA;R$ 14,87;0,05;R$ 1.2 bi;R$ -121.0 mi;0;R$ 1.2 bi;B3;1970;;Eduardo Parente Menezes;yduqs.com.br
+987;YUMR34;Yum! Brands;YUMR34.SA;R$ 330,75;0;R$ 2.0 bi;R$ 463.0 mi;R$ 448.0 mi;R$ 2.0 bi;B3;1997;;David Gibbs;yum.com
+988;Z1BH34;Zimmer Holdings Inc.;Z1BH34.SA;R$ 158,25;0;R$ 1.9 bi;R$ 419.2 mi;R$ 588.4 mi;R$ 1.9 bi;B3;1927;;Ivan Tornos;zimmerbiomet.com
+989;Z1BR34;Zebra Technologies;Z1BR34.SA;R$ 50,15;0;R$ 1.0 bi;R$ 17.0 mi;R$ 141.0 mi;R$ 1.0 bi;B3;1969;;Bill Burns;zebra.com
+990;Z1IO34;Zions Bancorporation;Z1IO34.SA;R$ 203,50;0;R$ 731.0 mi;R$ 126.0 mi;R$ -245.0 mi;R$ 731.0 mi;B3;1873;;Harris H Simmons;zionsbancorporation.com
+991;Z1OM34;ZOOM;Z1OM34.SA;R$ 12,67;0;R$ 1.1 bi;R$ 298.8 mi;R$ 351.2 mi;R$ 1.1 bi;B3;2011;;Eric Yuan;zoom.us
+992;Z1TO34;Zto Express Cayman Bdr;Z1TO34.SA;R$ 25,55;0;R$ 10.6 bi;R$ 2.2 bi;R$ 3.9 bi;R$ 10.6 bi;BDR;2002;;Meisong Lai;ir.zto.com
+993;Z1TS34;Zoetis Inc Bdr;Z1TS34.SA;R$ 47,80;0;R$ 2.2 bi;R$ 525.0 mi;R$ 897.0 mi;R$ 2.2 bi;BDR;1952;;Kristin C. Peck;zoetis.com
+994;Z2LL34;Zillow;Z2LL34.SA;R$ 19,30;0;R$ 474.0 mi;R$ -73.0 mi;R$ 86.0 mi;R$ 474.0 mi;B3;2014;;Rich Barton;zillowgroup.com
+995;ZAMP3;Zamp SA;ZAMP3.SA;R$ 3,04;0;R$ 1.1 bi;R$ 59.3 mi;R$ 211.4 mi;R$ 1.1 bi;B3;2004;;;burgerking.com.br
+Created 2024-04-15T15:38:39.250Z;;;;;;;;;;;;;;

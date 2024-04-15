@@ -1,8 +1,12 @@
-# Realizando um Scrip Python para Scalping Trading Strategy
+# Realizando uma Analise para Scalping Trading Strategy
 
 ## Intro
 
-A intencao desse script é automatizar a compra e venda de acoes com a estrategia `Scalping Trading Strategy` usando dados da API [FinancialModelingPrep’s (FMP)](https://site.financialmodelingprep.com/developer/).
+Navegando na internet vi um artigo que dizia que este metodo no qual vamos analisar abaixo era efetivo em 74% das vezes, o que chamou atencao, como pode um metodo tao simples ser tao efetivo, é a chance de qualquer pessoa ficar rica...Pensei.
+
+[Eis o link](https://medium.datadriveninvestor.com/creating-a-scalping-strategy-in-python-with-a-74-win-rate-53a17662ff03)
+
+Mas não é bem assim... Vejamos.
 
 `Scalping Trading Strategy` consiste em uma estrategia simples de compra de venda de acoes baseada em condicoes simples que sao listadas abaixo:
 
@@ -12,20 +16,6 @@ A intencao desse script é automatizar a compra e venda de acoes com a estrategi
 
 Enfim, a meta é não criar estrategias mirabolantes...
 
-https://medium.datadriveninvestor.com/creating-a-scalping-strategy-in-python-with-a-74-win-rate-53a17662ff03
+Vamos tentar analisar se essa estrategia é vantajosa, se sua simplicidade nos daria algum retorno financeiro e vamos mais alem tentando mostrar, quanto seria esse retorno financeiro.
 
-## Importando Bibliotecas
-
-```pyhton
-
-import requests
-import pandas as pd
-import matplotlib.pyplot as plt
-from termcolor import colored as cl
-import numpy as np
-import math
-```
-
-## Extraindo Dados
-
-Extrair os dados sera muito importante para o que pretendemos fazer aqui e como ja comentado, vamos utilizar a API [FinancialModelingPrep’s (FMP)](https://site.financialmodelingprep.com/developer/).
+Siga lendo no arquivo `.ipynb` de nome : `scalping`. La tratamos com mais detalhes.
