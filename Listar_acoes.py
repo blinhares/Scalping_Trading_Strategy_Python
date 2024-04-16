@@ -125,7 +125,7 @@ def main():
                 print('-'*80)
 
     print(df_saida)
-    df_saida.to_parquet(ROOT_DIR_FILES / 'df_saida.parquet')
+    df_saida.to_csv(ROOT_DIR_FILES / 'df_saida.csv')
 
 if __name__ == '__main__':
     main()
